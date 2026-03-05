@@ -350,27 +350,37 @@ function bindGuildDetailUI(){
       return;
     }
 
-    try{
-      const serverFile = encodeURIComponent(server) + ".json";
-const url = `./snapshots/detail_${dateKey}/${serverFile}`;
-const res = await fetch(url, { cache: "no-store" });
-if (!res.ok) throw new Error(`detail fetch 실패: ${res.status} / ${url}`);
+   try {
+  const serverRaw = String(server ?? "");
 
-      const data = await res.json();
-      const g = data?.guilds?.[guild];
-      if (!g) {
-        showModal(guild, `${server} / ${dateKey}`, `<div style="opacity:.85;">집계 데이터 없음</div>`, "");
-        return;
-      }
+  // ✅ 서버명 정규화: 앞뒤 공백 제거 + 연속 공백 1개로 + NBSP 제거
+  const serverNorm = serverRaw
+    .replace(/\u00A0/g, " ")     // NBSP → 일반 공백
+    .replace(/\s+/g, " ")        // 공백/줄바꿈 여러개 → 1개
+    .trim();                     // 앞뒤 공백 제거
 
-      const clsHtml = renderKeyValueTable(g.byClass, "직업", "인원");
-      const grdHtml = renderKeyValueTable(g.byGrade, "등급", "인원");
+  const serverFile = encodeURIComponent(serverNorm) + ".json";
+  const url = `./snapshots/detail_${dateKey}/${serverFile}`;
 
-      showModal(guild, `${server} / ${dateKey} / 총원 ${g.members}명`, clsHtml, grdHtml);
-    }catch(err){
-      alert("상세 불러오기 실패: " + err.message);
-      console.error(err);
-    }
+  const res = await fetch(url, { cache: "no-store" });
+  if (!res.ok) throw new Error(`detail fetch 실패: ${res.status} / ${url}`);
+
+  const data = await res.json();
+
+  // ✅ guild도 혹시 모르니 trim 한 번
+  const guildKey = String(guild ?? "").trim();
+  const g = data?.guilds?.[guildKey];
+
+  if (!g) {
+    showModal(guildKey, `${serverNorm} / ${dateKey}`, `<div style="opacity:.85;">집계 데이터 없음</div>`, "");
+    return;
+  }
+
+  ...
+} catch (err) {
+  alert("상세 불러오기 실패: " + err.message);
+  console.error(err);
+}
   });
 }
 
