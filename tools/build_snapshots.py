@@ -13,10 +13,8 @@ for file in os.listdir(UPLOAD_DIR):
         path = os.path.join(UPLOAD_DIR, file)
         wb = load_workbook(path, data_only=True)
 
-        if "통합정렬" not in wb.sheetnames:
-            continue
-
-        ws = wb["통합정렬"]
+        sheet = wb.sheetnames[0]
+        ws = wb[sheet]
 
         rows = []
         for r in ws.iter_rows(min_row=2, values_only=True):
