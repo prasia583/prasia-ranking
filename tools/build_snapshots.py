@@ -3,80 +3,76 @@ import json
 from openpyxl import load_workbook
 
 UPLOAD_DIR = "uploads"
-OUTPUT_DIR = os.path.join("site", "snapshots")  # ✅ Pages에서 바로 읽게 site 아래로
+OUTPUT_DIR = "snapshots"
 
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+def safe_str(v):
+    if v is None:
+        return ""
+    return str(v).strip()
 
-def to_int(x):
-    """숫자/문자/None 섞여도 안전하게 int로 변환"""
-    if x is None:
+def safe_num(v):
+    if v is None or v == "":
         return None
-    if isinstance(x, (int, float)):
-        return int(x)
-    s = str(x).strip()
-    if s == "":
-        return None
-    # "1,234" 같은 케이스
-    s = s.replace(",", "")
     try:
-        return int(float(s))
+        # 엑셀 숫자/문자 모두 처리
+        return float(v) if (isinstance(v, float) or isinstance(v, int)) else float(str(v).replace(",", ""))
     except:
         return None
 
-def to_str(x):
-    if x is None:
-        return ""
-    return str(x).strip()
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# uploads 폴더에 있는 모든 xlsx 처리
-for file in os.listdir(UPLOAD_DIR):
-    if not file.lower().endswith(".xlsx"):
+index = []  # snapshots/index.json 목록 만들기
+
+for fname in sorted(os.listdir(UPLOAD_DIR)):
+    if not fname.lower().endswith(".xlsx"):
         continue
 
-    path = os.path.join(UPLOAD_DIR, file)
+    path = os.path.join(UPLOAD_DIR, fname)
     wb = load_workbook(path, data_only=True)
 
-    # ✅ 시트 우선순위: "통합랭킹" 있으면 그걸, 없으면 첫 시트
-    if "통합랭킹" in wb.sheetnames:
-        ws = wb["통합랭킹"]
-    else:
-        ws = wb[wb.sheetnames[0]]
+    # ✅ 시트 이름을 고정하지 말고 "첫 시트"를 사용 (시트명 때문에 실패하는 경우 방지)
+    sheet_name = wb.sheetnames[0]
+    ws = wb[sheet_name]
 
     rows = []
-    # ✅ 2행부터 읽기 (1행이 헤더라고 가정)
+    # 2행부터: 1행은 헤더라고 가정
     for r in ws.iter_rows(min_row=2, values_only=True):
-        if not r:
+        # r은 튜플. 길이가 짧을 수 있으니 안전하게 꺼내기
+        rank = r[0] if len(r) > 0 else None
+        guild = r[1] if len(r) > 1 else None
+        server = r[2] if len(r) > 2 else None
+        hunt_score = r[3] if len(r) > 3 else None
+        level_score = r[4] if len(r) > 4 else None
+        total_score = r[5] if len(r) > 5 else None
+
+        # rank가 비어있으면 스킵
+        if rank is None or safe_str(rank) == "":
             continue
 
-        # ✅ 길이 부족하면 6칸까지 채움 (r[0]~r[5] 안전)
-        r = list(r)
-        if len(r) < 6:
-            r += [None] * (6 - len(r))
+        rows.append({
+            "rank": safe_str(rank),
+            "guild": safe_str(guild),
+            "server": safe_str(server),
+            "hunt_score": safe_num(hunt_score),
+            "level_score": safe_num(level_score),
+            "total_score": safe_num(total_score),
+        })
 
-        rank = to_int(r[0])
-        guild = to_str(r[1])
-        server = to_str(r[2])
-
-        # ✅ 필수값 없으면 스킵 (빈 줄/중간 구분줄 같은 것)
-        if rank is None and guild == "" and server == "":
-            continue
-
-        item = {
-            "rank": rank,
-            "guild": guild,
-            "server": server,
-            "hunt_score": to_int(r[3]),
-            "level_score": to_int(r[4]),
-            "total_score": to_int(r[5]),
-        }
-        rows.append(item)
-
-    out_name = file[:-5] + ".json"  # .xlsx 제거
+    out_name = fname.rsplit(".", 1)[0] + ".json"
     out_path = os.path.join(OUTPUT_DIR, out_name)
 
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ wrote {out_path} ({len(rows)} rows)")
+    index.append({
+        "file": out_name,
+        "label": fname.rsplit(".", 1)[0],   # 드롭다운 표시용
+        "sheet": sheet_name,
+        "count": len(rows)
+    })
 
-print("✅ Snapshots created")
+# ✅ snapshots 목록 파일 생성 (사이트에서 이걸 읽게 할거임)
+with open(os.path.join(OUTPUT_DIR, "index.json"), "w", encoding="utf-8") as f:
+    json.dump(index, f, ensure_ascii=False, indent=2)
+
+print("Snapshots created:", len(index))
