@@ -8,31 +8,35 @@ OUTPUT_DIR = "snapshots"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 for file in os.listdir(UPLOAD_DIR):
-    if file.endswith(".xlsx"):
 
-        path = os.path.join(UPLOAD_DIR, file)
-        wb = load_workbook(path, data_only=True)
+    if not file.endswith(".xlsx"):
+        continue
 
-        sheet = wb.sheetnames[0]
-        ws = wb[sheet]
+    path = os.path.join(UPLOAD_DIR, file)
 
-        rows = []
-        for r in ws.iter_rows(min_row=2, values_only=True):
-            if not r[0]:
-                continue
+    wb = load_workbook(path, data_only=True)
+    sheet = wb.sheetnames[0]
+    ws = wb[sheet]
 
-            rows.append({
-                "rank": r[0],
-                "guild": r[1],
-                "server": r[2],
-                "hunt_score": r[3],
-                "level_score": r[4],
-                "total_score": r[5]
-            })
+    rows = []
 
-        name = file.replace(".xlsx", ".json")
+    for r in ws.iter_rows(min_row=2, values_only=True):
 
-        with open(f"{OUTPUT_DIR}/{name}", "w", encoding="utf-8") as f:
-            json.dump(rows, f, ensure_ascii=False, indent=2)
+        if not r[0]:
+            continue
+
+        rows.append({
+            "rank": r[0],
+            "guild": r[1],
+            "server": r[2],
+            "hunt_score": r[3],
+            "level_score": r[4],
+            "total_score": r[5]
+        })
+
+    name = file.replace(".xlsx", ".json")
+
+    with open(f"{OUTPUT_DIR}/{name}", "w", encoding="utf-8") as f:
+        json.dump(rows, f, ensure_ascii=False, indent=2)
 
 print("Snapshots created")
