@@ -4,6 +4,11 @@ let FILTERED_ROWS = [];         // 검색 적용된 rows
 
 let PAGE_SIZE = 100;
 let CURRENT_PAGE = 1;
+function getDateKeyFromFile(fileName){
+  // ranking_2026_03_05.json -> 2026_03_05
+  const m = String(fileName || "").match(/(\d{4}_\d{2}_\d{2})/);
+  return m ? m[1] : null;
+}
 
 function toNum(v) {
   if (v === null || v === undefined || v === "") return 0;
@@ -46,6 +51,7 @@ async function loadSnapshots() {
 
     bindSearchUI();
     bindPagerUI();
+    bindGuildDetailUI();
 
     // ✅ 최초 로드
     await loadRanking(select.value);
@@ -262,7 +268,7 @@ function renderRows(rows){
   let html = "";
   for (const x of rows) {
     html += `
-      <tr>
+      <tr data-guild="${escapeHtml(x.guild)}" data-server="${escapeHtml(x.server)}" style="cursor:pointer;">
         <td class="delta-cell ${x.moveClass}">${escapeHtml(x.moveText)}</td>
         <td>${x.curRank || ""}</td>
         <td>${escapeHtml(x.guild)}</td>
@@ -316,5 +322,99 @@ function renderPager(total, totalPages, from, to){
     numsEl.innerHTML = html;
   }
 }
+function bindGuildDetailUI(){
+  const tbody = document.getElementById("rank");
+  const modal = document.getElementById("guildModal");
+  const closeBtn = document.getElementById("gmClose");
 
+  if (closeBtn) closeBtn.addEventListener("click", hideModal);
+  if (modal) modal.addEventListener("click", (e) => {
+    if (e.target === modal) hideModal();
+  });
+
+  if (!tbody) return;
+
+  // tbody 안의 tr 클릭 시 detail 로드
+  tbody.addEventListener("click", async (e) => {
+    const tr = e.target.closest("tr");
+    if (!tr) return;
+
+    const guild = tr.getAttribute("data-guild") || "";
+    const server = tr.getAttribute("data-server") || "";
+    if (!guild || !server) return;
+
+    const fileName = document.getElementById("date")?.value; // 예: ranking_2026_03_05.json
+    const dateKey = getDateKeyFromFile(fileName);
+    if (!dateKey) {
+      alert("날짜키를 못 찾았어요. 파일명에 2026_03_05 형태가 있어야 합니다.");
+      return;
+    }
+
+    try{
+      const url = `./snapshots/detail_${dateKey}/${encodeURIComponent(server)}.json`;
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`detail fetch 실패: ${res.status}`);
+
+      const data = await res.json();
+      const g = data?.guilds?.[guild];
+      if (!g) {
+        showModal(guild, `${server} / ${dateKey}`, `<div style="opacity:.85;">집계 데이터 없음</div>`, "");
+        return;
+      }
+
+      const clsHtml = renderKeyValueTable(g.byClass, "직업", "인원");
+      const grdHtml = renderKeyValueTable(g.byGrade, "등급", "인원");
+
+      showModal(guild, `${server} / ${dateKey} / 총원 ${g.members}명`, clsHtml, grdHtml);
+    }catch(err){
+      alert("상세 불러오기 실패: " + err.message);
+      console.error(err);
+    }
+  });
+}
+
+function renderKeyValueTable(obj, col1, col2){
+  const entries = Object.entries(obj || {});
+  if (entries.length === 0) return `<div style="opacity:.85;">데이터 없음</div>`;
+
+  // 인원 내림차순 정렬
+  entries.sort((a,b) => (b[1]||0) - (a[1]||0));
+
+  let html = `<table style="width:100%; border-collapse:collapse; font-size:12px;">
+    <thead>
+      <tr>
+        <th style="text-align:left; border-bottom:1px solid #23324a; padding:6px;">${escapeHtml(col1)}</th>
+        <th style="text-align:right; border-bottom:1px solid #23324a; padding:6px;">${escapeHtml(col2)}</th>
+      </tr>
+    </thead><tbody>`;
+
+  for (const [k,v] of entries){
+    html += `<tr>
+      <td style="padding:6px; border-bottom:1px solid rgba(35,50,74,.6);">${escapeHtml(k)}</td>
+      <td style="padding:6px; border-bottom:1px solid rgba(35,50,74,.6); text-align:right;">${Number(v||0).toLocaleString()}</td>
+    </tr>`;
+  }
+  html += `</tbody></table>`;
+  return html;
+}
+
+function showModal(title, sub, clsHtml, grdHtml){
+  const modal = document.getElementById("guildModal");
+  const t = document.getElementById("gmTitle");
+  const s = document.getElementById("gmSub");
+  const c = document.getElementById("gmClass");
+  const g = document.getElementById("gmGrade");
+
+  if (t) t.textContent = title;
+  if (s) s.textContent = sub;
+  if (c) c.innerHTML = clsHtml;
+  if (g) g.innerHTML = grdHtml;
+
+  if (modal) modal.style.display = "block";
+}
+
+function hideModal(){
+  const modal = document.getElementById("guildModal");
+  if (modal) modal.style.display = "none";
+}
 loadSnapshots();
