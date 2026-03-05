@@ -324,9 +324,12 @@ function renderPager(total, totalPages, from, to){
   }
 }
 
-/* =========================
-   ✅ 상세 모달 (결사 클릭)
-========================= */
+/**
+ * ✅ 핵심 포인트:
+ * - detail 폴더 파일명이 "%EB..." 형태로 저장되어 있어서
+ * - fetch할 때는 "%를 문자로" 취급하도록 %를 한번 더 인코딩해야 함
+ * => encodeURIComponent(encodeURIComponent(serverName))
+ */
 function bindGuildDetailUI(){
   const tbody = document.getElementById("rank");
   const modal = document.getElementById("guildModal");
@@ -362,23 +365,23 @@ function bindGuildDetailUI(){
         .replace(/\s+/g, " ")
         .trim();
 
-      // ✅ 후보들: "별세이즈 03" / "별세이즈03" / "별세이즈03"(전체공백제거)
+      // ✅ 후보들 (서버명 공백 형태가 다를 수 있어서 3개 시도)
       const candidates = [
         serverNorm,
-        serverNorm.replace(/\s+(\d+)$/, "$1"), // 끝 숫자 앞 공백 제거: " 03" -> "03"
-        serverNorm.replace(/\s+/g, ""),        // 모든 공백 제거
+        serverNorm.replace(/\s+(\d+)$/, "$1"),  // 끝 숫자 앞 공백 제거: " 03" -> "03"
+        serverNorm.replace(/\s+/g, ""),         // 모든 공백 제거
       ];
 
-      // ✅ 후보 URL 순서대로 시도
       let data = null;
       let lastErr = null;
 
       for (const s of candidates) {
-        const serverFile = encodeURIComponent(s) + ".json";
+        // ✅✅✅ 여기 핵심: 이중 인코딩
+        const serverFile = encodeURIComponent(encodeURIComponent(s)) + ".json";
         const url = `./snapshots/detail_${dateKey}/${serverFile}`;
 
         console.log("try server =", JSON.stringify(s), "->", serverFile);
-        console.log("fetch url =", url);
+        console.log("fetch url  =", url);
 
         const res = await fetch(url, { cache: "no-store" });
         if (res.ok) {
@@ -391,7 +394,6 @@ function bindGuildDetailUI(){
 
       if (!data) throw new Error(`detail fetch 실패: ${lastErr}`);
 
-      // guild 키도 trim
       const guildKey = String(guild ?? "").trim();
       const g = data?.guilds?.[guildKey];
 
@@ -403,12 +405,7 @@ function bindGuildDetailUI(){
       const clsHtml = renderKeyValueTable(g.byClass, "직업", "인원");
       const grdHtml = renderKeyValueTable(g.byGrade, "등급", "인원");
 
-      showModal(
-        guildKey,
-        `${serverNorm} / ${dateKey} / 총원 ${Number(g.members || 0).toLocaleString()}명`,
-        clsHtml,
-        grdHtml
-      );
+      showModal(guildKey, `${serverNorm} / ${dateKey} / 총원 ${g.members}명`, clsHtml, grdHtml);
 
     } catch (err) {
       alert("상세 불러오기 실패: " + err.message);
@@ -417,15 +414,14 @@ function bindGuildDetailUI(){
   });
 }
 
-/* =========================
-   ✅ 모달 표 렌더 (크게 + 가운데)
-========================= */
 function renderKeyValueTable(obj, col1, col2){
   const entries = Object.entries(obj || {});
   if (entries.length === 0) return `<div style="opacity:.85;">데이터 없음</div>`;
 
+  // 인원 내림차순 정렬
   entries.sort((a,b) => (b[1]||0) - (a[1]||0));
 
+  // ✅ 글씨 크게 + 가운데 정렬 통일
   let html = `<table style="width:100%; border-collapse:collapse; font-size:16px;">
     <thead>
       <tr>
@@ -440,6 +436,7 @@ function renderKeyValueTable(obj, col1, col2){
       <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${Number(v||0).toLocaleString()}</td>
     </tr>`;
   }
+
   html += `</tbody></table>`;
   return html;
 }
@@ -464,5 +461,4 @@ function hideModal(){
   if (modal) modal.style.display = "none";
 }
 
-// ✅ 시작
 loadSnapshots();
