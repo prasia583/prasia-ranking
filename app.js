@@ -421,20 +421,24 @@ function renderKeyValueTable(obj, col1, col2){
   // 인원 내림차순 정렬
   entries.sort((a,b) => (b[1]||0) - (a[1]||0));
 
-  // ✅ 글씨 크게 + 가운데 정렬 통일
-  let html = `<table style="width:100%; border-collapse:collapse; font-size:16px;">
+  let html = `
+  <table style="width:100%; border-collapse:collapse; font-size:16px;">
     <thead>
       <tr>
         <th style="text-align:center; border-bottom:1px solid #23324a; padding:10px;">${escapeHtml(col1)}</th>
         <th style="text-align:center; border-bottom:1px solid #23324a; padding:10px;">${escapeHtml(col2)}</th>
       </tr>
-    </thead><tbody>`;
+    </thead>
+    <tbody>
+  `;
 
   for (const [k,v] of entries){
-    html += `<tr>
-      <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${escapeHtml(k)}</td>
-      <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${Number(v||0).toLocaleString()}</td>
-    </tr>`;
+    html += `
+      <tr>
+        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${escapeHtml(k)}</td>
+        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${Number(v||0).toLocaleString()}</td>
+      </tr>
+    `;
   }
 
   html += `</tbody></table>`;
