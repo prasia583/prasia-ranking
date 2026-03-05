@@ -1,6 +1,7 @@
 let SNAP_LIST = [];
 let CURRENT_VIEW_ROWS = [];     // 계산된 전체 rows
 let FILTERED_ROWS = [];         // 검색 적용된 rows
+
 let PAGE_SIZE = 100;
 let CURRENT_PAGE = 1;
 
@@ -46,11 +47,12 @@ async function loadSnapshots() {
     bindSearchUI();
     bindPagerUI();
 
+    // ✅ 최초 로드
     await loadRanking(select.value);
 
+    // ✅ 날짜 변경 시만 데이터 로드/계산
     select.addEventListener("change", async (e) => {
       await loadRanking(e.target.value);
-      // 날짜 바뀌면 검색 유지한 채로 1페이지부터 다시
       CURRENT_PAGE = 1;
       applySearch();
     });
@@ -79,6 +81,7 @@ function bindSearchUI(){
     applySearch();
   });
 
+  // ✅ 엔터 검색
   if (form) {
     form.addEventListener("submit", (e) => {
       e.preventDefault();
@@ -93,29 +96,48 @@ function bindSearchUI(){
       }
     });
   }
+
   // ✅ input 실시간 렌더 금지
 }
 
 function bindPagerUI(){
-  // pager는 renderPager에서 이벤트를 위임 방식으로 처리
-  const pager = document.getElementById("pager");
-  if (!pager) return;
+  const pageSize = document.getElementById("pageSize");
+  const btnFirst = document.getElementById("btnFirst");
+  const btnPrev  = document.getElementById("btnPrev");
+  const btnNext  = document.getElementById("btnNext");
+  const btnLast  = document.getElementById("btnLast");
 
-  pager.addEventListener("click", (e) => {
-    const t = e.target;
-    if (!(t instanceof HTMLElement)) return;
+  // ✅ 페이지당 변경
+  if (pageSize) {
+    PAGE_SIZE = toNum(pageSize.value) || 100;
+    pageSize.addEventListener("change", () => {
+      PAGE_SIZE = toNum(pageSize.value) || 100;
+      CURRENT_PAGE = 1;
+      renderCurrentPage();
+    });
+  }
 
-    const action = t.getAttribute("data-action");
-    if (!action) return;
+  // ✅ 이동 버튼
+  if (btnFirst) btnFirst.addEventListener("click", () => {
+    CURRENT_PAGE = 1;
+    renderCurrentPage();
+  });
 
+  if (btnPrev) btnPrev.addEventListener("click", () => {
+    if (CURRENT_PAGE > 1) CURRENT_PAGE--;
+    renderCurrentPage();
+  });
+
+  if (btnNext) btnNext.addEventListener("click", () => {
     const totalPages = Math.max(1, Math.ceil(FILTERED_ROWS.length / PAGE_SIZE));
+    if (CURRENT_PAGE < totalPages) CURRENT_PAGE++;
+    renderCurrentPage();
+  });
 
-    if (action === "prev" && CURRENT_PAGE > 1) CURRENT_PAGE--;
-    if (action === "next" && CURRENT_PAGE < totalPages) CURRENT_PAGE++;
-    if (action === "first") CURRENT_PAGE = 1;
-    if (action === "last") CURRENT_PAGE = totalPages;
-
-    renderCurrentPage(); // ✅ 페이지 이동은 렌더만 다시
+  if (btnLast) btnLast.addEventListener("click", () => {
+    const totalPages = Math.max(1, Math.ceil(FILTERED_ROWS.length / PAGE_SIZE));
+    CURRENT_PAGE = totalPages;
+    renderCurrentPage();
   });
 }
 
@@ -177,7 +199,6 @@ async function loadRanking(fileName) {
       return { curRank, guild, server, total, moveText, moveClass, scoreText, scoreClass };
     });
 
-    // ✅ 날짜 바뀔 때는 1페이지부터
     CURRENT_PAGE = 1;
     applySearch();
 
@@ -240,20 +261,23 @@ function renderRows(rows){
 }
 
 function renderPager(total, totalPages, from, to){
-  const pager = document.getElementById("pager");
-  if (!pager) return;
+  const infoEl = document.getElementById("pagerInfo");
+  const pageEl = document.getElementById("pagerPage");
+  const btnFirst = document.getElementById("btnFirst");
+  const btnPrev  = document.getElementById("btnPrev");
+  const btnNext  = document.getElementById("btnNext");
+  const btnLast  = document.getElementById("btnLast");
 
-  const prevDisabled = CURRENT_PAGE <= 1 ? "disabled" : "";
-  const nextDisabled = CURRENT_PAGE >= totalPages ? "disabled" : "";
+  if (infoEl) infoEl.innerHTML = `표시: <b>${total ? (from + 1) : 0}</b>~<b>${to}</b> / 전체 <b>${total}</b>`;
+  if (pageEl) pageEl.innerHTML = `<b>${CURRENT_PAGE}</b> / ${totalPages}`;
 
-  pager.innerHTML = `
-    <div class="info">표시: <b>${from + 1}</b>~<b>${to}</b> / 전체 <b>${total}</b> (페이지당 ${PAGE_SIZE})</div>
-    <button data-action="first" ${prevDisabled}>처음</button>
-    <button data-action="prev" ${prevDisabled}>이전</button>
-    <div class="page"><b>${CURRENT_PAGE}</b> / ${totalPages}</div>
-    <button data-action="next" ${nextDisabled}>다음</button>
-    <button data-action="last" ${nextDisabled}>마지막</button>
-  `;
+  const prevDisabled = CURRENT_PAGE <= 1 || totalPages <= 1;
+  const nextDisabled = CURRENT_PAGE >= totalPages || totalPages <= 1;
+
+  if (btnFirst) btnFirst.disabled = prevDisabled;
+  if (btnPrev)  btnPrev.disabled  = prevDisabled;
+  if (btnNext)  btnNext.disabled  = nextDisabled;
+  if (btnLast)  btnLast.disabled  = nextDisabled;
 }
 
 loadSnapshots();
