@@ -351,7 +351,7 @@ function bindGuildDetailUI(){
     }
 
     try{
-      const url = `./snapshots/detail_${dateKey}/${encodeURIComponent((server||"").trim())}.json`;
+      const url = `./snapshots/detail_${dateKey}/${server}.json`;
 const res = await fetch(url, { cache: "no-store" });
 if (!res.ok) throw new Error(`detail fetch 실패: ${res.status} / ${url}`);
 
