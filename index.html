@@ -1,82 +1,55 @@
-async function fetchJSON(url) {
-  const res = await fetch(url, { cache: "no-store" });
-  if (!res.ok) throw new Error(`${url} -> ${res.status}`);
-  return res.json();
-}
-
-function $(id) { return document.getElementById(id); }
-
-let allRows = [];
-let currentFile = "";
-
-function renderTable(rows) {
-  const tbody = $("tbody");
-  tbody.innerHTML = "";
-
-  for (const row of rows) {
-    const tr = document.createElement("tr");
-    tr.innerHTML = `
-      <td>${row.rank ?? ""}</td>
-      <td>${row.server ?? ""}</td>
-      <td>${row.guild ?? ""}</td>
-      <td>${row.hunt_score ?? ""}</td>
-      <td>${row.level_score ?? ""}</td>
-      <td>${row.total_score ?? ""}</td>
-    `;
-    tbody.appendChild(tr);
-  }
-
-  $("count").textContent = `${rows.length} rows`;
-  $("current").textContent = currentFile ? currentFile : "-";
-}
-
-function applyFilter() {
-  const q = ($("search").value || "").trim().toLowerCase();
-  if (!q) return renderTable(allRows);
-
-  const filtered = allRows.filter(r =>
-    String(r.rank ?? "").toLowerCase().includes(q) ||
-    String(r.server ?? "").toLowerCase().includes(q) ||
-    String(r.guild ?? "").toLowerCase().includes(q)
-  );
-  renderTable(filtered);
-}
-
-async function loadSnapshot(file) {
-  currentFile = file;
-  // ✅ Pages에서는 repo 경로가 있으니 "슬래시로 시작하면" 안됨
-  allRows = await fetchJSON(`./snapshots/${file}`);
-  applyFilter();
-}
-
-async function init() {
-  try {
-    const idx = await fetchJSON("./snapshots/index.json");
-
-    const sel = $("date");
-    sel.innerHTML = "";
-
-    if (!idx.length) {
-      $("status").textContent = "snapshots/index.json은 있지만 목록이 비어있음 (uploads에 xlsx가 없거나 파싱 결과가 0일 수 있음)";
-      return;
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>프라시아 결사 랭킹</title>
+  <style>
+    body{
+      font-family: Arial;
+      background:#0b0f17;
+      color:white;
+      padding:30px
     }
+    table{ border-collapse:collapse; width:100% }
+    th,td{ border:1px solid #333; padding:8px }
+    th{ background:#111a2a }
+    select,input{ padding:6px; margin:5px }
+    .muted{ color:#9bb0d0; font-size:12px }
+  </style>
+</head>
+<body>
+  <h1>프라시아 결사 랭킹</h1>
 
-    for (const item of idx) {
-      const opt = document.createElement("option");
-      opt.value = item.file;
-      opt.textContent = `${item.label} (${item.count})`;
-      sel.appendChild(opt);
-    }
+  <div class="muted">
+    status: <span id="status">-</span> /
+    file: <span id="current">-</span> /
+    <span id="count">0 rows</span>
+  </div>
 
-    sel.addEventListener("change", () => loadSnapshot(sel.value));
-    $("search").addEventListener("input", applyFilter);
+  <div style="margin-top:12px">
+    날짜
+    <select id="date"></select>
 
-    await loadSnapshot(sel.value);
-    $("status").textContent = "loaded";
-  } catch (e) {
-    console.error(e);
-    $("status").textContent = `ERROR: ${e.message}`;
-  }
-}
+    검색
+    <input id="search" placeholder="랭크/서버/결사 검색" />
+  </div>
 
-init();
+  <table style="margin-top:12px">
+    <thead>
+      <tr>
+        <th>랭크</th>
+        <th>서버</th>
+        <th>결사</th>
+        <th>사냥점수</th>
+        <th>레벨점수</th>
+        <th>총점</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+
+  <!-- ✅ 여기 절대 /app.js 쓰지 말고 ./app.js -->
+  <script src="./app.js"></script>
+</body>
+</html>
