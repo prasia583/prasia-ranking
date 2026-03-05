@@ -18,7 +18,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,10 +35,9 @@ jobs:
         run: |
           python tools/build_snapshots.py
 
-                - name: Build detail (guild class/grade counts)
+      - name: Build detail (guild class/grade counts)
         run: |
           python tools/build_detail.py
-          
 
       - name: Deploy site to gh-pages
         uses: peaceiris/actions-gh-pages@v4
