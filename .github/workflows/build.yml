@@ -34,6 +34,11 @@ jobs:
         run: |
           python tools/build_snapshots.py
 
+                - name: Build detail (guild class/grade counts)
+        run: |
+          python tools/build_detail.py
+          
+
       - name: Deploy site to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
