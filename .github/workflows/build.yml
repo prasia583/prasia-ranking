@@ -1,0 +1,37 @@
+name: build ranking
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - uploads/**
+      - tools/**
+      - site/**
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v4
+
+    - name: install python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: install library
+      run: |
+        pip install openpyxl
+
+    - name: build snapshots
+      run: |
+        python tools/build_snapshots.py
+
+    - name: deploy site
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
