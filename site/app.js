@@ -4,8 +4,18 @@ let FILTERED_ROWS = [];
 
 let PAGE_SIZE = 100;
 let CURRENT_PAGE = 1;
-let CURRENT_OVERALL_STATS = { label: "", levelStats: [], huntGradeStats: [] };
-let CURRENT_STAT_MEMBERS = { label: "", levelMembers: {}, huntGradeMembers: {} };
+
+let CURRENT_OVERALL_STATS = {
+  label: "",
+  levelStats: [],
+  huntGradeStats: []
+};
+
+let CURRENT_STAT_MEMBERS = {
+  label: "",
+  levelMembers: {},
+  huntGradeMembers: {}
+};
 
 let MEMBER_LIST_STATE = {
   type: "",
@@ -65,11 +75,6 @@ function normalizeRow(r){
   };
 }
 
-/**
- * 이전 데이터 비교용 인덱스
- * 1) guild+server 정확 일치
- * 2) guild 단독 후보 목록
- */
 function buildPrevIndexes(rows){
   const exactMap = new Map();
   const guildMap = new Map();
@@ -87,9 +92,6 @@ function buildPrevIndexes(rows){
   return { exactMap, guildMap };
 }
 
-/**
- * 현재 데이터에서 결사명 중복 개수 집계
- */
 function buildGuildCountMap(rows){
   const m = new Map();
   for (const raw of rows) {
@@ -100,12 +102,6 @@ function buildGuildCountMap(rows){
   return m;
 }
 
-/**
- * 비교 대상 찾기 우선순위
- * 1. guild+server 정확 일치
- * 2. 정확 일치가 없고, 현재/이전 모두 해당 결사명이 1개뿐이면 guild 단독 매칭
- * 3. 그 외는 매칭 안 함(NEW)
- */
 function findPreviousRow(curRow, prevIndexes, currentGuildCounts){
   const exactKey = keyOfGuildServer(curRow.guild, curRow.server);
   const exact = prevIndexes.exactMap.get(exactKey);
@@ -262,8 +258,10 @@ function bindPagerUI(){
       if (!(t instanceof HTMLElement)) return;
       const p = t.getAttribute("data-page");
       if (!p) return;
+
       const page = toNum(p);
       if (!page) return;
+
       CURRENT_PAGE = page;
       renderCurrentPage();
     });
@@ -275,6 +273,56 @@ async function fetchRows(fileName) {
   if (!res.ok) throw new Error(`${fileName} HTTP ${res.status}`);
   const rows = await res.json();
   return Array.isArray(rows) ? rows : [];
+}
+
+async function loadOverallStats(fileName){
+  try {
+    const meta = SNAP_LIST.find(x => x.file === fileName);
+    const statsFile = meta?.statsFile || (`stats_${String(fileName)}`);
+
+    const res = await fetch(`./snapshots/${statsFile}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`${statsFile} HTTP ${res.status}`);
+
+    const data = await res.json();
+
+    CURRENT_OVERALL_STATS = {
+      label: data?.label || "",
+      levelStats: Array.isArray(data?.levelStats) ? data.levelStats : [],
+      huntGradeStats: Array.isArray(data?.huntGradeStats) ? data.huntGradeStats : [],
+    };
+  } catch (err) {
+    console.error("전체 통계 로드 실패:", err);
+    CURRENT_OVERALL_STATS = {
+      label: "",
+      levelStats: [],
+      huntGradeStats: [],
+    };
+  }
+}
+
+async function loadOverallStatMembers(fileName){
+  try {
+    const meta = SNAP_LIST.find(x => x.file === fileName);
+    const statsMembersFile = meta?.statsMembersFile || (`stats_members_${String(fileName)}`);
+
+    const res = await fetch(`./snapshots/${statsMembersFile}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`${statsMembersFile} HTTP ${res.status}`);
+
+    const data = await res.json();
+
+    CURRENT_STAT_MEMBERS = {
+      label: data?.label || "",
+      levelMembers: data?.levelMembers || {},
+      huntGradeMembers: data?.huntGradeMembers || {},
+    };
+  } catch (err) {
+    console.error("레벨/등급별 캐릭터 목록 로드 실패:", err);
+    CURRENT_STAT_MEMBERS = {
+      label: "",
+      levelMembers: {},
+      huntGradeMembers: {},
+    };
+  }
 }
 
 async function loadRanking(fileName) {
@@ -299,7 +347,10 @@ async function loadRanking(fileName) {
     const currentGuildCounts = buildGuildCountMap(curRows);
 
     CURRENT_VIEW_ROWS = curRows.map((r) => {
-      const found = prevFile ? findPreviousRow(r, prevIndexes, currentGuildCounts) : { prev: null, matchType: "none" };
+      const found = prevFile
+        ? findPreviousRow(r, prevIndexes, currentGuildCounts)
+        : { prev: null, matchType: "none" };
+
       const prev = found.prev;
 
       let moveText = "-";
@@ -433,7 +484,6 @@ function renderPager(total, totalPages, from, to){
 
   if (numsEl) {
     const MAX_BTNS = 10;
-
     let startPage = Math.max(1, CURRENT_PAGE - Math.floor(MAX_BTNS / 2));
     let endPage = startPage + MAX_BTNS - 1;
 
@@ -482,7 +532,6 @@ function bindGuildDetailUI(){
 
     try {
       const serverNorm = normalizeText(server);
-
       const candidates = [
         serverNorm,
         serverNorm.replace(/\s+(\d+)$/, "$1"),
@@ -529,7 +578,6 @@ function bindGuildDetailUI(){
         clsHtml,
         grdHtml
       );
-
     } catch (err) {
       alert("상세 불러오기 실패: " + err.message);
       console.error(err);
@@ -541,7 +589,7 @@ function renderKeyValueTable(obj, col1, col2){
   const entries = Object.entries(obj || {});
   if (entries.length === 0) return `<div style="opacity:.85;">데이터 없음</div>`;
 
-  entries.sort((a,b) => (b[1]||0) - (a[1]||0));
+  entries.sort((a,b) => (b[1] || 0) - (a[1] || 0));
 
   let html = `
     <table style="width:100%; border-collapse:collapse; font-size:16px; table-layout:fixed;">
@@ -554,11 +602,11 @@ function renderKeyValueTable(obj, col1, col2){
       <tbody>
   `;
 
-  for (const [k,v] of entries){
+  for (const [k, v] of entries){
     html += `
       <tr>
         <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">${escapeHtml(k)}</td>
-        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">${Number(v||0).toLocaleString("ko-KR")}</td>
+        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">${Number(v || 0).toLocaleString("ko-KR")}</td>
       </tr>
     `;
   }
@@ -587,54 +635,6 @@ function hideModal(){
   if (modal) modal.style.display = "none";
 }
 
-async function loadOverallStats(fileName){
-  try {
-    const meta = SNAP_LIST.find(x => x.file === fileName);
-    const statsFile = meta?.statsFile || (`stats_${String(fileName)}`);
-
-    const res = await fetch(`./snapshots/${statsFile}`, { cache: "no-store" });
-    if (!res.ok) throw new Error(`${statsFile} HTTP ${res.status}`);
-
-    const data = await res.json();
-
-    CURRENT_OVERALL_STATS = {
-      label: data?.label || "",
-      levelStats: Array.isArray(data?.levelStats) ? data.levelStats : [],
-      huntGradeStats: Array.isArray(data?.huntGradeStats) ? data.huntGradeStats : [],
-    };
-  } catch (err) {
-    console.error("전체 통계 로드 실패:", err);
-    CURRENT_OVERALL_STATS = {
-      label: "",
-      levelStats: [],
-      huntGradeStats: [],
-    };
-  }
-}
-async function loadOverallStatMembers(fileName){
-  try {
-    const meta = SNAP_LIST.find(x => x.file === fileName);
-    const statsMembersFile = meta?.statsMembersFile || (`stats_members_${String(fileName)}`);
-
-    const res = await fetch(`./snapshots/${statsMembersFile}`, { cache: "no-store" });
-    if (!res.ok) throw new Error(`${statsMembersFile} HTTP ${res.status}`);
-
-    const data = await res.json();
-
-    CURRENT_STAT_MEMBERS = {
-      label: data?.label || "",
-      levelMembers: data?.levelMembers || {},
-      huntGradeMembers: data?.huntGradeMembers || {},
-    };
-  } catch (err) {
-    console.error("레벨/등급별 캐릭터 목록 로드 실패:", err);
-    CURRENT_STAT_MEMBERS = {
-      label: "",
-      levelMembers: {},
-      huntGradeMembers: {},
-    };
-  }
-}
 function bindOverallStatsUI(){
   const btn = document.getElementById("btnOverallStats");
   const modal = document.getElementById("overallModal");
@@ -643,18 +643,18 @@ function bindOverallStatsUI(){
   if (btn) {
     btn.addEventListener("click", () => {
       const levelHtml = renderOverallStatTable(
-  CURRENT_OVERALL_STATS.levelStats,
-  "level",
-  "레벨",
-  "level"
-);
+        CURRENT_OVERALL_STATS.levelStats,
+        "level",
+        "레벨",
+        "level"
+      );
 
-const gradeHtml = renderOverallStatTable(
-  CURRENT_OVERALL_STATS.huntGradeStats,
-  "grade",
-  "토벌등급",
-  "grade"
-);
+      const gradeHtml = renderOverallStatTable(
+        CURRENT_OVERALL_STATS.huntGradeStats,
+        "grade",
+        "토벌등급",
+        "grade"
+      );
 
       showOverallModal(
         "전체 통계",
@@ -668,16 +668,17 @@ const gradeHtml = renderOverallStatTable(
   if (closeBtn) closeBtn.addEventListener("click", hideOverallModal);
 
   if (modal) {
-  modal.addEventListener("click", (e) => {
-    if (e.target === modal) hideOverallModal();
+    modal.addEventListener("click", (e) => {
+      if (e.target === modal) hideOverallModal();
 
-    const btn = e.target.closest(".stat-open-members");
-    if (!btn) return;
+      const btnEl = e.target.closest(".stat-open-members");
+      if (!btnEl) return;
 
-    const type = btn.getAttribute("data-type");
-    const key = btn.getAttribute("data-key");
-    openMemberListModal(type, key);
-  });
+      const type = btnEl.getAttribute("data-type");
+      const key = btnEl.getAttribute("data-key");
+      openMemberListModal(type, key);
+    });
+  }
 }
 
 function renderOverallStatTable(rows, keyField, keyLabel, clickType){
@@ -747,6 +748,7 @@ function hideOverallModal(){
   const modal = document.getElementById("overallModal");
   if (modal) modal.style.display = "none";
 }
+
 function openMemberListModal(type, key){
   let rows = [];
 
@@ -765,6 +767,7 @@ function openMemberListModal(type, key){
   };
 
   renderMemberListModal();
+
   const modal = document.getElementById("memberListModal");
   if (modal) modal.style.display = "block";
 }
@@ -887,4 +890,5 @@ function bindMemberListModalUI(){
     });
   }
 }
+
 loadSnapshots();
