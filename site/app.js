@@ -571,12 +571,12 @@ openGuildFilteredMemberList(type, key);
     try {
            const serverNorm = normalizeText(server);
       const candidates = Array.from(new Set([
-  serverNorm.replace(/\s+/g, ""),   // 벨세이즈03 먼저
-  serverNorm,                       // 벨세이즈 03
+  serverNorm.replace(/\s+/g, ""),   // 벨세이즈03
   serverNorm.replace(/\s+(\d+)$/, "$1"),
+  serverNorm.replace(/[^\w가-힣]+/g, ""),
+  serverNorm,
   serverNorm.replace(/\s+/g, "_"),
-  serverNorm.replace(/\s+/g, "-"),
-  serverNorm.replace(/[^\w가-힣]+/g, "")
+  serverNorm.replace(/\s+/g, "-")
 ]));
 
       let data = null;
