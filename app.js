@@ -582,24 +582,24 @@ openGuildFilteredMemberList(type, key);
       let data = null;
       let lastErr = null;
 
-      for (const s of candidates) {
-        const serverFile = encodeURIComponent(s) + ".json";
-        const url = `./snapshots/detail_${dateKey}/${serverFile}`;
+     for (const s of candidates) {
+  const serverFile = encodeURIComponent(s) + ".json";
+  const url = `./detail_${dateKey}/${serverFile}`;
 
-        console.log("상세 시도 서버명:", server);
-        console.log("정규화 서버명:", serverNorm);
-        console.log("상세 시도 후보:", s);
-        console.log("상세 요청 URL:", url);
+  console.log("상세 시도 서버명:", server);
+  console.log("정규화 서버명:", serverNorm);
+  console.log("상세 시도 후보:", s);
+  console.log("상세 요청 URL:", url);
 
-        const res = await fetch(url, { cache: "no-store" });
-        if (res.ok) {
-          data = await res.json();
-          console.log("상세 로드 성공:", url);
-          break;
-        } else {
-          lastErr = `HTTP ${res.status} / ${url}`;
-        }
-      }
+  const res = await fetch(url, { cache: "no-store" });
+  if (res.ok) {
+    data = await res.json();
+    console.log("상세 로드 성공:", url);
+    break;
+  } else {
+    lastErr = `HTTP ${res.status} / ${url}`;
+  }
+}
 
       if (!data) throw new Error(`detail fetch 실패: ${lastErr}`);
 
