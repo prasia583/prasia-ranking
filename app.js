@@ -638,7 +638,19 @@ function renderKeyValueTable(obj, col1, col2, clickType = ""){
   const entries = Object.entries(obj || {});
   if (entries.length === 0) return `<div style="opacity:.85;">데이터 없음</div>`;
 
-  entries.sort((a,b) => (b[1] || 0) - (a[1] || 0));
+  if (clickType === "guild-grade") {
+    entries.sort((a, b) => {
+      const ak = Number(a[0]);
+      const bk = Number(b[0]);
+
+      if (Number.isFinite(ak) && Number.isFinite(bk)) {
+        return bk - ak; // 등급 높은 순
+      }
+      return String(b[0]).localeCompare(String(a[0]), "ko");
+    });
+  } else {
+    entries.sort((a, b) => (b[1] || 0) - (a[1] || 0)); // 인원수 많은 순
+  }
 
   let html = `
     <table style="width:100%; border-collapse:collapse; font-size:16px; table-layout:fixed;">
