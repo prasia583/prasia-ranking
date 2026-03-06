@@ -464,5 +464,119 @@ function hideModal(){
   const modal = document.getElementById("guildModal");
   if (modal) modal.style.display = "none";
 }
+async function loadOverallStats(fileName){
+  try {
+    const meta = SNAP_LIST.find(x => x.file === fileName);
+    const statsFile = meta?.statsFile || (`stats_${String(fileName)}`);
 
+    const res = await fetch(`./snapshots/${statsFile}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`${statsFile} HTTP ${res.status}`);
+
+    const data = await res.json();
+
+    CURRENT_OVERALL_STATS = {
+      label: data?.label || "",
+      levelStats: Array.isArray(data?.levelStats) ? data.levelStats : [],
+      huntGradeStats: Array.isArray(data?.huntGradeStats) ? data.huntGradeStats : [],
+    };
+  } catch (err) {
+    console.error("전체 통계 로드 실패:", err);
+    CURRENT_OVERALL_STATS = {
+      label: "",
+      levelStats: [],
+      huntGradeStats: [],
+    };
+  }
+}
+
+function bindOverallStatsUI(){
+  const btn = document.getElementById("btnOverallStats");
+  const modal = document.getElementById("overallModal");
+  const closeBtn = document.getElementById("omClose");
+
+  if (btn) {
+    btn.addEventListener("click", () => {
+      const levelHtml = renderOverallStatTable(
+        CURRENT_OVERALL_STATS.levelStats,
+        "level",
+        "레벨"
+      );
+
+      const gradeHtml = renderOverallStatTable(
+        CURRENT_OVERALL_STATS.huntGradeStats,
+        "grade",
+        "토벌등급"
+      );
+
+      showOverallModal(
+        "전체 통계",
+        CURRENT_OVERALL_STATS.label ? `${CURRENT_OVERALL_STATS.label} 기준` : "",
+        levelHtml,
+        gradeHtml
+      );
+    });
+  }
+
+  if (closeBtn) closeBtn.addEventListener("click", hideOverallModal);
+
+  if (modal) {
+    modal.addEventListener("click", (e) => {
+      if (e.target === modal) hideOverallModal();
+    });
+  }
+}
+
+function renderOverallStatTable(rows, keyField, keyLabel){
+  const list = Array.isArray(rows) ? [...rows] : [];
+  if (list.length === 0) return `<div style="opacity:.85;">데이터 없음</div>`;
+
+  let html = `
+    <table style="width:100%; border-collapse:collapse; font-size:16px; table-layout:fixed;">
+      <thead>
+        <tr>
+          <th style="text-align:center; border-bottom:1px solid #23324a; padding:10px;">${escapeHtml(keyLabel)}</th>
+          <th style="text-align:center; border-bottom:1px solid #23324a; padding:10px;">인원수</th>
+          <th style="text-align:center; border-bottom:1px solid #23324a; padding:10px;">비율</th>
+        </tr>
+      </thead>
+      <tbody>
+  `;
+
+  for (const row of list){
+    const key = row?.[keyField] ?? "";
+    const count = Number(row?.count || 0);
+    const ratio = Number(row?.ratio || 0);
+
+    html += `
+      <tr>
+        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${escapeHtml(key)}</td>
+        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${count.toLocaleString()}</td>
+        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center;">${(ratio * 100).toFixed(2)}%</td>
+      </tr>
+    `;
+  }
+
+  html += `</tbody></table>`;
+  return html;
+}
+
+function showOverallModal(title, sub, levelHtml, gradeHtml){
+  const modal = document.getElementById("overallModal");
+  const t = document.getElementById("omTitle");
+  const s = document.getElementById("omSub");
+  const l = document.getElementById("omLevel");
+  const g = document.getElementById("omGrade");
+
+  if (t) t.textContent = title;
+  if (s) s.textContent = sub;
+  if (l) l.innerHTML = levelHtml;
+  if (g) g.innerHTML = gradeHtml;
+
+  if (modal) modal.style.display = "block";
+}
+
+function hideOverallModal(){
+  const modal = document.getElementById("overallModal");
+  if (modal) modal.style.display = "none";
+}
 loadSnapshots();
