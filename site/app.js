@@ -19,7 +19,7 @@ function toNum(v) {
 }
 
 function keyOf(guild, server) {
-  return `${(guild ?? "").trim()}@@${(server ?? "").trim()}`;
+  return `${String(guild ?? "").trim()}@@${String(server ?? "").trim()}`;
 }
 
 function escapeHtml(s){
@@ -29,6 +29,13 @@ function escapeHtml(s){
     .replace(/>/g,"&gt;")
     .replace(/"/g,"&quot;")
     .replace(/'/g,"&#39;");
+}
+
+function normalizeSearchText(s){
+  return String(s ?? "")
+    .toLowerCase()
+    .replace(/\u00A0/g, " ")
+    .replace(/\s+/g, "");
 }
 
 async function loadSnapshots() {
@@ -58,10 +65,8 @@ async function loadSnapshots() {
     bindGuildDetailUI();
     bindOverallStatsUI();
 
-    // ✅ 최초 로드
     await loadRanking(select.value);
 
-    // ✅ 날짜 변경 시만 데이터 로드/계산
     select.addEventListener("change", async (e) => {
       await loadRanking(e.target.value);
       CURRENT_PAGE = 1;
@@ -81,18 +86,21 @@ function bindSearchUI(){
   const btnClear  = document.getElementById("btnClear");
   const form = document.getElementById("searchForm");
 
-  if (btnSearch) btnSearch.addEventListener("click", () => {
-    CURRENT_PAGE = 1;
-    applySearch();
-  });
+  if (btnSearch) {
+    btnSearch.addEventListener("click", () => {
+      CURRENT_PAGE = 1;
+      applySearch();
+    });
+  }
 
-  if (btnClear) btnClear.addEventListener("click", () => {
-    if (input) input.value = "";
-    CURRENT_PAGE = 1;
-    applySearch();
-  });
+  if (btnClear) {
+    btnClear.addEventListener("click", () => {
+      if (input) input.value = "";
+      CURRENT_PAGE = 1;
+      applySearch();
+    });
+  }
 
-  // ✅ 엔터 검색
   if (form) {
     form.addEventListener("submit", (e) => {
       e.preventDefault();
@@ -117,7 +125,6 @@ function bindPagerUI(){
   const btnLast  = document.getElementById("btnLast");
   const pagerNums = document.getElementById("pagerNums");
 
-  // ✅ 페이지당 변경
   if (pageSize) {
     PAGE_SIZE = toNum(pageSize.value) || 100;
     pageSize.addEventListener("change", () => {
@@ -127,30 +134,36 @@ function bindPagerUI(){
     });
   }
 
-  // ✅ 이동 버튼
-  if (btnFirst) btnFirst.addEventListener("click", () => {
-    CURRENT_PAGE = 1;
-    renderCurrentPage();
-  });
+  if (btnFirst) {
+    btnFirst.addEventListener("click", () => {
+      CURRENT_PAGE = 1;
+      renderCurrentPage();
+    });
+  }
 
-  if (btnPrev) btnPrev.addEventListener("click", () => {
-    if (CURRENT_PAGE > 1) CURRENT_PAGE--;
-    renderCurrentPage();
-  });
+  if (btnPrev) {
+    btnPrev.addEventListener("click", () => {
+      if (CURRENT_PAGE > 1) CURRENT_PAGE--;
+      renderCurrentPage();
+    });
+  }
 
-  if (btnNext) btnNext.addEventListener("click", () => {
-    const totalPages = Math.max(1, Math.ceil(FILTERED_ROWS.length / PAGE_SIZE));
-    if (CURRENT_PAGE < totalPages) CURRENT_PAGE++;
-    renderCurrentPage();
-  });
+  if (btnNext) {
+    btnNext.addEventListener("click", () => {
+      const totalPages = Math.max(1, Math.ceil(FILTERED_ROWS.length / PAGE_SIZE));
+      if (CURRENT_PAGE < totalPages) CURRENT_PAGE++;
+      renderCurrentPage();
+    });
+  }
 
-  if (btnLast) btnLast.addEventListener("click", () => {
-    const totalPages = Math.max(1, Math.ceil(FILTERED_ROWS.length / PAGE_SIZE));
-    CURRENT_PAGE = totalPages;
-    renderCurrentPage();
-  });
+  if (btnLast) {
+    btnLast.addEventListener("click", () => {
+      const totalPages = Math.max(1, Math.ceil(FILTERED_ROWS.length / PAGE_SIZE));
+      CURRENT_PAGE = totalPages;
+      renderCurrentPage();
+    });
+  }
 
-  // ✅ 숫자 버튼 클릭(이벤트 위임)
   if (pagerNums) {
     pagerNums.addEventListener("click", (e) => {
       const t = e.target;
@@ -196,8 +209,9 @@ async function loadRanking(fileName) {
 
     CURRENT_VIEW_ROWS = curRows.map((r) => {
       const curRank = toNum(r.rank ?? 0);
-      const guild = r.guild ?? "";
-      const server = r.server ?? "";
+      const guild = String(r.guild ?? "").trim();
+      const server = String(r.server ?? "").trim();
+      const members = toNum(r.members ?? 0);
       const total = toNum(r.total_score ?? r.score_total ?? r.total ?? 0);
 
       const prev = prevMap.get(keyOf(guild, server));
@@ -210,18 +224,38 @@ async function loadRanking(fileName) {
       let moveText = "-";
       let moveClass = "delta-flat";
       if (prevFile && rankDelta !== 0) {
-        if (rankDelta > 0) { moveText = `▲ ${rankDelta}`; moveClass = "delta-up"; }
-        else { moveText = `▼ ${Math.abs(rankDelta)}`; moveClass = "delta-down"; }
+        if (rankDelta > 0) {
+          moveText = `▲ ${rankDelta}`;
+          moveClass = "delta-up";
+        } else {
+          moveText = `▼ ${Math.abs(rankDelta)}`;
+          moveClass = "delta-down";
+        }
       }
 
       let scoreText = prevFile ? "-" : "";
       let scoreClass = "delta-flat";
       if (prevFile && scoreDelta !== 0) {
-        if (scoreDelta > 0) { scoreText = `▲ ${scoreDelta.toLocaleString()}`; scoreClass = "delta-up"; }
-        else { scoreText = `▼ ${Math.abs(scoreDelta).toLocaleString()}`; scoreClass = "delta-down"; }
+        if (scoreDelta > 0) {
+          scoreText = `▲ ${scoreDelta.toLocaleString()}`;
+          scoreClass = "delta-up";
+        } else {
+          scoreText = `▼ ${Math.abs(scoreDelta).toLocaleString()}`;
+          scoreClass = "delta-down";
+        }
       }
 
-      return { curRank, guild, server, total, moveText, moveClass, scoreText, scoreClass };
+      return {
+        curRank,
+        guild,
+        members,
+        server,
+        total,
+        moveText,
+        moveClass,
+        scoreText,
+        scoreClass
+      };
     });
 
     CURRENT_PAGE = 1;
@@ -240,13 +274,13 @@ async function loadRanking(fileName) {
 
 function applySearch(){
   const input = document.getElementById("search");
-  const q = (input?.value ?? "").trim().toLowerCase();
+  const qRaw = (input?.value ?? "").trim();
+  const q = normalizeSearchText(qRaw);
 
   FILTERED_ROWS = !q ? CURRENT_VIEW_ROWS : CURRENT_VIEW_ROWS.filter((x) => {
-    return (
-      String(x.guild).toLowerCase().includes(q) ||
-      String(x.server).toLowerCase().includes(q)
-    );
+    const guild = normalizeSearchText(x.guild);
+    const server = normalizeSearchText(x.server);
+    return guild.includes(q) || server.includes(q);
   });
 
   renderCurrentPage();
@@ -276,8 +310,9 @@ function renderRows(rows){
         <td class="delta-cell ${x.moveClass}">${escapeHtml(x.moveText)}</td>
         <td>${x.curRank || ""}</td>
         <td>${escapeHtml(x.guild)}</td>
+        <td>${Number(x.members || 0).toLocaleString()}</td>
         <td>${escapeHtml(x.server)}</td>
-        <td>${x.total ? x.total.toLocaleString() : ""}</td>
+        <td>${x.total ? x.total.toLocaleString() : "0"}</td>
         <td class="delta-cell ${x.scoreClass}">${escapeHtml(x.scoreText)}</td>
       </tr>
     `;
@@ -306,7 +341,6 @@ function renderPager(total, totalPages, from, to){
   if (btnNext)  btnNext.disabled  = nextDisabled;
   if (btnLast)  btnLast.disabled  = nextDisabled;
 
-  // ✅ 숫자 페이지 버튼 (최대 10개)
   if (numsEl) {
     const MAX_BTNS = 10;
 
@@ -327,21 +361,17 @@ function renderPager(total, totalPages, from, to){
   }
 }
 
-/**
- * ✅ 핵심 포인트:
- * - detail 폴더 파일명이 "%EB..." 형태로 저장되어 있어서
- * - fetch할 때는 "%를 문자로" 취급하도록 %를 한번 더 인코딩해야 함
- * => encodeURIComponent(encodeURIComponent(serverName))
- */
 function bindGuildDetailUI(){
   const tbody = document.getElementById("rank");
   const modal = document.getElementById("guildModal");
   const closeBtn = document.getElementById("gmClose");
 
   if (closeBtn) closeBtn.addEventListener("click", hideModal);
-  if (modal) modal.addEventListener("click", (e) => {
-    if (e.target === modal) hideModal();
-  });
+  if (modal) {
+    modal.addEventListener("click", (e) => {
+      if (e.target === modal) hideModal();
+    });
+  }
 
   if (!tbody) return;
 
@@ -361,25 +391,22 @@ function bindGuildDetailUI(){
     }
 
     try {
-      // ✅ 서버명 정규화
       const serverRaw = String(server ?? "");
       const serverNorm = serverRaw
-        .replace(/\u00A0/g, " ")   // NBSP → 일반 공백
+        .replace(/\u00A0/g, " ")
         .replace(/\s+/g, " ")
         .trim();
 
-      // ✅ 후보들 (서버명 공백 형태가 다를 수 있어서 3개 시도)
       const candidates = [
         serverNorm,
-        serverNorm.replace(/\s+(\d+)$/, "$1"),  // 끝 숫자 앞 공백 제거: " 03" -> "03"
-        serverNorm.replace(/\s+/g, ""),         // 모든 공백 제거
+        serverNorm.replace(/\s+(\d+)$/, "$1"),
+        serverNorm.replace(/\s+/g, ""),
       ];
 
       let data = null;
       let lastErr = null;
 
       for (const s of candidates) {
-        // ✅✅✅ 여기 핵심: 이중 인코딩
         const serverFile = encodeURIComponent(encodeURIComponent(s)) + ".json";
         const url = `./snapshots/detail_${dateKey}/${serverFile}`;
 
@@ -408,8 +435,7 @@ function bindGuildDetailUI(){
       const clsHtml = renderKeyValueTable(g.byClass, "직업", "인원");
       const grdHtml = renderKeyValueTable(g.byGrade, "등급", "인원");
 
-      showModal(guildKey, `${serverNorm} / ${dateKey} / 총원 ${g.members}명`, clsHtml, grdHtml);
-
+      showModal(guildKey, `${serverNorm} / ${dateKey} / 총원 ${Number(g.members || 0).toLocaleString()}명`, clsHtml, grdHtml);
     } catch (err) {
       alert("상세 불러오기 실패: " + err.message);
       console.error(err);
@@ -421,8 +447,7 @@ function renderKeyValueTable(obj, col1, col2){
   const entries = Object.entries(obj || {});
   if (entries.length === 0) return `<div style="opacity:.85;">데이터 없음</div>`;
 
-  // 인원 내림차순 정렬
-  entries.sort((a,b) => (b[1]||0) - (a[1]||0));
+  entries.sort((a, b) => (b[1] || 0) - (a[1] || 0));
 
   let html = `
     <table style="width:100%; border-collapse:collapse; font-size:16px; table-layout:fixed;">
@@ -435,11 +460,11 @@ function renderKeyValueTable(obj, col1, col2){
       <tbody>
   `;
 
-  for (const [k,v] of entries){
+  for (const [k, v] of entries){
     html += `
       <tr>
         <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">${escapeHtml(k)}</td>
-        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">${Number(v||0).toLocaleString()}</td>
+        <td style="padding:10px; border-bottom:1px solid rgba(35,50,74,.6); text-align:center !important;">${Number(v || 0).toLocaleString()}</td>
       </tr>
     `;
   }
@@ -467,6 +492,7 @@ function hideModal(){
   const modal = document.getElementById("guildModal");
   if (modal) modal.style.display = "none";
 }
+
 async function loadOverallStats(fileName){
   try {
     const meta = SNAP_LIST.find(x => x.file === fileName);
@@ -582,4 +608,5 @@ function hideOverallModal(){
   const modal = document.getElementById("overallModal");
   if (modal) modal.style.display = "none";
 }
+
 loadSnapshots();
