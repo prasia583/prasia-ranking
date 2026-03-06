@@ -23,7 +23,8 @@ let MEMBER_LIST_STATE = {
   key: "",
   rows: [],
   page: 1,
-  pageSize: 100
+  pageSize: 100,
+  sort: "grade"
 };
 
 function getDateKeyFromFile(fileName){
@@ -874,12 +875,13 @@ function searchOverallMembers(){
     return normalizeText(a?.nickname || "").localeCompare(normalizeText(b?.nickname || ""), "ko");
   });
 
-  MEMBER_LIST_STATE = {
+    MEMBER_LIST_STATE = {
     type: "search",
     key: q,
     rows: matched,
     page: 1,
-    pageSize: 100
+    pageSize: 100,
+    sort: "grade"
   };
 
   renderMemberListModal();
@@ -902,12 +904,13 @@ function openMemberListModal(type, key){
     rows = CURRENT_STAT_MEMBERS.huntGradeMembers?.[key] || [];
   }
 
-  MEMBER_LIST_STATE = {
+   MEMBER_LIST_STATE = {
     type,
     key,
     rows: Array.isArray(rows) ? rows : [],
     page: 1,
-    pageSize: 100
+    pageSize: 100,
+    sort: "grade"
   };
 
   renderMemberListModal();
@@ -919,6 +922,46 @@ function openMemberListModal(type, key){
 function hideMemberListModal(){
   const modal = document.getElementById("memberListModal");
   if (modal) modal.style.display = "none";
+}
+function sortMemberRows(rows, sortType = "grade"){
+  const list = Array.isArray(rows) ? [...rows] : [];
+
+  if (sortType === "class") {
+    list.sort((a, b) => {
+      const classDiff = normalizeText(a?.class || "").localeCompare(
+        normalizeText(b?.class || ""),
+        "ko"
+      );
+      if (classDiff !== 0) return classDiff;
+
+      const gradeDiff = toNum(b?.grade || 0) - toNum(a?.grade || 0);
+      if (gradeDiff !== 0) return gradeDiff;
+
+      const levelDiff = toNum(b?.level || 0) - toNum(a?.level || 0);
+      if (levelDiff !== 0) return levelDiff;
+
+      return normalizeText(a?.nickname || "").localeCompare(
+        normalizeText(b?.nickname || ""),
+        "ko"
+      );
+    });
+    return list;
+  }
+
+  list.sort((a, b) => {
+    const gradeDiff = toNum(b?.grade || 0) - toNum(a?.grade || 0);
+    if (gradeDiff !== 0) return gradeDiff;
+
+    const levelDiff = toNum(b?.level || 0) - toNum(a?.level || 0);
+    if (levelDiff !== 0) return levelDiff;
+
+    return normalizeText(a?.nickname || "").localeCompare(
+      normalizeText(b?.nickname || ""),
+      "ko"
+    );
+  });
+
+  return list;
 }
 function openGuildFilteredMemberList(type, key){
   let rows = [];
@@ -943,12 +986,13 @@ function openGuildFilteredMemberList(type, key){
     return normalizeText(a?.nickname || "").localeCompare(normalizeText(b?.nickname || ""), "ko");
   });
 
-  MEMBER_LIST_STATE = {
+    MEMBER_LIST_STATE = {
     type,
     key,
     rows,
     page: 1,
-    pageSize: 100
+    pageSize: 100,
+    sort: "grade"
   };
 
   renderMemberListModal();
@@ -964,8 +1008,9 @@ function renderMemberListModal(){
   const prevBtn = document.getElementById("mlPrev");
   const nextBtn = document.getElementById("mlNext");
 
-  const { type, key, rows, page, pageSize } = MEMBER_LIST_STATE;
-  const total = rows.length;
+    const { type, key, rows, page, pageSize, sort } = MEMBER_LIST_STATE;
+    const sortedRows = sortMemberRows(rows, sort);
+  const total = sortedRows.length;
   const totalPages = Math.max(1, Math.ceil(total / pageSize));
   const currentPage = Math.min(page, totalPages);
 
@@ -973,7 +1018,7 @@ function renderMemberListModal(){
 
   const start = (currentPage - 1) * pageSize;
   const end = start + pageSize;
-  const pageRows = rows.slice(start, end);
+  const pageRows = sortedRows.slice(start, end);
 
   if (titleEl) {
   if (type === "level") {
@@ -1001,8 +1046,15 @@ function renderMemberListModal(){
   }
 }
 
-  if (wrapEl) {
+    if (wrapEl) {
     let html = `
+      <div style="display:flex; justify-content:flex-end; margin-bottom:12px;">
+        <select id="mlSort" style="padding:8px 10px; background:#0f1726; color:#fff; border:1px solid #23324a; border-radius:8px;">
+          <option value="grade" ${sort === "grade" ? "selected" : ""}>기본정렬(등급/레벨)</option>
+          <option value="class" ${sort === "class" ? "selected" : ""}>직업순 정렬</option>
+        </select>
+      </div>
+
       <table style="width:100%; border-collapse:collapse; font-size:15px; table-layout:fixed;">
         <thead>
           <tr>
@@ -1040,8 +1092,17 @@ function renderMemberListModal(){
       `;
     }
 
-    html += `</tbody></table>`;
+        html += `</tbody></table>`;
     wrapEl.innerHTML = html;
+
+    const sortEl = document.getElementById("mlSort");
+    if (sortEl) {
+      sortEl.addEventListener("change", (e) => {
+        MEMBER_LIST_STATE.sort = e.target.value;
+        MEMBER_LIST_STATE.page = 1;
+        renderMemberListModal();
+      });
+    }
   }
 
   if (pageInfoEl) {
