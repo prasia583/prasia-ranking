@@ -580,7 +580,7 @@ openGuildFilteredMemberList(type, key);
       let lastErr = null;
 
       for (const s of candidates) {
-        const serverFile = encodeURIComponent(encodeURIComponent(s)) + ".json";
+        const serverFile = encodeURIComponent(s) + ".json";
         const url = `./snapshots/detail_${dateKey}/${serverFile}`;
 
         const res = await fetch(url, { cache: "no-store" });
