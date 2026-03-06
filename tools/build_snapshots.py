@@ -68,6 +68,9 @@ def normalize_header(v):
 
 
 def build_header_map(ws, header_row=1, max_cols=80):
+    """
+    통합정렬 시트 헤더 찾기
+    """
     m = {}
     for col in range(1, max_cols + 1):
         v = ws.cell(row=header_row, column=col).value
@@ -91,7 +94,72 @@ def build_header_map(ws, header_row=1, max_cols=80):
     return m
 
 
-def parse_guild_ranking(ws):
+def find_server_sheet_header_map(ws, header_row=1, max_cols=200):
+    """
+    서버별 시트에서 결사/직업/등급 컬럼 찾기
+    """
+    colmap = {}
+    for c in range(1, max_cols + 1):
+        v = ws.cell(row=header_row, column=c).value
+        if v is None:
+            continue
+        key = normalize_header(v)
+
+        if key in ("결사명", "결사"):
+            colmap["guild"] = c
+        elif key in ("클래스", "직업"):
+            colmap["clazz"] = c
+        elif key in ("토벌등급", "등급"):
+            colmap["grade"] = c
+
+    return colmap
+
+
+def is_server_sheet(ws) -> bool:
+    hm = find_server_sheet_header_map(ws)
+    return "guild" in hm
+
+
+def build_member_count_map(wb):
+    """
+    각 서버 시트에서 결사별 총원 집계
+    key: (guild, serverSheetName)
+    value: members
+    """
+    member_map = {}
+
+    for sheet_name in wb.sheetnames:
+        ws = wb[sheet_name]
+
+        # 통합정렬 / 통계 시트 제외
+        if sheet_name in PREFERRED_SHEETS:
+            continue
+        if sheet_name in LEVEL_STAT_SHEETS:
+            continue
+        if sheet_name in HUNT_STAT_SHEETS:
+            continue
+
+        if not is_server_sheet(ws):
+            continue
+
+        hm = find_server_sheet_header_map(ws)
+        gcol = hm["guild"]
+
+        for r in range(2, ws.max_row + 1):
+            guild = safe_str(ws.cell(row=r, column=gcol).value)
+
+            if guild == "":
+                continue
+            if guild.replace(" ", "") == "-":
+                continue
+
+            key = (guild, sheet_name)
+            member_map[key] = member_map.get(key, 0) + 1
+
+    return member_map
+
+
+def parse_guild_ranking(ws, member_map=None):
     header = build_header_map(ws, header_row=1)
 
     # fallback
@@ -123,10 +191,15 @@ def parse_guild_ranking(ws):
         level_score = ws.cell(row=r, column=level_col).value
         total_score = ws.cell(row=r, column=total_col).value
 
+        members = 0
+        if member_map is not None:
+            members = member_map.get((guild_str, server_str), 0)
+
         rows.append({
             "rank": safe_num(rank),
             "guild": guild_str,
             "server": server_str,
+            "members": members,
             "hunt_score": safe_num(hunt_score),
             "level_score": safe_num(level_score),
             "total_score": safe_num(total_score),
@@ -208,9 +281,11 @@ def build_snapshots_from_uploads():
 
         wb = load_workbook(xlsx_path, data_only=True)
 
+        member_map = build_member_count_map(wb)
+
         # ===== 랭킹 =====
         ws_rank, used_sheet = pick_worksheet(wb)
-        ranking_data = parse_guild_ranking(ws_rank)
+        ranking_data = parse_guild_ranking(ws_rank, member_map)
 
         with open(ranking_out_path, "w", encoding="utf-8") as f:
             json.dump(ranking_data, f, ensure_ascii=False, indent=2)
