@@ -569,12 +569,15 @@ openGuildFilteredMemberList(type, key);
     }
 
     try {
-      const serverNorm = normalizeText(server);
-      const candidates = [
-        serverNorm,
-        serverNorm.replace(/\s+(\d+)$/, "$1"),
-        serverNorm.replace(/\s+/g, "")
-      ];
+           const serverNorm = normalizeText(server);
+      const candidates = Array.from(new Set([
+        serverNorm,                               // 원본: 사도바 04
+        serverNorm.replace(/\s+(\d+)$/, "$1"),    // 붙임: 사도바04
+        serverNorm.replace(/\s+/g, ""),           // 전체 공백 제거
+        serverNorm.replace(/\s+/g, "_"),          // 사도바_04
+        serverNorm.replace(/\s+/g, "-"),          // 사도바-04
+        serverNorm.replace(/[^\w가-힣]+/g, "")     // 특수문자 제거
+      ]));
 
       let data = null;
       let lastErr = null;
@@ -583,9 +586,15 @@ openGuildFilteredMemberList(type, key);
         const serverFile = encodeURIComponent(s) + ".json";
         const url = `./snapshots/detail_${dateKey}/${serverFile}`;
 
+        console.log("상세 시도 서버명:", server);
+        console.log("정규화 서버명:", serverNorm);
+        console.log("상세 시도 후보:", s);
+        console.log("상세 요청 URL:", url);
+
         const res = await fetch(url, { cache: "no-store" });
         if (res.ok) {
           data = await res.json();
+          console.log("상세 로드 성공:", url);
           break;
         } else {
           lastErr = `HTTP ${res.status} / ${url}`;
