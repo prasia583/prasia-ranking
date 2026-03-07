@@ -1029,8 +1029,8 @@ function renderMemberListModal(){
   const prevBtn = document.getElementById("mlPrev");
   const nextBtn = document.getElementById("mlNext");
 
-    const { type, key, rows, page, pageSize, sort } = MEMBER_LIST_STATE;
-    const sortedRows = sortMemberRows(rows, sort);
+  const { type, key, rows, page, pageSize, sort } = MEMBER_LIST_STATE;
+  const sortedRows = sortMemberRows(rows, sort);
   const total = sortedRows.length;
   const totalPages = Math.max(1, Math.ceil(total / pageSize));
   const currentPage = Math.min(page, totalPages);
@@ -1042,34 +1042,34 @@ function renderMemberListModal(){
   const pageRows = sortedRows.slice(start, end);
 
   if (titleEl) {
-  if (type === "level") {
-    titleEl.textContent = `레벨 ${key} 캐릭터 목록`;
-  } else if (type === "grade") {
-    titleEl.textContent = `토벌등급 ${key} 캐릭터 목록`;
-  } else if (type === "search") {
-    titleEl.textContent = `캐릭터 검색 결과`;
-  } else if (type === "guild-class") {
-    titleEl.textContent = `직업 ${key} 캐릭터 목록`;
-  } else if (type === "guild-grade") {
-  titleEl.textContent = `토벌등급 ${key} 캐릭터 목록`;
-} else if (type === "guild-level") {
-  titleEl.textContent = `레벨 ${key} 캐릭터 목록`;
-} else {
-    titleEl.textContent = `캐릭터 목록`;
+    if (type === "level") {
+      titleEl.textContent = `레벨 ${key} 캐릭터 목록`;
+    } else if (type === "grade") {
+      titleEl.textContent = `토벌등급 ${key} 캐릭터 목록`;
+    } else if (type === "search") {
+      titleEl.textContent = `캐릭터 검색 결과`;
+    } else if (type === "guild-class") {
+      titleEl.textContent = `직업 ${key} 캐릭터 목록`;
+    } else if (type === "guild-grade") {
+      titleEl.textContent = `토벌등급 ${key} 캐릭터 목록`;
+    } else if (type === "guild-level") {
+      titleEl.textContent = `레벨 ${key} 캐릭터 목록`;
+    } else {
+      titleEl.textContent = `캐릭터 목록`;
+    }
   }
-}
 
   if (subEl) {
-  if (type === "search") {
-    subEl.textContent = `${CURRENT_STAT_MEMBERS.label || ""} / 검색어: "${key}" / 총 ${total.toLocaleString("ko-KR")}명`;
- } else if (type === "guild-class" || type === "guild-grade" || type === "guild-level") {
-  subEl.textContent = `총 ${total.toLocaleString("ko-KR")}명`;
-}
-    subEl.textContent = `${CURRENT_STAT_MEMBERS.label || ""} / 총 ${total.toLocaleString("ko-KR")}명`;
+    if (type === "search") {
+      subEl.textContent = `${CURRENT_STAT_MEMBERS.label || ""} / 검색어: "${key}" / 총 ${total.toLocaleString("ko-KR")}명`;
+    } else if (type === "guild-class" || type === "guild-grade" || type === "guild-level") {
+      subEl.textContent = `총 ${total.toLocaleString("ko-KR")}명`;
+    } else {
+      subEl.textContent = `${CURRENT_STAT_MEMBERS.label || ""} / 총 ${total.toLocaleString("ko-KR")}명`;
+    }
   }
-}
 
-    if (wrapEl) {
+  if (wrapEl) {
     let html = `
       <div style="display:flex; justify-content:flex-end; margin-bottom:12px;">
         <select id="mlSort" style="padding:8px 10px; background:#0f1726; color:#fff; border:1px solid #23324a; border-radius:8px;">
@@ -1093,28 +1093,28 @@ function renderMemberListModal(){
     `;
 
     for (const row of pageRows){
-  html += `
-    <tr>
-      <td
-        title="${escapeHtml(row.nickname || "")}"
-        style="
-          padding:10px;
-          border-top:1px solid #23324a;
-          text-align:center;
-          white-space:nowrap;
-          overflow:hidden;
-          text-overflow:ellipsis;
-          max-width:0;
-        "
-      >${escapeHtml(row.nickname || "")}</td>
-      <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.guild || "")}</td>
-      <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.server || "")}</td>
-      <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.class || "")}</td>
-      <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(String(row.level || ""))}</td>
-      <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(String(row.grade || ""))}</td>
-    </tr>
-  `;
-}
+      html += `
+        <tr>
+          <td
+            title="${escapeHtml(row.nickname || "")}"
+            style="
+              padding:10px;
+              border-top:1px solid #23324a;
+              text-align:center;
+              white-space:nowrap;
+              overflow:hidden;
+              text-overflow:ellipsis;
+              max-width:0;
+            "
+          >${escapeHtml(row.nickname || "")}</td>
+          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.guild || "")}</td>
+          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.server || "")}</td>
+          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(row.class || "")}</td>
+          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(String(row.level || ""))}</td>
+          <td style="padding:10px; border-top:1px solid #23324a; text-align:center;">${escapeHtml(String(row.grade || ""))}</td>
+        </tr>
+      `;
+    }
 
     if (pageRows.length === 0) {
       html += `
@@ -1126,7 +1126,7 @@ function renderMemberListModal(){
       `;
     }
 
-        html += `</tbody></table>`;
+    html += `</tbody></table>`;
     wrapEl.innerHTML = html;
 
     const sortEl = document.getElementById("mlSort");
