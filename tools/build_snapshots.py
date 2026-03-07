@@ -686,6 +686,28 @@ def build_snapshots_from_uploads():
                 file_server_name.replace(" ", "-"),
             }
 
+            import re
+            m = re.match(r"^(.*?)[\s_-]*(\d+)$", file_server_name)
+            if m:
+                base_name = safe_str(m.group(1))
+                num_raw = m.group(2)
+                num_no_zero = str(int(num_raw))
+                num_two = num_no_zero.zfill(2)
+
+                extra_candidates = {
+                    f"{base_name}{num_no_zero}",
+                    f"{base_name} {num_no_zero}",
+                    f"{base_name}_{num_no_zero}",
+                    f"{base_name}-{num_no_zero}",
+
+                    f"{base_name}{num_two}",
+                    f"{base_name} {num_two}",
+                    f"{base_name}_{num_two}",
+                    f"{base_name}-{num_two}",
+                }
+
+                name_candidates.update(extra_candidates)
+
             for candidate in name_candidates:
                 if not candidate:
                     continue
