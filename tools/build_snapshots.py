@@ -713,8 +713,7 @@ def build_snapshots_from_uploads():
                 if not candidate:
                     continue
 
-                encoded_name = urllib.parse.quote(candidate, safe="")
-                out_path = detail_dir / f"{encoded_name}.json"
+                out_path = detail_dir / f"{candidate}.json"
                 with open(out_path, "w", encoding="utf-8") as f:
                     json.dump(detail_data, f, ensure_ascii=False, indent=2)
 
