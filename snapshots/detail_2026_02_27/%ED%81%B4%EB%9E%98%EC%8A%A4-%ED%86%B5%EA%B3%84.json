@@ -1,0 +1,2963 @@
+{
+  "server": "클래스 통계",
+  "guilds": {
+    "DOG": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "DOG",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "DOG",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "광기": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "광기",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "광기",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "블랙중독": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "블랙중독",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "블랙중독",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "MAD": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "MAD",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "MAD",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "시그니처": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "시그니처",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "시그니처",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "노타치": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "노타치",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "노타치",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "미깡": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "미깡",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "미깡",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "강남": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "강남",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "강남",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "축복": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "축복",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "축복",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "알빠노해적단": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "알빠노해적단",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "알빠노해적단",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "GOAT": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "GOAT",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "GOAT",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "잡초": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "잡초",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "잡초",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "불꽃": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "불꽃",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "불꽃",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "진격의영포티": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "진격의영포티",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "진격의영포티",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "광란": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "광란",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "광란",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "흑백": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "흑백",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "흑백",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "심판": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "심판",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "심판",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "츄": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "츄",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "츄",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "더킹": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "더킹",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "더킹",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "유니크": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "유니크",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "유니크",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "명품": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "명품",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "명품",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "강북": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "강북",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "강북",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "골드중독": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "골드중독",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "골드중독",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "제로": {
+      "members": 3,
+      "byClass": {},
+      "byGrade": {
+        "0": 3
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "제로",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        },
+        {
+          "nickname": "",
+          "guild": "제로",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        },
+        {
+          "nickname": "",
+          "guild": "제로",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "제로",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          },
+          {
+            "nickname": "",
+            "guild": "제로",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          },
+          {
+            "nickname": "",
+            "guild": "제로",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "NO": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "NO",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "NO",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "천명": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "천명",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "천명",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "우르르": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "우르르",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "우르르",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "광혼": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "광혼",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "광혼",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "개": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "개",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "개",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "핑크좀비": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "핑크좀비",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "핑크좀비",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "아마존": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "아마존",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "아마존",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "주토피아": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "주토피아",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "주토피아",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "봄봄": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "봄봄",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "봄봄",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "이상해": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "이상해",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "이상해",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "광인": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "광인",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "광인",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "CAT": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "CAT",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "CAT",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "교도소": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "교도소",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "교도소",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "한국관": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "한국관",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "한국관",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "히포": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "히포",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "히포",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "사쿠라": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "사쿠라",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "사쿠라",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "연예인": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "연예인",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "연예인",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "홀리데이": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "홀리데이",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "홀리데이",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "가을": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "가을",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "가을",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "양떼": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "양떼",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "양떼",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "돈타치": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "돈타치",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "돈타치",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "흑": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "흑",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "흑",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "전당포": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "전당포",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "전당포",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "AURA": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "AURA",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "AURA",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "헌터": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "헌터",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "헌터",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "맨": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "맨",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "맨",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "SAD": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "SAD",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "SAD",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "겨울": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "겨울",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "겨울",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "떡": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "떡",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "떡",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "GUCCI": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "GUCCI",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "GUCCI",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "풍": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "풍",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "풍",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "눈꽃": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "눈꽃",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "눈꽃",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "방재실": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "방재실",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "방재실",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "화산": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "화산",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "화산",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "쎈": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "쎈",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "쎈",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "우왕": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "우왕",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "우왕",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "진명": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "진명",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "진명",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "미르": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "미르",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "미르",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "별빛": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "별빛",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "별빛",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "냐옹": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "냐옹",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "냐옹",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "프론테라": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "프론테라",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "프론테라",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "멸공": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "멸공",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "멸공",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "조선": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "조선",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "조선",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "그림자": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "그림자",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "그림자",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "IYOU": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "IYOU",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "IYOU",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "오리온": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "오리온",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "오리온",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "드라마": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "드라마",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "드라마",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "지능": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "지능",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "지능",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "3S": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "3S",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "3S",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "마샬": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "마샬",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "마샬",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "부캐전용결사": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "부캐전용결사",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "부캐전용결사",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "우파루파": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "우파루파",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "우파루파",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "병원": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "병원",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "병원",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "코스피": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "코스피",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "코스피",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "시그니엘": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "시그니엘",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "시그니엘",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "프리아": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "프리아",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "프리아",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "생선가게": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "생선가게",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "생선가게",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "뛰뛰빵빵": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "뛰뛰빵빵",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "뛰뛰빵빵",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "국가": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "국가",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "국가",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "킹덤": {
+      "members": 2,
+      "byClass": {},
+      "byGrade": {
+        "0": 2
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "킹덤",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        },
+        {
+          "nickname": "",
+          "guild": "킹덤",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "킹덤",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          },
+          {
+            "nickname": "",
+            "guild": "킹덤",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "발렌타인": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "발렌타인",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "발렌타인",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "솔라스톤": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "솔라스톤",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "솔라스톤",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "민운": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "민운",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "민운",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "전설": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "전설",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "전설",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "얄미운사랑": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "얄미운사랑",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "얄미운사랑",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "최고": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "최고",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "최고",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "과일가게": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "과일가게",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "과일가게",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "마왕군": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "마왕군",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "마왕군",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "아기고양이": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "아기고양이",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "아기고양이",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "착한중립": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "착한중립",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "착한중립",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "꿀잠": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "꿀잠",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "꿀잠",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "쑥쑥": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "쑥쑥",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "쑥쑥",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "추론": {
+      "members": 1,
+      "byClass": {},
+      "byGrade": {
+        "0": 1
+      },
+      "membersList": [
+        {
+          "nickname": "",
+          "guild": "추론",
+          "class": "",
+          "grade": 0,
+          "level": 0,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {},
+      "byGradeMembers": {
+        "0": [
+          {
+            "nickname": "",
+            "guild": "추론",
+            "class": "",
+            "grade": 0,
+            "level": 0,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    }
+  }
+}
