@@ -676,7 +676,7 @@ def build_snapshots_from_uploads():
         detail_dir.mkdir(parents=True, exist_ok=True)
 
         server_details = build_server_detail_data(wb)
-        for server_name, detail_data in server_details.items():
+for server_name, detail_data in server_details.items():
     file_server_name = safe_str(server_name)
     encoded_name = urllib.parse.quote(file_server_name, safe="")
     out_path = detail_dir / f"{encoded_name}.json"
