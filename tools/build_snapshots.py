@@ -670,18 +670,13 @@ def build_snapshots_from_uploads():
         with open(member_stats_out_path, "w", encoding="utf-8") as f:
             json.dump(member_stats_data, f, ensure_ascii=False, indent=2)
 
-                # 서버별 결사 상세(detail_날짜/서버.json)
+        # 서버별 결사 상세(detail_날짜/서버.json)
         if detail_dir.exists():
             shutil.rmtree(detail_dir)
         detail_dir.mkdir(parents=True, exist_ok=True)
 
-                # 서버별 결사 상세(detail_날짜/서버.json)
-        if detail_dir.exists():
-            shutil.rmtree(detail_dir)
-        detail_dir.mkdir(parents=True, exist_ok=True)
-
-            server_details = build_server_detail_data(wb)
-            for server_name, detail_data in server_details.items():
+        server_details = build_server_detail_data(wb)
+        for server_name, detail_data in server_details.items():
             file_server_name = safe_str(server_name).replace("\u00A0", " ").strip()
 
             name_candidates = {
