@@ -675,13 +675,18 @@ def build_snapshots_from_uploads():
             shutil.rmtree(detail_dir)
         detail_dir.mkdir(parents=True, exist_ok=True)
 
+                # 서버별 결사 상세(detail_날짜/서버.json)
+        if detail_dir.exists():
+            shutil.rmtree(detail_dir)
+        detail_dir.mkdir(parents=True, exist_ok=True)
+
         server_details = build_server_detail_data(wb)
-for server_name, detail_data in server_details.items():
-    file_server_name = safe_str(server_name)
-    encoded_name = urllib.parse.quote(file_server_name, safe="")
-    out_path = detail_dir / f"{encoded_name}.json"
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(detail_data, f, ensure_ascii=False, indent=2)
+        for server_name, detail_data in server_details.items():
+            file_server_name = safe_str(server_name)
+            encoded_name = urllib.parse.quote(file_server_name, safe="")
+            out_path = detail_dir / f"{encoded_name}.json"
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(detail_data, f, ensure_ascii=False, indent=2)
 
         index.append({
             "label": label,
