@@ -625,7 +625,7 @@ candidates = Array.from(new Set(candidates.filter(Boolean)));
       let lastErr = null;
 
      for (const s of candidates) {
-  const serverFile = encodeURIComponent(s) + ".json";
+  const serverFile = `${s}.json`;
   const url = `./snapshots/detail_${dateKey}/${serverFile}`;
 
   console.log("상세 시도 서버명:", server);
