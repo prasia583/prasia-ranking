@@ -1,0 +1,781 @@
+{
+  "server": "카렐 01",
+  "guilds": {
+    "미르": {
+      "members": 19,
+      "byClass": {
+        "집행관": 9,
+        "심연추방자": 3,
+        "태양감시자": 2,
+        "향사수": 2,
+        "환영검사": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "24": 1,
+        "23": 1,
+        "22": 7,
+        "21": 5,
+        "20": 5
+      },
+      "membersList": [
+        {
+          "nickname": "선장",
+          "guild": "미르",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 88,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "짐승대장",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "말티엘",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "보들",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "안칼",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "초당",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "사하구",
+          "guild": "미르",
+          "class": "환영검사",
+          "grade": 22,
+          "level": 86,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "중달",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "아현",
+          "guild": "미르",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 85,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "채령",
+          "guild": "미르",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 86,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "파리",
+          "guild": "미르",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 86,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "영무",
+          "guild": "미르",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "짐승실장",
+          "guild": "미르",
+          "class": "태양감시자",
+          "grade": 21,
+          "level": 85,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "PRINGLES",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "마법조무사",
+          "guild": "미르",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "빌리진",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "산적딸래미",
+          "guild": "미르",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "이드",
+          "guild": "미르",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "안다리엘",
+          "guild": "미르",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 82,
+          "server": "카렐 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "선장",
+            "guild": "미르",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 88,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "사하구",
+            "guild": "미르",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "카렐 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "짐승대장",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "말티엘",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "보들",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "안칼",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "초당",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "중달",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "PRINGLES",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "빌리진",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "이드",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "아현",
+            "guild": "미르",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "짐승실장",
+            "guild": "미르",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "채령",
+            "guild": "미르",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "파리",
+            "guild": "미르",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "안다리엘",
+            "guild": "미르",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 82,
+            "server": "카렐 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "영무",
+            "guild": "미르",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "산적딸래미",
+            "guild": "미르",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "마법조무사",
+            "guild": "미르",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "카렐 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "선장",
+            "guild": "미르",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 88,
+            "server": "카렐 01"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "짐승대장",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "카렐 01"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "말티엘",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "보들",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "안칼",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "초당",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "사하구",
+            "guild": "미르",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "중달",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "아현",
+            "guild": "미르",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "채령",
+            "guild": "미르",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "파리",
+            "guild": "미르",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "영무",
+            "guild": "미르",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "짐승실장",
+            "guild": "미르",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "PRINGLES",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "카렐 01"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "마법조무사",
+            "guild": "미르",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "빌리진",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "산적딸래미",
+            "guild": "미르",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "이드",
+            "guild": "미르",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "안다리엘",
+            "guild": "미르",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 82,
+            "server": "카렐 01"
+          }
+        ]
+      }
+    },
+    "사신": {
+      "members": 4,
+      "byClass": {
+        "집행관": 3,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "루시펠",
+          "guild": "사신",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "블랙캣",
+          "guild": "사신",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "비정",
+          "guild": "사신",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "페르세르크",
+          "guild": "사신",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 84,
+          "server": "카렐 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "루시펠",
+            "guild": "사신",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "블랙캣",
+            "guild": "사신",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "비정",
+            "guild": "사신",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 01"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "페르세르크",
+            "guild": "사신",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "루시펠",
+            "guild": "사신",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "카렐 01"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "블랙캣",
+            "guild": "사신",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "비정",
+            "guild": "사신",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "페르세르크",
+            "guild": "사신",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 01"
+          }
+        ]
+      }
+    },
+    "과일가게": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "22": 2
+      },
+      "membersList": [
+        {
+          "nickname": "귤탕후루",
+          "guild": "과일가게",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "카렐 01"
+        },
+        {
+          "nickname": "탕탕후루루루",
+          "guild": "과일가게",
+          "class": "집행관",
+          "grade": 22,
+          "level": 85,
+          "server": "카렐 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "귤탕후루",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "탕탕후루루루",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "귤탕후루",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "카렐 01"
+          },
+          {
+            "nickname": "탕탕후루루루",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ]
+      }
+    },
+    "술병": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "춘사미",
+          "guild": "술병",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 85,
+          "server": "카렐 01"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "춘사미",
+            "guild": "술병",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "춘사미",
+            "guild": "술병",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 01"
+          }
+        ]
+      }
+    },
+    "dose": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "Ghee",
+          "guild": "dose",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 83,
+          "server": "카렐 01"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "Ghee",
+            "guild": "dose",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "카렐 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "Ghee",
+            "guild": "dose",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "카렐 01"
+          }
+        ]
+      }
+    }
+  }
+}

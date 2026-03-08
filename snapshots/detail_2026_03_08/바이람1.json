@@ -1,0 +1,126 @@
+{
+  "server": "바이람 01",
+  "guilds": {
+    "멸공": {
+      "members": 4,
+      "byClass": {
+        "집행관": 3,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "22": 2,
+        "21": 2
+      },
+      "membersList": [
+        {
+          "nickname": "멸치",
+          "guild": "멸공",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "바이람 01"
+        },
+        {
+          "nickname": "뉴비가",
+          "guild": "멸공",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 01"
+        },
+        {
+          "nickname": "미카엘",
+          "guild": "멸공",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 01"
+        },
+        {
+          "nickname": "헤네시",
+          "guild": "멸공",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "멸치",
+            "guild": "멸공",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 01"
+          },
+          {
+            "nickname": "뉴비가",
+            "guild": "멸공",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 01"
+          },
+          {
+            "nickname": "미카엘",
+            "guild": "멸공",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "헤네시",
+            "guild": "멸공",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "멸치",
+            "guild": "멸공",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 01"
+          },
+          {
+            "nickname": "뉴비가",
+            "guild": "멸공",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 01"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "미카엘",
+            "guild": "멸공",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 01"
+          },
+          {
+            "nickname": "헤네시",
+            "guild": "멸공",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 01"
+          }
+        ]
+      }
+    }
+  }
+}

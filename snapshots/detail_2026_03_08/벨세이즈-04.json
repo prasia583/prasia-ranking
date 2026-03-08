@@ -1,0 +1,342 @@
+{
+  "server": "벨세이즈 04",
+  "guilds": {
+    "최고": {
+      "members": 7,
+      "byClass": {
+        "집행관": 3,
+        "심연추방자": 1,
+        "주문각인사": 1,
+        "태양감시자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "24": 1,
+        "22": 2,
+        "21": 1,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "꿀탱이",
+          "guild": "최고",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 87,
+          "server": "벨세이즈 04"
+        },
+        {
+          "nickname": "투썸",
+          "guild": "최고",
+          "class": "집행관",
+          "grade": 22,
+          "level": 88,
+          "server": "벨세이즈 04"
+        },
+        {
+          "nickname": "놀러왕",
+          "guild": "최고",
+          "class": "심연추방자",
+          "grade": 22,
+          "level": 87,
+          "server": "벨세이즈 04"
+        },
+        {
+          "nickname": "도령",
+          "guild": "최고",
+          "class": "태양감시자",
+          "grade": 21,
+          "level": 86,
+          "server": "벨세이즈 04"
+        },
+        {
+          "nickname": "괴도",
+          "guild": "최고",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "벨세이즈 04"
+        },
+        {
+          "nickname": "시원",
+          "guild": "최고",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "벨세이즈 04"
+        },
+        {
+          "nickname": "연화",
+          "guild": "최고",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "벨세이즈 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "꿀탱이",
+            "guild": "최고",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 87,
+            "server": "벨세이즈 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "놀러왕",
+            "guild": "최고",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 87,
+            "server": "벨세이즈 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "투썸",
+            "guild": "최고",
+            "class": "집행관",
+            "grade": 22,
+            "level": 88,
+            "server": "벨세이즈 04"
+          },
+          {
+            "nickname": "괴도",
+            "guild": "최고",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "벨세이즈 04"
+          },
+          {
+            "nickname": "시원",
+            "guild": "최고",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "벨세이즈 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "도령",
+            "guild": "최고",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "연화",
+            "guild": "최고",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "꿀탱이",
+            "guild": "최고",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 87,
+            "server": "벨세이즈 04"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "투썸",
+            "guild": "최고",
+            "class": "집행관",
+            "grade": 22,
+            "level": 88,
+            "server": "벨세이즈 04"
+          },
+          {
+            "nickname": "놀러왕",
+            "guild": "최고",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 87,
+            "server": "벨세이즈 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "도령",
+            "guild": "최고",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "괴도",
+            "guild": "최고",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "벨세이즈 04"
+          },
+          {
+            "nickname": "시원",
+            "guild": "최고",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "벨세이즈 04"
+          },
+          {
+            "nickname": "연화",
+            "guild": "최고",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 04"
+          }
+        ]
+      }
+    },
+    "사나이": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "22": 1
+      },
+      "membersList": [
+        {
+          "nickname": "해피몽",
+          "guild": "사나이",
+          "class": "심연추방자",
+          "grade": 22,
+          "level": 86,
+          "server": "벨세이즈 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "해피몽",
+            "guild": "사나이",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 86,
+            "server": "벨세이즈 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "해피몽",
+            "guild": "사나이",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 86,
+            "server": "벨세이즈 04"
+          }
+        ]
+      }
+    },
+    "매니아": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "춘향이",
+          "guild": "매니아",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "벨세이즈 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "춘향이",
+            "guild": "매니아",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "춘향이",
+            "guild": "매니아",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 04"
+          }
+        ]
+      }
+    },
+    "전설": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "방떡쓰",
+          "guild": "전설",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "벨세이즈 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "방떡쓰",
+            "guild": "전설",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "벨세이즈 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "방떡쓰",
+            "guild": "전설",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "벨세이즈 04"
+          }
+        ]
+      }
+    }
+  }
+}

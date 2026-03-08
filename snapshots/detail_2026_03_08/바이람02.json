@@ -1,0 +1,2999 @@
+{
+  "server": "바이람 02",
+  "guilds": {
+    "MAD": {
+      "members": 42,
+      "byClass": {
+        "주문각인사": 17,
+        "집행관": 10,
+        "태양감시자": 7,
+        "향사수": 5,
+        "심연추방자": 3
+      },
+      "byGrade": {
+        "24": 21,
+        "23": 12,
+        "22": 5,
+        "21": 3,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "frrrrrrrr",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "별하하하하",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "사신",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "제왕",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "김구",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "냉혹",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "매드독",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "멀망",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "박틸다",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "쏘자의아이스깨끼",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "아이언돔",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "판사의망치",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "망치형",
+          "guild": "MAD",
+          "class": "심연추방자",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "박삐삐",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "푸리",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "하잇",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "히스옹탑게이",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "궁궁의궁극기",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "뉴발",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "샤넬스트로우",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "연두에요",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "내가죽으면니탓",
+          "guild": "MAD",
+          "class": "심연추방자",
+          "grade": 23,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "단궁",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 23,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "반갈",
+          "guild": "MAD",
+          "class": "심연추방자",
+          "grade": 23,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "재생",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "진격의거인",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "안가",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "진라면순한맛",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "커비의꼬양",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "펀치",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "프전우리가살린다",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "히스의잡도리",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "말랑말랑",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "도로오",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "진라면매운맛",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "하마의곡괭이질",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 22,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "고양",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "박덕배",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "당당근",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "딱지",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "디임쨩",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "또또",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "망치형",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "내가죽으면니탓",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "반갈",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "frrrrrrrr",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "별하하하하",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "사신",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "박틸다",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "박삐삐",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "히스옹탑게이",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진라면매운맛",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 88,
+            "server": "바이람 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "푸리",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "하잇",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "단궁",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "하마의곡괭이질",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 22,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "딱지",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "쏘자의아이스깨끼",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "궁궁의궁극기",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "뉴발",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "샤넬스트로우",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "재생",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "안가",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진라면순한맛",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "커비의꼬양",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "펀치",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "프전우리가살린다",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "말랑말랑",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "도로오",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "고양",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "박덕배",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "당당근",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "디임쨩",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "또또",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "제왕",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "김구",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "냉혹",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "매드독",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "멀망",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "아이언돔",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "판사의망치",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "연두에요",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진격의거인",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "히스의잡도리",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "frrrrrrrr",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "별하하하하",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "사신",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "제왕",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "김구",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "냉혹",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "매드독",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "멀망",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "박틸다",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쏘자의아이스깨끼",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "아이언돔",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "판사의망치",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "망치형",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "박삐삐",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "푸리",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "하잇",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "히스옹탑게이",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "궁궁의궁극기",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "뉴발",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "샤넬스트로우",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "연두에요",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "내가죽으면니탓",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "단궁",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "반갈",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "재생",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진격의거인",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "안가",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진라면순한맛",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "커비의꼬양",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "펀치",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "프전우리가살린다",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "히스의잡도리",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "말랑말랑",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "도로오",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진라면매운맛",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "하마의곡괭이질",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 22,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "고양",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "박덕배",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "당당근",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "딱지",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "디임쨩",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "또또",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "광기": {
+      "members": 45,
+      "byClass": {
+        "주문각인사": 16,
+        "향사수": 11,
+        "집행관": 10,
+        "태양감시자": 7,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "24": 33,
+        "23": 6,
+        "22": 2,
+        "21": 3,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "팬서",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 92,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "광속",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "무씨",
+          "guild": "광기",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "불알커트",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "석금",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "알빠노사생팬",
+          "guild": "광기",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "이현짱",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 91,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "누누",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "닷지",
+          "guild": "광기",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "사악해",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "앙쨩",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "오댕",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "오시리스",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "쟈카",
+          "guild": "광기",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "전멸",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "제토",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "키엘",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "태산",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "갓동동동동동동",
+          "guild": "광기",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "광기의뇌제",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "빡빡",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "알빠노꼼돌",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "알빠큐",
+          "guild": "광기",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "암흑이",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "쿠쨩",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "토르짱",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "향붕일",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "화이어에그파괴자",
+          "guild": "광기",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "간지",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "게임하는밍쨩",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "깨치",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "라쨩",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "시작이",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "악덕업주",
+          "guild": "광기",
+          "class": "향사수",
+          "grade": 23,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "짭이",
+          "guild": "광기",
+          "class": "태양감시자",
+          "grade": 23,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "폭꾼",
+          "guild": "광기",
+          "class": "집행관",
+          "grade": 23,
+          "level": 89,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "광신비",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "알빠노빵울",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "토쨩",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "밍쨩",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "빵지",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "누야",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "힐여린",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "빨쨩",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 84,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "유지수",
+          "guild": "광기",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "무씨",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠노사생팬",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "닷지",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "갓동동동동동동",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠큐",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "화이어에그파괴자",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "짭이",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 89,
+            "server": "바이람 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "쟈카",
+            "guild": "광기",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "광속",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "누누",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "키엘",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "광기의뇌제",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠노꼼돌",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "암흑이",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쿠쨩",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "향붕일",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "간지",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "깨치",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "악덕업주",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 23,
+            "level": 89,
+            "server": "바이람 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "이현짱",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "사악해",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "빡빡",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "토르짱",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "게임하는밍쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "라쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "시작이",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "광신비",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠노빵울",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "토쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "밍쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "빵지",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "누야",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "힐여린",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "빨쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "유지수",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "팬서",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 92,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "불알커트",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "석금",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "앙쨩",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "오댕",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "오시리스",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "전멸",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "제토",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "태산",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "폭꾼",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "팬서",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 92,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "광속",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "무씨",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "불알커트",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "석금",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠노사생팬",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "이현짱",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 91,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "누누",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "닷지",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "사악해",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "앙쨩",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "오댕",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "오시리스",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쟈카",
+            "guild": "광기",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "전멸",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "제토",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "키엘",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "태산",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "갓동동동동동동",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "광기의뇌제",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "빡빡",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠노꼼돌",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠큐",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "암흑이",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쿠쨩",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "토르짱",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "향붕일",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "화이어에그파괴자",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "간지",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "게임하는밍쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "깨치",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "라쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "시작이",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "악덕업주",
+            "guild": "광기",
+            "class": "향사수",
+            "grade": 23,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "짭이",
+            "guild": "광기",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "폭꾼",
+            "guild": "광기",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "광신비",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "알빠노빵울",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "토쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "밍쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "빵지",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "누야",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "힐여린",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "빨쨩",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "유지수",
+            "guild": "광기",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "버프": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "24": 1
+      },
+      "membersList": [
+        {
+          "nickname": "평강",
+          "guild": "버프",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "평강",
+            "guild": "버프",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "평강",
+            "guild": "버프",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "SAD": {
+      "members": 25,
+      "byClass": {
+        "집행관": 10,
+        "주문각인사": 7,
+        "향사수": 7,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "23": 3,
+        "22": 6,
+        "21": 9,
+        "20": 7
+      },
+      "membersList": [
+        {
+          "nickname": "하린의빙결",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 88,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "의의의의의",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "익명의스탠더",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 23,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "바엘의신내림",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "서동",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "진솔의페미니즘",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 22,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "안락동의나무도끼",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "야르",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "학씨",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "봉창의독화살",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 21,
+          "level": 87,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "동의",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "왈패",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "쥐나",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "진안",
+          "guild": "SAD",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "후추",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "노래방도우미수지",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "대지",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "아스의파뿌리",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "커비의고양",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 20,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "당근당근",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "도하의아빠",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "쌔드의눈물",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "왕또깨비",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "자연의보축",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "헬퍼의요염한비누줍기",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 20,
+          "level": 82,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "의의의의의",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "익명의스탠더",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진솔의페미니즘",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "봉창의독화살",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "왈패",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "커비의고양",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "왕또깨비",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "하린의빙결",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "바엘의신내림",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "서동",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "대지",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "당근당근",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쌔드의눈물",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "자연의보축",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "안락동의나무도끼",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "야르",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "학씨",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "동의",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쥐나",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "후추",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "노래방도우미수지",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "아스의파뿌리",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "도하의아빠",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "헬퍼의요염한비누줍기",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "바이람 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "진안",
+            "guild": "SAD",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "하린의빙결",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "의의의의의",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "익명의스탠더",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "바이람 02"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "바엘의신내림",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "서동",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진솔의페미니즘",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "안락동의나무도끼",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "야르",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "학씨",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "봉창의독화살",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "동의",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "왈패",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쥐나",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "진안",
+            "guild": "SAD",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "후추",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "노래방도우미수지",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "대지",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "아스의파뿌리",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "커비의고양",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "당근당근",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "도하의아빠",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "쌔드의눈물",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "왕또깨비",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "자연의보축",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "헬퍼의요염한비누줍기",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "새벽": {
+      "members": 3,
+      "byClass": {
+        "심연추방자": 2,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "만드레",
+          "guild": "새벽",
+          "class": "향사수",
+          "grade": 21,
+          "level": 84,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "백하얀",
+          "guild": "새벽",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 86,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "별무덤",
+          "guild": "새벽",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 83,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "만드레",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "백하얀",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "별무덤",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 83,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "만드레",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "백하얀",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          },
+          {
+            "nickname": "별무덤",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 83,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "평화로운골짜기": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "망치형이다",
+          "guild": "평화로운골짜기",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "망치형이다",
+            "guild": "평화로운골짜기",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "망치형이다",
+            "guild": "평화로운골짜기",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    }
+  }
+}
