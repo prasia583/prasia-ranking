@@ -1,0 +1,121 @@
+{
+  "server": "바이람 02",
+  "guilds": {
+    "새벽": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "만드레",
+          "guild": "새벽",
+          "class": "향사수",
+          "grade": 21,
+          "level": 84,
+          "server": "바이람 02"
+        },
+        {
+          "nickname": "별무덤",
+          "guild": "새벽",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 83,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "만드레",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "별무덤",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 83,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "만드레",
+            "guild": "새벽",
+            "class": "향사수",
+            "grade": 21,
+            "level": 84,
+            "server": "바이람 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "별무덤",
+            "guild": "새벽",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 83,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    },
+    "꽃잎": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "케리아",
+          "guild": "꽃잎",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "바이람 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "케리아",
+            "guild": "꽃잎",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "케리아",
+            "guild": "꽃잎",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "바이람 02"
+          }
+        ]
+      }
+    }
+  }
+}

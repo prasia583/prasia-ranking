@@ -1,0 +1,188 @@
+{
+  "server": "론도 03",
+  "guilds": {
+    "쉬어가": {
+      "members": 3,
+      "byClass": {
+        "집행관": 2,
+        "향사수": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "카크",
+          "guild": "쉬어가",
+          "class": "향사수",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "신베베",
+          "guild": "쉬어가",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "론카르",
+          "guild": "쉬어가",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "카크",
+            "guild": "쉬어가",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "신베베",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "론카르",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "카크",
+            "guild": "쉬어가",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "신베베",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "론카르",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "인왕산": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "앵두조아",
+          "guild": "인왕산",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "앵두조아",
+            "guild": "인왕산",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "앵두조아",
+            "guild": "인왕산",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "해결사": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "철벽",
+          "guild": "해결사",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "철벽",
+            "guild": "해결사",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "철벽",
+            "guild": "해결사",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      }
+    }
+  }
+}

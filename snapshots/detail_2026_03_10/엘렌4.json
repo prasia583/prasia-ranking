@@ -1,0 +1,619 @@
+{
+  "server": "엘렌 04",
+  "guilds": {
+    "바다": {
+      "members": 10,
+      "byClass": {
+        "집행관": 7,
+        "심연추방자": 1,
+        "주문각인사": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "24": 1,
+        "23": 1,
+        "22": 3,
+        "21": 2,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "군주",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "바다의왕자박명수",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 23,
+          "level": 89,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "비치",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "파란돌고래",
+          "guild": "바다",
+          "class": "환영검사",
+          "grade": 22,
+          "level": 86,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "퓨리다스",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "항해",
+          "guild": "바다",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "흰수염고래",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "백토끼",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "범고래",
+          "guild": "바다",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 84,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "절권도",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 20,
+          "level": 82,
+          "server": "엘렌 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "군주",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "바다의왕자박명수",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "비치",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "퓨리다스",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "흰수염고래",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "백토끼",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "절권도",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "엘렌 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "파란돌고래",
+            "guild": "바다",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "엘렌 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "항해",
+            "guild": "바다",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "엘렌 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "범고래",
+            "guild": "바다",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "엘렌 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "군주",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "엘렌 04"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "바다의왕자박명수",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "엘렌 04"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "비치",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "파란돌고래",
+            "guild": "바다",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "퓨리다스",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "엘렌 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "항해",
+            "guild": "바다",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "흰수염고래",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "엘렌 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "백토끼",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "범고래",
+            "guild": "바다",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "절권도",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "엘렌 04"
+          }
+        ]
+      }
+    },
+    "유목민": {
+      "members": 4,
+      "byClass": {
+        "집행관": 2,
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "사이폰",
+          "guild": "유목민",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 85,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "할루",
+          "guild": "유목민",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 86,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "못난이호떡",
+          "guild": "유목민",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "브라우니",
+          "guild": "유목민",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "엘렌 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "사이폰",
+            "guild": "유목민",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "할루",
+            "guild": "유목민",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "엘렌 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "못난이호떡",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "브라우니",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "사이폰",
+            "guild": "유목민",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "할루",
+            "guild": "유목민",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "못난이호떡",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "브라우니",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ]
+      }
+    },
+    "HERO": {
+      "members": 3,
+      "byClass": {
+        "향사수": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "이소리",
+          "guild": "HERO",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "뚱쓰",
+          "guild": "HERO",
+          "class": "향사수",
+          "grade": 20,
+          "level": 86,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "귀염귀염",
+          "guild": "HERO",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "엘렌 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "이소리",
+            "guild": "HERO",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "엘렌 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "뚱쓰",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "귀염귀염",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "이소리",
+            "guild": "HERO",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "엘렌 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "뚱쓰",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "귀염귀염",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ]
+      }
+    },
+    "군수창고": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 2
+      },
+      "membersList": [
+        {
+          "nickname": "국방부장관",
+          "guild": "군수창고",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "엘렌 04"
+        },
+        {
+          "nickname": "바이브",
+          "guild": "군수창고",
+          "class": "집행관",
+          "grade": 21,
+          "level": 83,
+          "server": "엘렌 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "국방부장관",
+            "guild": "군수창고",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "엘렌 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "바이브",
+            "guild": "군수창고",
+            "class": "집행관",
+            "grade": 21,
+            "level": 83,
+            "server": "엘렌 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "국방부장관",
+            "guild": "군수창고",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "엘렌 04"
+          },
+          {
+            "nickname": "바이브",
+            "guild": "군수창고",
+            "class": "집행관",
+            "grade": 21,
+            "level": 83,
+            "server": "엘렌 04"
+          }
+        ]
+      }
+    },
+    "태양": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "애슐린",
+          "guild": "태양",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "엘렌 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "애슐린",
+            "guild": "태양",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "애슐린",
+            "guild": "태양",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "엘렌 04"
+          }
+        ]
+      }
+    }
+  }
+}

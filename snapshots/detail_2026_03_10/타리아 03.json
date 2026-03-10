@@ -1,0 +1,285 @@
+{
+  "server": "타리아 03",
+  "guilds": {
+    "디아블로": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "24": 1,
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "팔라딘",
+          "guild": "디아블로",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 88,
+          "server": "타리아 03"
+        },
+        {
+          "nickname": "이너피스",
+          "guild": "디아블로",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 87,
+          "server": "타리아 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "팔라딘",
+            "guild": "디아블로",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 88,
+            "server": "타리아 03"
+          },
+          {
+            "nickname": "이너피스",
+            "guild": "디아블로",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 87,
+            "server": "타리아 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "팔라딘",
+            "guild": "디아블로",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 88,
+            "server": "타리아 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "이너피스",
+            "guild": "디아블로",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 87,
+            "server": "타리아 03"
+          }
+        ]
+      }
+    },
+    "뻐근": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 2,
+        "집행관": 2
+      },
+      "byGrade": {
+        "23": 1,
+        "21": 2,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "슈퍼그랑죠",
+          "guild": "뻐근",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "타리아 03"
+        },
+        {
+          "nickname": "하이퍼그랑조",
+          "guild": "뻐근",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "타리아 03"
+        },
+        {
+          "nickname": "쪼꼬빵",
+          "guild": "뻐근",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "타리아 03"
+        },
+        {
+          "nickname": "옥수수야",
+          "guild": "뻐근",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 83,
+          "server": "타리아 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "슈퍼그랑죠",
+            "guild": "뻐근",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "타리아 03"
+          },
+          {
+            "nickname": "하이퍼그랑조",
+            "guild": "뻐근",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "타리아 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "쪼꼬빵",
+            "guild": "뻐근",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "타리아 03"
+          },
+          {
+            "nickname": "옥수수야",
+            "guild": "뻐근",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "타리아 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "슈퍼그랑죠",
+            "guild": "뻐근",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "타리아 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "하이퍼그랑조",
+            "guild": "뻐근",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "타리아 03"
+          },
+          {
+            "nickname": "쪼꼬빵",
+            "guild": "뻐근",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "타리아 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "옥수수야",
+            "guild": "뻐근",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "타리아 03"
+          }
+        ]
+      }
+    },
+    "치맥": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "프라이",
+          "guild": "치맥",
+          "class": "태양감시자",
+          "grade": 21,
+          "level": 84,
+          "server": "타리아 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "프라이",
+            "guild": "치맥",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 84,
+            "server": "타리아 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "프라이",
+            "guild": "치맥",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 84,
+            "server": "타리아 03"
+          }
+        ]
+      }
+    },
+    "스미스": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아니카",
+          "guild": "스미스",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "타리아 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "아니카",
+            "guild": "스미스",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "타리아 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "아니카",
+            "guild": "스미스",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "타리아 03"
+          }
+        ]
+      }
+    }
+  }
+}

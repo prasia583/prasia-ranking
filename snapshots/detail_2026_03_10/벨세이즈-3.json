@@ -1,0 +1,218 @@
+{
+  "server": "벨세이즈 03",
+  "guilds": {
+    "소주한잔": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "24": 1
+      },
+      "membersList": [
+        {
+          "nickname": "치악산",
+          "guild": "소주한잔",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "벨세이즈 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "치악산",
+            "guild": "소주한잔",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "벨세이즈 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "치악산",
+            "guild": "소주한잔",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "벨세이즈 03"
+          }
+        ]
+      }
+    },
+    "그레이": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "회색",
+          "guild": "그레이",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "벨세이즈 03"
+        },
+        {
+          "nickname": "TRY",
+          "guild": "그레이",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 84,
+          "server": "벨세이즈 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "회색",
+            "guild": "그레이",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "TRY",
+            "guild": "그레이",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "회색",
+            "guild": "그레이",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "TRY",
+            "guild": "그레이",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 03"
+          }
+        ]
+      }
+    },
+    "A": {
+      "members": 3,
+      "byClass": {
+        "집행관": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "이순신",
+          "guild": "A",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "벨세이즈 03"
+        },
+        {
+          "nickname": "서신",
+          "guild": "A",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "벨세이즈 03"
+        },
+        {
+          "nickname": "크흠",
+          "guild": "A",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "벨세이즈 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "이순신",
+            "guild": "A",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 03"
+          },
+          {
+            "nickname": "크흠",
+            "guild": "A",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "서신",
+            "guild": "A",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "이순신",
+            "guild": "A",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "벨세이즈 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "서신",
+            "guild": "A",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 03"
+          },
+          {
+            "nickname": "크흠",
+            "guild": "A",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "벨세이즈 03"
+          }
+        ]
+      }
+    }
+  }
+}

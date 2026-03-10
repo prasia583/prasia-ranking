@@ -1,0 +1,102 @@
+{
+  "server": "바이람 03",
+  "guilds": {
+    "중립": {
+      "members": 3,
+      "byClass": {
+        "주문각인사": 1,
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 3
+      },
+      "membersList": [
+        {
+          "nickname": "피리",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 21,
+          "level": 87,
+          "server": "바이람 03"
+        },
+        {
+          "nickname": "레따",
+          "guild": "중립",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "바이람 03"
+        },
+        {
+          "nickname": "아바라",
+          "guild": "중립",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "바이람 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "피리",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "바이람 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "아바라",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "레따",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "피리",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "바이람 03"
+          },
+          {
+            "nickname": "레따",
+            "guild": "중립",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "바이람 03"
+          },
+          {
+            "nickname": "아바라",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "바이람 03"
+          }
+        ]
+      }
+    }
+  }
+}

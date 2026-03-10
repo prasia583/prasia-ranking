@@ -1,0 +1,204 @@
+{
+  "server": "카시미르 02",
+  "guilds": {
+    "인베르노": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "겨울잠쥐",
+          "guild": "인베르노",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 85,
+          "server": "카시미르 02"
+        },
+        {
+          "nickname": "신병",
+          "guild": "인베르노",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 84,
+          "server": "카시미르 02"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "겨울잠쥐",
+            "guild": "인베르노",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "신병",
+            "guild": "인베르노",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 84,
+            "server": "카시미르 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "겨울잠쥐",
+            "guild": "인베르노",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          },
+          {
+            "nickname": "신병",
+            "guild": "인베르노",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 84,
+            "server": "카시미르 02"
+          }
+        ]
+      }
+    },
+    "크롱": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "만세",
+          "guild": "크롱",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 85,
+          "server": "카시미르 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "만세",
+            "guild": "크롱",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "만세",
+            "guild": "크롱",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          }
+        ]
+      }
+    },
+    "디펜더": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "호루스",
+          "guild": "디펜더",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "카시미르 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "호루스",
+            "guild": "디펜더",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "호루스",
+            "guild": "디펜더",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          }
+        ]
+      }
+    },
+    "백": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "난로",
+          "guild": "백",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "카시미르 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "난로",
+            "guild": "백",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "난로",
+            "guild": "백",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카시미르 02"
+          }
+        ]
+      }
+    }
+  }
+}

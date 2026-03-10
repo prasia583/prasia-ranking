@@ -1,0 +1,134 @@
+{
+  "server": "카렐 05",
+  "guilds": {
+    "삼국지": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "여신",
+          "guild": "삼국지",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 85,
+          "server": "카렐 05"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "여신",
+            "guild": "삼국지",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "여신",
+            "guild": "삼국지",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 05"
+          }
+        ]
+      }
+    },
+    "카렐오": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "암흑개화",
+          "guild": "카렐오",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 84,
+          "server": "카렐 05"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "암흑개화",
+            "guild": "카렐오",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "암흑개화",
+            "guild": "카렐오",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 05"
+          }
+        ]
+      }
+    },
+    "채집전문가": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "수박서리범",
+          "guild": "채집전문가",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "카렐 05"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "수박서리범",
+            "guild": "채집전문가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "수박서리범",
+            "guild": "채집전문가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "카렐 05"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "server": "론도 02",
+  "guilds": {
+    "한신포차": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "태감",
+          "guild": "한신포차",
+          "class": "태양감시자",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "토론토",
+          "guild": "한신포차",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "태감",
+            "guild": "한신포차",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "토론토",
+            "guild": "한신포차",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "태감",
+            "guild": "한신포차",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "토론토",
+            "guild": "한신포차",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ]
+      }
+    }
+  }
+}

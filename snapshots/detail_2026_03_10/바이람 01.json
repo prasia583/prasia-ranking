@@ -1,0 +1,115 @@
+{
+  "server": "바이람 01",
+  "guilds": {
+    "과일가게": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "22": 2
+      },
+      "membersList": [
+        {
+          "nickname": "탕후루",
+          "guild": "과일가게",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "바이람 01"
+        },
+        {
+          "nickname": "수리수리",
+          "guild": "과일가게",
+          "class": "집행관",
+          "grade": 22,
+          "level": 85,
+          "server": "바이람 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "탕후루",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 01"
+          },
+          {
+            "nickname": "수리수리",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "바이람 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "탕후루",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "바이람 01"
+          },
+          {
+            "nickname": "수리수리",
+            "guild": "과일가게",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "바이람 01"
+          }
+        ]
+      }
+    },
+    "중지": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "럭키코인",
+          "guild": "중지",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 83,
+          "server": "바이람 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "럭키코인",
+            "guild": "중지",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "바이람 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "럭키코인",
+            "guild": "중지",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "바이람 01"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "server": "카렐 04",
+  "guilds": {
+    "어시스트모드": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "오리지널",
+          "guild": "어시스트모드",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 85,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "오리지널",
+            "guild": "어시스트모드",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "오리지널",
+            "guild": "어시스트모드",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "혈액형": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "통감자",
+          "guild": "혈액형",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "통감자",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "통감자",
+            "guild": "혈액형",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    },
+    "한우": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "믹스넛",
+          "guild": "한우",
+          "class": "향사수",
+          "grade": 20,
+          "level": 84,
+          "server": "카렐 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "믹스넛",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "믹스넛",
+            "guild": "한우",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "카렐 04"
+          }
+        ]
+      }
+    }
+  }
+}

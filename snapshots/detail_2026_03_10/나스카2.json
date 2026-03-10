@@ -1,0 +1,325 @@
+{
+  "server": "나스카 02",
+  "guilds": {
+    "직장인모임": {
+      "members": 4,
+      "byClass": {
+        "집행관": 2,
+        "향사수": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "Baro",
+          "guild": "직장인모임",
+          "class": "환영검사",
+          "grade": 22,
+          "level": 88,
+          "server": "나스카 02"
+        },
+        {
+          "nickname": "미르띤",
+          "guild": "직장인모임",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "나스카 02"
+        },
+        {
+          "nickname": "대거엄",
+          "guild": "직장인모임",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "나스카 02"
+        },
+        {
+          "nickname": "참대선",
+          "guild": "직장인모임",
+          "class": "향사수",
+          "grade": 20,
+          "level": 83,
+          "server": "나스카 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "Baro",
+            "guild": "직장인모임",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 88,
+            "server": "나스카 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "참대선",
+            "guild": "직장인모임",
+            "class": "향사수",
+            "grade": 20,
+            "level": 83,
+            "server": "나스카 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "미르띤",
+            "guild": "직장인모임",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "나스카 02"
+          },
+          {
+            "nickname": "대거엄",
+            "guild": "직장인모임",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "나스카 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "Baro",
+            "guild": "직장인모임",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 88,
+            "server": "나스카 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "미르띤",
+            "guild": "직장인모임",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "나스카 02"
+          },
+          {
+            "nickname": "대거엄",
+            "guild": "직장인모임",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "나스카 02"
+          },
+          {
+            "nickname": "참대선",
+            "guild": "직장인모임",
+            "class": "향사수",
+            "grade": 20,
+            "level": 83,
+            "server": "나스카 02"
+          }
+        ]
+      }
+    },
+    "엔틱빨대단": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "먼곳",
+          "guild": "엔틱빨대단",
+          "class": "향사수",
+          "grade": 20,
+          "level": 84,
+          "server": "나스카 02"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "먼곳",
+            "guild": "엔틱빨대단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "나스카 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "먼곳",
+            "guild": "엔틱빨대단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "나스카 02"
+          }
+        ]
+      }
+    },
+    "emart": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "마데카솔",
+          "guild": "emart",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "나스카 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "마데카솔",
+            "guild": "emart",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "나스카 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "마데카솔",
+            "guild": "emart",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "나스카 02"
+          }
+        ]
+      }
+    },
+    "쉼터": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "숙숙",
+          "guild": "쉼터",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "나스카 02"
+        },
+        {
+          "nickname": "엔쏘",
+          "guild": "쉼터",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "나스카 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "숙숙",
+            "guild": "쉼터",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "나스카 02"
+          },
+          {
+            "nickname": "엔쏘",
+            "guild": "쉼터",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "나스카 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "숙숙",
+            "guild": "쉼터",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "나스카 02"
+          },
+          {
+            "nickname": "엔쏘",
+            "guild": "쉼터",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "나스카 02"
+          }
+        ]
+      }
+    },
+    "따르릉": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "따르릉",
+          "guild": "따르릉",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "나스카 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "따르릉",
+            "guild": "따르릉",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "나스카 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "따르릉",
+            "guild": "따르릉",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "나스카 02"
+          }
+        ]
+      }
+    }
+  }
+}

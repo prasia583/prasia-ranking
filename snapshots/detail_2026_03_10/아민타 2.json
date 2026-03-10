@@ -1,0 +1,325 @@
+{
+  "server": "아민타 02",
+  "guilds": {
+    "2군": {
+      "members": 5,
+      "byClass": {
+        "집행관": 3,
+        "주문각인사": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 2,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "골든",
+          "guild": "2군",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "희재",
+          "guild": "2군",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "코인",
+          "guild": "2군",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 85,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "은장",
+          "guild": "2군",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "캐치",
+          "guild": "2군",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "아민타 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "골든",
+            "guild": "2군",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "아민타 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "희재",
+            "guild": "2군",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "은장",
+            "guild": "2군",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "캐치",
+            "guild": "2군",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "아민타 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "코인",
+            "guild": "2군",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 85,
+            "server": "아민타 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "골든",
+            "guild": "2군",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "희재",
+            "guild": "2군",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아민타 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "코인",
+            "guild": "2군",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 85,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "은장",
+            "guild": "2군",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "캐치",
+            "guild": "2군",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "아민타 02"
+          }
+        ]
+      }
+    },
+    "땡": {
+      "members": 6,
+      "byClass": {
+        "주문각인사": 2,
+        "향사수": 2,
+        "집행관": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 6
+      },
+      "membersList": [
+        {
+          "nickname": "칸쵸비",
+          "guild": "땡",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "네네",
+          "guild": "땡",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "르브",
+          "guild": "땡",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "스스",
+          "guild": "땡",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 84,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "아아",
+          "guild": "땡",
+          "class": "향사수",
+          "grade": 20,
+          "level": 84,
+          "server": "아민타 02"
+        },
+        {
+          "nickname": "우영우",
+          "guild": "땡",
+          "class": "향사수",
+          "grade": 20,
+          "level": 84,
+          "server": "아민타 02"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "스스",
+            "guild": "땡",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "아아",
+            "guild": "땡",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "우영우",
+            "guild": "땡",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "네네",
+            "guild": "땡",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "르브",
+            "guild": "땡",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "칸쵸비",
+            "guild": "땡",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "아민타 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "칸쵸비",
+            "guild": "땡",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "네네",
+            "guild": "땡",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "르브",
+            "guild": "땡",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "스스",
+            "guild": "땡",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "아아",
+            "guild": "땡",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          },
+          {
+            "nickname": "우영우",
+            "guild": "땡",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "아민타 02"
+          }
+        ]
+      }
+    }
+  }
+}

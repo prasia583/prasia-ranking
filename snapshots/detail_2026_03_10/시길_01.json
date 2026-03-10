@@ -1,0 +1,287 @@
+{
+  "server": "시길 01",
+  "guilds": {
+    "착한중립": {
+      "members": 7,
+      "byClass": {
+        "집행관": 5,
+        "향사수": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "22": 2,
+        "20": 5
+      },
+      "membersList": [
+        {
+          "nickname": "총무",
+          "guild": "착한중립",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "시길 01"
+        },
+        {
+          "nickname": "착한아이",
+          "guild": "착한중립",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "시길 01"
+        },
+        {
+          "nickname": "검혼",
+          "guild": "착한중립",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "시길 01"
+        },
+        {
+          "nickname": "재워",
+          "guild": "착한중립",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "시길 01"
+        },
+        {
+          "nickname": "말숙이",
+          "guild": "착한중립",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "시길 01"
+        },
+        {
+          "nickname": "비유",
+          "guild": "착한중립",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "시길 01"
+        },
+        {
+          "nickname": "안영이",
+          "guild": "착한중립",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 83,
+          "server": "시길 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "총무",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "착한아이",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "재워",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "말숙이",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "비유",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "안영이",
+            "guild": "착한중립",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "검혼",
+            "guild": "착한중립",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "시길 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "총무",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "착한아이",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "시길 01"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "검혼",
+            "guild": "착한중립",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "재워",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "말숙이",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "비유",
+            "guild": "착한중립",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          },
+          {
+            "nickname": "안영이",
+            "guild": "착한중립",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          }
+        ]
+      }
+    },
+    "시간의힘": {
+      "members": 1,
+      "byClass": {
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "금천",
+          "guild": "시간의힘",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 83,
+          "server": "시길 01"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "금천",
+            "guild": "시간의힘",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "금천",
+            "guild": "시간의힘",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 83,
+            "server": "시길 01"
+          }
+        ]
+      }
+    },
+    "미생": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "소주마스타이스리",
+          "guild": "미생",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "시길 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "소주마스타이스리",
+            "guild": "미생",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "시길 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "소주마스타이스리",
+            "guild": "미생",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "시길 01"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "server": "이오스 03",
+  "guilds": {
+    "꿈": {
+      "members": 6,
+      "byClass": {
+        "집행관": 3,
+        "심연추방자": 2,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "23": 1,
+        "22": 1,
+        "21": 3,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "골빈당",
+          "guild": "꿈",
+          "class": "심연추방자",
+          "grade": 23,
+          "level": 86,
+          "server": "이오스 03"
+        },
+        {
+          "nickname": "옥군",
+          "guild": "꿈",
+          "class": "환영검사",
+          "grade": 22,
+          "level": 86,
+          "server": "이오스 03"
+        },
+        {
+          "nickname": "심판자",
+          "guild": "꿈",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "이오스 03"
+        },
+        {
+          "nickname": "맨도로롱",
+          "guild": "꿈",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "이오스 03"
+        },
+        {
+          "nickname": "규민왓어염",
+          "guild": "꿈",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "이오스 03"
+        },
+        {
+          "nickname": "맨해솔",
+          "guild": "꿈",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 85,
+          "server": "이오스 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "골빈당",
+            "guild": "꿈",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 86,
+            "server": "이오스 03"
+          },
+          {
+            "nickname": "맨해솔",
+            "guild": "꿈",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "이오스 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "옥군",
+            "guild": "꿈",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "이오스 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "심판자",
+            "guild": "꿈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "이오스 03"
+          },
+          {
+            "nickname": "맨도로롱",
+            "guild": "꿈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "이오스 03"
+          },
+          {
+            "nickname": "규민왓어염",
+            "guild": "꿈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "이오스 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "골빈당",
+            "guild": "꿈",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 86,
+            "server": "이오스 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "옥군",
+            "guild": "꿈",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "이오스 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "심판자",
+            "guild": "꿈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "이오스 03"
+          },
+          {
+            "nickname": "맨도로롱",
+            "guild": "꿈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "이오스 03"
+          },
+          {
+            "nickname": "규민왓어염",
+            "guild": "꿈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "이오스 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "맨해솔",
+            "guild": "꿈",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "이오스 03"
+          }
+        ]
+      }
+    }
+  }
+}

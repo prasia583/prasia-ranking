@@ -1,0 +1,48 @@
+{
+  "server": "마커스 05",
+  "guilds": {
+    "포차": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "성주",
+          "guild": "포차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "마커스 05"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "성주",
+            "guild": "포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "마커스 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "성주",
+            "guild": "포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "마커스 05"
+          }
+        ]
+      }
+    }
+  }
+}

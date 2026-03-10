@@ -1,0 +1,255 @@
+{
+  "server": "나세르 01",
+  "guilds": {
+    "프론테라": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 2,
+        "집행관": 2
+      },
+      "byGrade": {
+        "24": 3,
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "게펜",
+          "guild": "프론테라",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "나세르 01"
+        },
+        {
+          "nickname": "알데바란",
+          "guild": "프론테라",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "나세르 01"
+        },
+        {
+          "nickname": "달방울",
+          "guild": "프론테라",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "나세르 01"
+        },
+        {
+          "nickname": "라헬",
+          "guild": "프론테라",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "나세르 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "게펜",
+            "guild": "프론테라",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "나세르 01"
+          },
+          {
+            "nickname": "달방울",
+            "guild": "프론테라",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "나세르 01"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "알데바란",
+            "guild": "프론테라",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "나세르 01"
+          },
+          {
+            "nickname": "라헬",
+            "guild": "프론테라",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "나세르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "게펜",
+            "guild": "프론테라",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "나세르 01"
+          },
+          {
+            "nickname": "알데바란",
+            "guild": "프론테라",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "나세르 01"
+          },
+          {
+            "nickname": "달방울",
+            "guild": "프론테라",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "나세르 01"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "라헬",
+            "guild": "프론테라",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "나세르 01"
+          }
+        ]
+      }
+    },
+    "요로": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "22": 1
+      },
+      "membersList": [
+        {
+          "nickname": "뚜따",
+          "guild": "요로",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "나세르 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "뚜따",
+            "guild": "요로",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "나세르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "뚜따",
+            "guild": "요로",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "나세르 01"
+          }
+        ]
+      }
+    },
+    "우정": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "밀라보레아스",
+          "guild": "우정",
+          "class": "태양감시자",
+          "grade": 21,
+          "level": 85,
+          "server": "나세르 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "밀라보레아스",
+            "guild": "우정",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 85,
+            "server": "나세르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "밀라보레아스",
+            "guild": "우정",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 85,
+            "server": "나세르 01"
+          }
+        ]
+      }
+    },
+    "봄봄": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "와사비",
+          "guild": "봄봄",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 85,
+          "server": "나세르 01"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "와사비",
+            "guild": "봄봄",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "와사비",
+            "guild": "봄봄",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 01"
+          }
+        ]
+      }
+    }
+  }
+}
