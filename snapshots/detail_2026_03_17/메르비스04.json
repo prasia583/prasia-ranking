@@ -1,0 +1,487 @@
+{
+  "server": "메르비스 04",
+  "guilds": {
+    "한국인": {
+      "members": 7,
+      "byClass": {
+        "집행관": 4,
+        "주문각인사": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "22": 3,
+        "21": 3,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "탄산수",
+          "guild": "한국인",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "태양",
+          "guild": "한국인",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 86,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "빨때단",
+          "guild": "한국인",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 85,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "끼끼곤듀",
+          "guild": "한국인",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "스킬",
+          "guild": "한국인",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "레온",
+          "guild": "한국인",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "테라",
+          "guild": "한국인",
+          "class": "집행관",
+          "grade": 20,
+          "level": 82,
+          "server": "메르비스 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "태양",
+            "guild": "한국인",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "빨때단",
+            "guild": "한국인",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 85,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "스킬",
+            "guild": "한국인",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "메르비스 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "탄산수",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "끼끼곤듀",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "레온",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "테라",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "메르비스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "탄산수",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "태양",
+            "guild": "한국인",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "빨때단",
+            "guild": "한국인",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 85,
+            "server": "메르비스 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "끼끼곤듀",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "스킬",
+            "guild": "한국인",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "레온",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "테라",
+            "guild": "한국인",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "메르비스 04"
+          }
+        ]
+      }
+    },
+    "Mystery": {
+      "members": 3,
+      "byClass": {
+        "집행관": 2,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "21": 2
+      },
+      "membersList": [
+        {
+          "nickname": "뉴비수집가",
+          "guild": "Mystery",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 84,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "자린고비",
+          "guild": "Mystery",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "포치타",
+          "guild": "Mystery",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "메르비스 04"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "뉴비수집가",
+            "guild": "Mystery",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "자린고비",
+            "guild": "Mystery",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "포치타",
+            "guild": "Mystery",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "뉴비수집가",
+            "guild": "Mystery",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "자린고비",
+            "guild": "Mystery",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "포치타",
+            "guild": "Mystery",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ]
+      }
+    },
+    "로하": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "22": 1,
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "우솝해머",
+          "guild": "로하",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "KUN",
+          "guild": "로하",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "메르비스 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "우솝해머",
+            "guild": "로하",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          },
+          {
+            "nickname": "KUN",
+            "guild": "로하",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "우솝해머",
+            "guild": "로하",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "KUN",
+            "guild": "로하",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ]
+      }
+    },
+    "Nan": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "모과",
+          "guild": "Nan",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "메르비스 04"
+        },
+        {
+          "nickname": "QBZ",
+          "guild": "Nan",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 83,
+          "server": "메르비스 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "모과",
+            "guild": "Nan",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "QBZ",
+            "guild": "Nan",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "메르비스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "모과",
+            "guild": "Nan",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "메르비스 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "QBZ",
+            "guild": "Nan",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "메르비스 04"
+          }
+        ]
+      }
+    },
+    "ABCDEF": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "끼리곤쥬",
+          "guild": "ABCDEF",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "메르비스 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "끼리곤쥬",
+            "guild": "ABCDEF",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "끼리곤쥬",
+            "guild": "ABCDEF",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "메르비스 04"
+          }
+        ]
+      }
+    }
+  }
+}

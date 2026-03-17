@@ -1,0 +1,271 @@
+{
+  "server": "가리안 03",
+  "guilds": {
+    "중립대학": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "누나의개입니다",
+          "guild": "중립대학",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "가리안 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "누나의개입니다",
+            "guild": "중립대학",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "가리안 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "누나의개입니다",
+            "guild": "중립대학",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "가리안 03"
+          }
+        ]
+      }
+    },
+    "시아": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "승천",
+          "guild": "시아",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "가리안 03"
+        },
+        {
+          "nickname": "크리스탈",
+          "guild": "시아",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "가리안 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "크리스탈",
+            "guild": "시아",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "승천",
+            "guild": "시아",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "가리안 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "승천",
+            "guild": "시아",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "가리안 03"
+          },
+          {
+            "nickname": "크리스탈",
+            "guild": "시아",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 03"
+          }
+        ]
+      }
+    },
+    "운하": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "로은",
+          "guild": "운하",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "가리안 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "로은",
+            "guild": "운하",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "로은",
+            "guild": "운하",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 03"
+          }
+        ]
+      }
+    },
+    "투팩": {
+      "members": 2,
+      "byClass": {
+        "집행관": 2
+      },
+      "byGrade": {
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "만개",
+          "guild": "투팩",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "가리안 03"
+        },
+        {
+          "nickname": "별봉",
+          "guild": "투팩",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "가리안 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "만개",
+            "guild": "투팩",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "가리안 03"
+          },
+          {
+            "nickname": "별봉",
+            "guild": "투팩",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "가리안 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "만개",
+            "guild": "투팩",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "가리안 03"
+          },
+          {
+            "nickname": "별봉",
+            "guild": "투팩",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "가리안 03"
+          }
+        ]
+      }
+    },
+    "OZ": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "제일도",
+          "guild": "OZ",
+          "class": "집행관",
+          "grade": 20,
+          "level": 82,
+          "server": "가리안 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "제일도",
+            "guild": "OZ",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "가리안 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "제일도",
+            "guild": "OZ",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "가리안 03"
+          }
+        ]
+      }
+    }
+  }
+}

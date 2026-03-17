@@ -1,0 +1,643 @@
+{
+  "server": "제롬 03",
+  "guilds": {
+    "바다": {
+      "members": 11,
+      "byClass": {
+        "집행관": 8,
+        "심연추방자": 1,
+        "주문각인사": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "24": 1,
+        "23": 1,
+        "22": 3,
+        "21": 2,
+        "20": 4
+      },
+      "membersList": [
+        {
+          "nickname": "군주",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "바다의왕자박명수",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 23,
+          "level": 89,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "비치",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "파란돌고래",
+          "guild": "바다",
+          "class": "환영검사",
+          "grade": 22,
+          "level": 86,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "퓨리다스",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "항해",
+          "guild": "바다",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "흰수염고래",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "백토끼",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "범고래",
+          "guild": "바다",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 84,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "절권도",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "천지",
+          "guild": "바다",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "제롬 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "군주",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "바다의왕자박명수",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "비치",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "퓨리다스",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "흰수염고래",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "백토끼",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "절권도",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "천지",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "제롬 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "파란돌고래",
+            "guild": "바다",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "제롬 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "항해",
+            "guild": "바다",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "제롬 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "범고래",
+            "guild": "바다",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "제롬 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "군주",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "제롬 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "바다의왕자박명수",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "제롬 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "비치",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "파란돌고래",
+            "guild": "바다",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "퓨리다스",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "제롬 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "항해",
+            "guild": "바다",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "흰수염고래",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "제롬 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "백토끼",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "범고래",
+            "guild": "바다",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "절권도",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "천지",
+            "guild": "바다",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "제롬 03"
+          }
+        ]
+      }
+    },
+    "유목민": {
+      "members": 4,
+      "byClass": {
+        "집행관": 2,
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "사이폰",
+          "guild": "유목민",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 86,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "할루",
+          "guild": "유목민",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 86,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "못난이호떡",
+          "guild": "유목민",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "브라우니",
+          "guild": "유목민",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "제롬 03"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "사이폰",
+            "guild": "유목민",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "제롬 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "할루",
+            "guild": "유목민",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "제롬 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "못난이호떡",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "브라우니",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "사이폰",
+            "guild": "유목민",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 86,
+            "server": "제롬 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "할루",
+            "guild": "유목민",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "못난이호떡",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "브라우니",
+            "guild": "유목민",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          }
+        ]
+      }
+    },
+    "HERO": {
+      "members": 3,
+      "byClass": {
+        "향사수": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "이소리",
+          "guild": "HERO",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "뚱쓰",
+          "guild": "HERO",
+          "class": "향사수",
+          "grade": 20,
+          "level": 86,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "귀염귀염",
+          "guild": "HERO",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "제롬 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "이소리",
+            "guild": "HERO",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "제롬 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "뚱쓰",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "귀염귀염",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "이소리",
+            "guild": "HERO",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "제롬 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "뚱쓰",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "귀염귀염",
+            "guild": "HERO",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          }
+        ]
+      }
+    },
+    "군수창고": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 2
+      },
+      "membersList": [
+        {
+          "nickname": "국방부장관",
+          "guild": "군수창고",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "제롬 03"
+        },
+        {
+          "nickname": "바이브",
+          "guild": "군수창고",
+          "class": "집행관",
+          "grade": 21,
+          "level": 83,
+          "server": "제롬 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "국방부장관",
+            "guild": "군수창고",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "제롬 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "바이브",
+            "guild": "군수창고",
+            "class": "집행관",
+            "grade": 21,
+            "level": 83,
+            "server": "제롬 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "국방부장관",
+            "guild": "군수창고",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "제롬 03"
+          },
+          {
+            "nickname": "바이브",
+            "guild": "군수창고",
+            "class": "집행관",
+            "grade": 21,
+            "level": 83,
+            "server": "제롬 03"
+          }
+        ]
+      }
+    },
+    "태양": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "애슐린",
+          "guild": "태양",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "제롬 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "애슐린",
+            "guild": "태양",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "애슐린",
+            "guild": "태양",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 03"
+          }
+        ]
+      }
+    }
+  }
+}

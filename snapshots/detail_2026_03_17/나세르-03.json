@@ -1,0 +1,450 @@
+{
+  "server": "나세르 03",
+  "guilds": {
+    "쎈": {
+      "members": 8,
+      "byClass": {
+        "집행관": 3,
+        "주문각인사": 2,
+        "태양감시자": 1,
+        "향사수": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "24": 3,
+        "23": 1,
+        "21": 3,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쎈사수",
+          "guild": "쎈",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "쎈젼설",
+          "guild": "쎈",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "쎈밤새썰자",
+          "guild": "쎈",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 88,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "반갑습네다",
+          "guild": "쎈",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "쎈나이수",
+          "guild": "쎈",
+          "class": "향사수",
+          "grade": 21,
+          "level": 88,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "쎈종훈",
+          "guild": "쎈",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "쎈짱아",
+          "guild": "쎈",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "쎈테스",
+          "guild": "쎈",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 85,
+          "server": "나세르 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "쎈밤새썰자",
+            "guild": "쎈",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "나세르 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "쎈사수",
+            "guild": "쎈",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "쎈젼설",
+            "guild": "쎈",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "쎈짱아",
+            "guild": "쎈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "반갑습네다",
+            "guild": "쎈",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "쎈종훈",
+            "guild": "쎈",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "나세르 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "쎈나이수",
+            "guild": "쎈",
+            "class": "향사수",
+            "grade": 21,
+            "level": 88,
+            "server": "나세르 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "쎈테스",
+            "guild": "쎈",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "쎈사수",
+            "guild": "쎈",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "쎈젼설",
+            "guild": "쎈",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "쎈밤새썰자",
+            "guild": "쎈",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "나세르 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "반갑습네다",
+            "guild": "쎈",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "나세르 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "쎈나이수",
+            "guild": "쎈",
+            "class": "향사수",
+            "grade": 21,
+            "level": 88,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "쎈종훈",
+            "guild": "쎈",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "쎈짱아",
+            "guild": "쎈",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "쎈테스",
+            "guild": "쎈",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ]
+      }
+    },
+    "포차": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "퍼스트",
+          "guild": "포차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "여정",
+          "guild": "포차",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "나세르 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "퍼스트",
+            "guild": "포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "나세르 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "여정",
+            "guild": "포차",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "퍼스트",
+            "guild": "포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "나세르 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "여정",
+            "guild": "포차",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ]
+      }
+    },
+    "달빛천사": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "달빛천사",
+          "guild": "달빛천사",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 87,
+          "server": "나세르 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "달빛천사",
+            "guild": "달빛천사",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 87,
+            "server": "나세르 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "달빛천사",
+            "guild": "달빛천사",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 87,
+            "server": "나세르 03"
+          }
+        ]
+      }
+    },
+    "랜드마크": {
+      "members": 3,
+      "byClass": {
+        "주문각인사": 1,
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "Storm",
+          "guild": "랜드마크",
+          "class": "향사수",
+          "grade": 20,
+          "level": 86,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "푸른밤",
+          "guild": "랜드마크",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "나세르 03"
+        },
+        {
+          "nickname": "술식전개",
+          "guild": "랜드마크",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "나세르 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "Storm",
+            "guild": "랜드마크",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "푸른밤",
+            "guild": "랜드마크",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "술식전개",
+            "guild": "랜드마크",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "Storm",
+            "guild": "랜드마크",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "푸른밤",
+            "guild": "랜드마크",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 03"
+          },
+          {
+            "nickname": "술식전개",
+            "guild": "랜드마크",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "나세르 03"
+          }
+        ]
+      }
+    }
+  }
+}

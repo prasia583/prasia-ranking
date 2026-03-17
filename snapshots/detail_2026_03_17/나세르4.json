@@ -1,0 +1,256 @@
+{
+  "server": "나세르 04",
+  "guilds": {
+    "컨트롤": {
+      "members": 6,
+      "byClass": {
+        "심연추방자": 2,
+        "주문각인사": 2,
+        "집행관": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "21": 2,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "초코볼",
+          "guild": "컨트롤",
+          "class": "심연추방자",
+          "grade": 22,
+          "level": 87,
+          "server": "나세르 04"
+        },
+        {
+          "nickname": "마스까이",
+          "guild": "컨트롤",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "나세르 04"
+        },
+        {
+          "nickname": "벤틀리",
+          "guild": "컨트롤",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 85,
+          "server": "나세르 04"
+        },
+        {
+          "nickname": "쇼군",
+          "guild": "컨트롤",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 86,
+          "server": "나세르 04"
+        },
+        {
+          "nickname": "얍얍",
+          "guild": "컨트롤",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "나세르 04"
+        },
+        {
+          "nickname": "호두",
+          "guild": "컨트롤",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "나세르 04"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "초코볼",
+            "guild": "컨트롤",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 87,
+            "server": "나세르 04"
+          },
+          {
+            "nickname": "벤틀리",
+            "guild": "컨트롤",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 85,
+            "server": "나세르 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "마스까이",
+            "guild": "컨트롤",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "나세르 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "쇼군",
+            "guild": "컨트롤",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "얍얍",
+            "guild": "컨트롤",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "나세르 04"
+          },
+          {
+            "nickname": "호두",
+            "guild": "컨트롤",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "나세르 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "초코볼",
+            "guild": "컨트롤",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 87,
+            "server": "나세르 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "마스까이",
+            "guild": "컨트롤",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "나세르 04"
+          },
+          {
+            "nickname": "벤틀리",
+            "guild": "컨트롤",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 85,
+            "server": "나세르 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "쇼군",
+            "guild": "컨트롤",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 04"
+          },
+          {
+            "nickname": "얍얍",
+            "guild": "컨트롤",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "나세르 04"
+          },
+          {
+            "nickname": "호두",
+            "guild": "컨트롤",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "나세르 04"
+          }
+        ]
+      }
+    },
+    "령왕": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "시도루이",
+          "guild": "령왕",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "나세르 04"
+        },
+        {
+          "nickname": "논파",
+          "guild": "령왕",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 86,
+          "server": "나세르 04"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "시도루이",
+            "guild": "령왕",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "나세르 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "논파",
+            "guild": "령왕",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "시도루이",
+            "guild": "령왕",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "나세르 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "논파",
+            "guild": "령왕",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "나세르 04"
+          }
+        ]
+      }
+    }
+  }
+}
