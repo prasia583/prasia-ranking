@@ -1,0 +1,509 @@
+{
+  "server": "사도바 05",
+  "guilds": {
+    "요양원": {
+      "members": 4,
+      "byClass": {
+        "심연추방자": 1,
+        "주문각인사": 1,
+        "집행관": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "24": 1,
+        "22": 1,
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "틀니폭격기",
+          "guild": "요양원",
+          "class": "심연추방자",
+          "grade": 24,
+          "level": 89,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "낙상주의",
+          "guild": "요양원",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 87,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "그라펜",
+          "guild": "요양원",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "관절수호자",
+          "guild": "요양원",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "사도바 05"
+        }
+      ],
+      "byClassMembers": {
+        "심연추방자": [
+          {
+            "nickname": "틀니폭격기",
+            "guild": "요양원",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 05"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "낙상주의",
+            "guild": "요양원",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 87,
+            "server": "사도바 05"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "그라펜",
+            "guild": "요양원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "관절수호자",
+            "guild": "요양원",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "사도바 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "틀니폭격기",
+            "guild": "요양원",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 05"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "낙상주의",
+            "guild": "요양원",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 87,
+            "server": "사도바 05"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "그라펜",
+            "guild": "요양원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 05"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "관절수호자",
+            "guild": "요양원",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "사도바 05"
+          }
+        ]
+      }
+    },
+    "Galaxy": {
+      "members": 12,
+      "byClass": {
+        "집행관": 3,
+        "태양감시자": 3,
+        "주문각인사": 2,
+        "향사수": 2,
+        "심연추방자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "22": 3,
+        "21": 4,
+        "20": 5
+      },
+      "membersList": [
+        {
+          "nickname": "마호우시",
+          "guild": "Galaxy",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 88,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "무쏘",
+          "guild": "Galaxy",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 88,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "김육검",
+          "guild": "Galaxy",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "스미마셍",
+          "guild": "Galaxy",
+          "class": "태양감시자",
+          "grade": 21,
+          "level": 88,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "캔델",
+          "guild": "Galaxy",
+          "class": "심연추방자",
+          "grade": 21,
+          "level": 87,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "소우주",
+          "guild": "Galaxy",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "그록",
+          "guild": "Galaxy",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "파나마",
+          "guild": "Galaxy",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "마초",
+          "guild": "Galaxy",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "엄마재흙먹어",
+          "guild": "Galaxy",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 84,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "냐옹",
+          "guild": "Galaxy",
+          "class": "향사수",
+          "grade": 20,
+          "level": 83,
+          "server": "사도바 05"
+        },
+        {
+          "nickname": "달봉이",
+          "guild": "Galaxy",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 83,
+          "server": "사도바 05"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "무쏘",
+            "guild": "Galaxy",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "스미마셍",
+            "guild": "Galaxy",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 88,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "달봉이",
+            "guild": "Galaxy",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "마호우시",
+            "guild": "Galaxy",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "파나마",
+            "guild": "Galaxy",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "사도바 05"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "김육검",
+            "guild": "Galaxy",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "소우주",
+            "guild": "Galaxy",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "마초",
+            "guild": "Galaxy",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "사도바 05"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "캔델",
+            "guild": "Galaxy",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 05"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "그록",
+            "guild": "Galaxy",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "냐옹",
+            "guild": "Galaxy",
+            "class": "향사수",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 05"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "엄마재흙먹어",
+            "guild": "Galaxy",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "사도바 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "마호우시",
+            "guild": "Galaxy",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "무쏘",
+            "guild": "Galaxy",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "김육검",
+            "guild": "Galaxy",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "사도바 05"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "스미마셍",
+            "guild": "Galaxy",
+            "class": "태양감시자",
+            "grade": 21,
+            "level": 88,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "캔델",
+            "guild": "Galaxy",
+            "class": "심연추방자",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "소우주",
+            "guild": "Galaxy",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "그록",
+            "guild": "Galaxy",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 05"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "파나마",
+            "guild": "Galaxy",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "마초",
+            "guild": "Galaxy",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "엄마재흙먹어",
+            "guild": "Galaxy",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "냐옹",
+            "guild": "Galaxy",
+            "class": "향사수",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 05"
+          },
+          {
+            "nickname": "달봉이",
+            "guild": "Galaxy",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 05"
+          }
+        ]
+      }
+    },
+    "룬어": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "요리왕비룡",
+          "guild": "룬어",
+          "class": "집행관",
+          "grade": 21,
+          "level": 83,
+          "server": "사도바 05"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "요리왕비룡",
+            "guild": "룬어",
+            "class": "집행관",
+            "grade": 21,
+            "level": 83,
+            "server": "사도바 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "요리왕비룡",
+            "guild": "룬어",
+            "class": "집행관",
+            "grade": 21,
+            "level": 83,
+            "server": "사도바 05"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "server": "아민타 03",
+  "guilds": {
+    "베르사유": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "24": 1
+      },
+      "membersList": [
+        {
+          "nickname": "구슬",
+          "guild": "베르사유",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "아민타 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "구슬",
+            "guild": "베르사유",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "아민타 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "구슬",
+            "guild": "베르사유",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "아민타 03"
+          }
+        ]
+      }
+    },
+    "결사명없음": {
+      "members": 3,
+      "byClass": {
+        "심연추방자": 1,
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "24": 1,
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "부담없는캐릭",
+          "guild": "결사명없음",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "아민타 03"
+        },
+        {
+          "nickname": "버들피리",
+          "guild": "결사명없음",
+          "class": "향사수",
+          "grade": 21,
+          "level": 87,
+          "server": "아민타 03"
+        },
+        {
+          "nickname": "준구",
+          "guild": "결사명없음",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 86,
+          "server": "아민타 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "부담없는캐릭",
+            "guild": "결사명없음",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "아민타 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "버들피리",
+            "guild": "결사명없음",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "아민타 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "준구",
+            "guild": "결사명없음",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 86,
+            "server": "아민타 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "부담없는캐릭",
+            "guild": "결사명없음",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "아민타 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "버들피리",
+            "guild": "결사명없음",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "아민타 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "준구",
+            "guild": "결사명없음",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 86,
+            "server": "아민타 03"
+          }
+        ]
+      }
+    },
+    "YouTube": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "유튜브",
+          "guild": "YouTube",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "아민타 03"
+        },
+        {
+          "nickname": "하리보",
+          "guild": "YouTube",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "아민타 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "유튜브",
+            "guild": "YouTube",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "아민타 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "하리보",
+            "guild": "YouTube",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "아민타 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "유튜브",
+            "guild": "YouTube",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "아민타 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "하리보",
+            "guild": "YouTube",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "아민타 03"
+          }
+        ]
+      }
+    },
+    "중립휴식": {
+      "members": 3,
+      "byClass": {
+        "집행관": 3
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "콘카르",
+          "guild": "중립휴식",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "아민타 03"
+        },
+        {
+          "nickname": "오렌",
+          "guild": "중립휴식",
+          "class": "집행관",
+          "grade": 20,
+          "level": 87,
+          "server": "아민타 03"
+        },
+        {
+          "nickname": "크카",
+          "guild": "중립휴식",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "아민타 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "콘카르",
+            "guild": "중립휴식",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "아민타 03"
+          },
+          {
+            "nickname": "오렌",
+            "guild": "중립휴식",
+            "class": "집행관",
+            "grade": 20,
+            "level": 87,
+            "server": "아민타 03"
+          },
+          {
+            "nickname": "크카",
+            "guild": "중립휴식",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "아민타 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "콘카르",
+            "guild": "중립휴식",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "아민타 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "오렌",
+            "guild": "중립휴식",
+            "class": "집행관",
+            "grade": 20,
+            "level": 87,
+            "server": "아민타 03"
+          },
+          {
+            "nickname": "크카",
+            "guild": "중립휴식",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "아민타 03"
+          }
+        ]
+      }
+    }
+  }
+}

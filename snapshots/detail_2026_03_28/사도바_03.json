@@ -1,0 +1,500 @@
+{
+  "server": "사도바 03",
+  "guilds": {
+    "동물원": {
+      "members": 8,
+      "byClass": {
+        "집행관": 6,
+        "태양감시자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "23": 2,
+        "22": 1,
+        "21": 5
+      },
+      "membersList": [
+        {
+          "nickname": "무서운레서판다",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 23,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운도마뱀",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운알파카",
+          "guild": "동물원",
+          "class": "환영검사",
+          "grade": 22,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "쩡이라고하자",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운로로맘",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운잠자리",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운지렁이",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "수다",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 21,
+          "level": 84,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "무서운레서판다",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 88,
+            "server": "사도바 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "무서운도마뱀",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "쩡이라고하자",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운로로맘",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운잠자리",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운지렁이",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "수다",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "사도바 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "무서운알파카",
+            "guild": "동물원",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "무서운레서판다",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운도마뱀",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "무서운알파카",
+            "guild": "동물원",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "쩡이라고하자",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운로로맘",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운잠자리",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운지렁이",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "수다",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 21,
+            "level": 84,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "쿠키": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "리프투",
+          "guild": "쿠키",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "밥줘",
+          "guild": "쿠키",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 82,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "리프투",
+            "guild": "쿠키",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "밥줘",
+            "guild": "쿠키",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 82,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "리프투",
+            "guild": "쿠키",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "밥줘",
+            "guild": "쿠키",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 82,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "에덴": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 2
+      },
+      "membersList": [
+        {
+          "nickname": "베카",
+          "guild": "에덴",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "한남자",
+          "guild": "에덴",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "베카",
+            "guild": "에덴",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "한남자",
+            "guild": "에덴",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "베카",
+            "guild": "에덴",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "한남자",
+            "guild": "에덴",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "메타버스": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "씨스타",
+          "guild": "메타버스",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 86,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "씨스타",
+            "guild": "메타버스",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "씨스타",
+            "guild": "메타버스",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "패": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "뱀파이어",
+          "guild": "패",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 86,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "뱀파이어",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "뱀파이어",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "BLUE": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "승구망령",
+          "guild": "BLUE",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 83,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "승구망령",
+            "guild": "BLUE",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "승구망령",
+            "guild": "BLUE",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "server": "제롬 05",
+  "guilds": {
+    "솔라스톤": {
+      "members": 6,
+      "byClass": {
+        "집행관": 3,
+        "야만투사": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "24": 1,
+        "22": 4,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "두바이",
+          "guild": "솔라스톤",
+          "class": "야만투사",
+          "grade": 24,
+          "level": 90,
+          "server": "제롬 05"
+        },
+        {
+          "nickname": "삼삼삼",
+          "guild": "솔라스톤",
+          "class": "집행관",
+          "grade": 22,
+          "level": 89,
+          "server": "제롬 05"
+        },
+        {
+          "nickname": "오함마",
+          "guild": "솔라스톤",
+          "class": "야만투사",
+          "grade": 22,
+          "level": 87,
+          "server": "제롬 05"
+        },
+        {
+          "nickname": "중구라고해",
+          "guild": "솔라스톤",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "제롬 05"
+        },
+        {
+          "nickname": "아름다움",
+          "guild": "솔라스톤",
+          "class": "집행관",
+          "grade": 22,
+          "level": 85,
+          "server": "제롬 05"
+        },
+        {
+          "nickname": "라시",
+          "guild": "솔라스톤",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 83,
+          "server": "제롬 05"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "두바이",
+            "guild": "솔라스톤",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 90,
+            "server": "제롬 05"
+          },
+          {
+            "nickname": "오함마",
+            "guild": "솔라스톤",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 87,
+            "server": "제롬 05"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "삼삼삼",
+            "guild": "솔라스톤",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "제롬 05"
+          },
+          {
+            "nickname": "중구라고해",
+            "guild": "솔라스톤",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "제롬 05"
+          },
+          {
+            "nickname": "아름다움",
+            "guild": "솔라스톤",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "제롬 05"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "라시",
+            "guild": "솔라스톤",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "제롬 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "두바이",
+            "guild": "솔라스톤",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 90,
+            "server": "제롬 05"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "삼삼삼",
+            "guild": "솔라스톤",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "제롬 05"
+          },
+          {
+            "nickname": "오함마",
+            "guild": "솔라스톤",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 87,
+            "server": "제롬 05"
+          },
+          {
+            "nickname": "중구라고해",
+            "guild": "솔라스톤",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "제롬 05"
+          },
+          {
+            "nickname": "아름다움",
+            "guild": "솔라스톤",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "제롬 05"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "라시",
+            "guild": "솔라스톤",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "제롬 05"
+          }
+        ]
+      }
+    },
+    "센스": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쿄주로",
+          "guild": "센스",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 85,
+          "server": "제롬 05"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "쿄주로",
+            "guild": "센스",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "쿄주로",
+            "guild": "센스",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 85,
+            "server": "제롬 05"
+          }
+        ]
+      }
+    }
+  }
+}
