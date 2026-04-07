@@ -1,0 +1,183 @@
+{
+  "server": "라인소프 03",
+  "guilds": {
+    "이더": {
+      "members": 6,
+      "byClass": {
+        "주문각인사": 2,
+        "심연추방자": 1,
+        "집행관": 1,
+        "태양감시자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 2,
+        "20": 4
+      },
+      "membersList": [
+        {
+          "nickname": "관식",
+          "guild": "이더",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "라인소프 03"
+        },
+        {
+          "nickname": "순금",
+          "guild": "이더",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "라인소프 03"
+        },
+        {
+          "nickname": "거미",
+          "guild": "이더",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 86,
+          "server": "라인소프 03"
+        },
+        {
+          "nickname": "꺼드럭",
+          "guild": "이더",
+          "class": "향사수",
+          "grade": 20,
+          "level": 86,
+          "server": "라인소프 03"
+        },
+        {
+          "nickname": "정하연",
+          "guild": "이더",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "라인소프 03"
+        },
+        {
+          "nickname": "용가리",
+          "guild": "이더",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 83,
+          "server": "라인소프 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "순금",
+            "guild": "이더",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "라인소프 03"
+          },
+          {
+            "nickname": "정하연",
+            "guild": "이더",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "라인소프 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "관식",
+            "guild": "이더",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "라인소프 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "거미",
+            "guild": "이더",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 86,
+            "server": "라인소프 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "용가리",
+            "guild": "이더",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "라인소프 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "꺼드럭",
+            "guild": "이더",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "라인소프 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "관식",
+            "guild": "이더",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "라인소프 03"
+          },
+          {
+            "nickname": "순금",
+            "guild": "이더",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "라인소프 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "거미",
+            "guild": "이더",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 86,
+            "server": "라인소프 03"
+          },
+          {
+            "nickname": "꺼드럭",
+            "guild": "이더",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "라인소프 03"
+          },
+          {
+            "nickname": "정하연",
+            "guild": "이더",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "라인소프 03"
+          },
+          {
+            "nickname": "용가리",
+            "guild": "이더",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "라인소프 03"
+          }
+        ]
+      }
+    }
+  }
+}

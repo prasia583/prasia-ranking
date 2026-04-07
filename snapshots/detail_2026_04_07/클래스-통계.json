@@ -1,0 +1,134 @@
+{
+  "server": "클래스 통계",
+  "guilds": {
+    "나세르 03": {
+      "members": 1,
+      "byClass": {
+        "177": 1
+      },
+      "byGrade": {
+        "30": 1
+      },
+      "membersList": [
+        {
+          "nickname": "-",
+          "guild": "나세르 03",
+          "class": "177",
+          "grade": 30,
+          "level": 35,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {
+        "177": [
+          {
+            "nickname": "-",
+            "guild": "나세르 03",
+            "class": "177",
+            "grade": 30,
+            "level": 35,
+            "server": "클래스 통계"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "30": [
+          {
+            "nickname": "-",
+            "guild": "나세르 03",
+            "class": "177",
+            "grade": 30,
+            "level": 35,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "라인소프 05": {
+      "members": 1,
+      "byClass": {
+        "202": 1
+      },
+      "byGrade": {
+        "29": 1
+      },
+      "membersList": [
+        {
+          "nickname": "-",
+          "guild": "라인소프 05",
+          "class": "202",
+          "grade": 29,
+          "level": 47,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {
+        "202": [
+          {
+            "nickname": "-",
+            "guild": "라인소프 05",
+            "class": "202",
+            "grade": 29,
+            "level": 47,
+            "server": "클래스 통계"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "29": [
+          {
+            "nickname": "-",
+            "guild": "라인소프 05",
+            "class": "202",
+            "grade": 29,
+            "level": 47,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    },
+    "론도 05": {
+      "members": 1,
+      "byClass": {
+        "180": 1
+      },
+      "byGrade": {
+        "23": 1
+      },
+      "membersList": [
+        {
+          "nickname": "-",
+          "guild": "론도 05",
+          "class": "180",
+          "grade": 23,
+          "level": 41,
+          "server": "클래스 통계"
+        }
+      ],
+      "byClassMembers": {
+        "180": [
+          {
+            "nickname": "-",
+            "guild": "론도 05",
+            "class": "180",
+            "grade": 23,
+            "level": 41,
+            "server": "클래스 통계"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "-",
+            "guild": "론도 05",
+            "class": "180",
+            "grade": 23,
+            "level": 41,
+            "server": "클래스 통계"
+          }
+        ]
+      }
+    }
+  }
+}

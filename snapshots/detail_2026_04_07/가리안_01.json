@@ -1,0 +1,285 @@
+{
+  "server": "가리안 01",
+  "guilds": {
+    "원피스": {
+      "members": 2,
+      "byClass": {
+        "야만투사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "23": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아오",
+          "guild": "원피스",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "가리안 01"
+        },
+        {
+          "nickname": "에이스",
+          "guild": "원피스",
+          "class": "야만투사",
+          "grade": 20,
+          "level": 84,
+          "server": "가리안 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "아오",
+            "guild": "원피스",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "가리안 01"
+          }
+        ],
+        "야만투사": [
+          {
+            "nickname": "에이스",
+            "guild": "원피스",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 84,
+            "server": "가리안 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "아오",
+            "guild": "원피스",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "가리안 01"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "에이스",
+            "guild": "원피스",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 84,
+            "server": "가리안 01"
+          }
+        ]
+      }
+    },
+    "고스톱": {
+      "members": 4,
+      "byClass": {
+        "향사수": 3,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "액티언",
+          "guild": "고스톱",
+          "class": "향사수",
+          "grade": 22,
+          "level": 87,
+          "server": "가리안 01"
+        },
+        {
+          "nickname": "강원랜드",
+          "guild": "고스톱",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "가리안 01"
+        },
+        {
+          "nickname": "덕선이",
+          "guild": "고스톱",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "가리안 01"
+        },
+        {
+          "nickname": "오즈의맙소사",
+          "guild": "고스톱",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "가리안 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "액티언",
+            "guild": "고스톱",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "가리안 01"
+          },
+          {
+            "nickname": "강원랜드",
+            "guild": "고스톱",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 01"
+          },
+          {
+            "nickname": "덕선이",
+            "guild": "고스톱",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 01"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "오즈의맙소사",
+            "guild": "고스톱",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "가리안 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "액티언",
+            "guild": "고스톱",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "가리안 01"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "강원랜드",
+            "guild": "고스톱",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 01"
+          },
+          {
+            "nickname": "덕선이",
+            "guild": "고스톱",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "가리안 01"
+          },
+          {
+            "nickname": "오즈의맙소사",
+            "guild": "고스톱",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "가리안 01"
+          }
+        ]
+      }
+    },
+    "5세대": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "22": 1
+      },
+      "membersList": [
+        {
+          "nickname": "츄자롱",
+          "guild": "5세대",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "가리안 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "츄자롱",
+            "guild": "5세대",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "가리안 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "츄자롱",
+            "guild": "5세대",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "가리안 01"
+          }
+        ]
+      }
+    },
+    "Oasis": {
+      "members": 1,
+      "byClass": {
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "한지평",
+          "guild": "Oasis",
+          "class": "향사수",
+          "grade": 20,
+          "level": 83,
+          "server": "가리안 01"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "한지평",
+            "guild": "Oasis",
+            "class": "향사수",
+            "grade": 20,
+            "level": 83,
+            "server": "가리안 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "한지평",
+            "guild": "Oasis",
+            "class": "향사수",
+            "grade": 20,
+            "level": 83,
+            "server": "가리안 01"
+          }
+        ]
+      }
+    }
+  }
+}

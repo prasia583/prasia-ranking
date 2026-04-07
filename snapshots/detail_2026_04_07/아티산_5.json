@@ -1,0 +1,687 @@
+{
+  "server": "아티산 05",
+  "guilds": {
+    "짠": {
+      "members": 20,
+      "byClass": {
+        "집행관": 8,
+        "주문각인사": 7,
+        "향사수": 2,
+        "야만투사": 1,
+        "태양감시자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "25": 2,
+        "24": 4,
+        "23": 1,
+        "22": 5,
+        "21": 6,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "인간백정",
+          "guild": "짠",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠한형",
+          "guild": "짠",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 89,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠국수",
+          "guild": "짠",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠다르크",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠보스",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠내",
+          "guild": "짠",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 87,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠망루피",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠호롱이",
+          "guild": "짠",
+          "class": "야만투사",
+          "grade": 22,
+          "level": 88,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠파르타",
+          "guild": "짠",
+          "class": "향사수",
+          "grade": 22,
+          "level": 87,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠두리",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠하고나타났다",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 22,
+          "level": 85,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠힐러",
+          "guild": "짠",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 84,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠물",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠짠",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠해머",
+          "guild": "짠",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠궁",
+          "guild": "짠",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠한오빠",
+          "guild": "짠",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠법사",
+          "guild": "짠",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 84,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠썬이",
+          "guild": "짠",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 83,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "짠테크",
+          "guild": "짠",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 83,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "인간백정",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠한형",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠국수",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠힐러",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 84,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠한오빠",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠법사",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠썬이",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "짠내",
+            "guild": "짠",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 87,
+            "server": "아티산 05"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "짠다르크",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠보스",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠망루피",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠두리",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠하고나타났다",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠물",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠짠",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠해머",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          }
+        ],
+        "야만투사": [
+          {
+            "nickname": "짠호롱이",
+            "guild": "짠",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 88,
+            "server": "아티산 05"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "짠파르타",
+            "guild": "짠",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠궁",
+            "guild": "짠",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "짠테크",
+            "guild": "짠",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "인간백정",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠한형",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "아티산 05"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "짠국수",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠다르크",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠보스",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠내",
+            "guild": "짠",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 87,
+            "server": "아티산 05"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "짠망루피",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "아티산 05"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "짠호롱이",
+            "guild": "짠",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 88,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠파르타",
+            "guild": "짠",
+            "class": "향사수",
+            "grade": 22,
+            "level": 87,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠두리",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠하고나타났다",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 22,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠힐러",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 84,
+            "server": "아티산 05"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "짠물",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠짠",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠해머",
+            "guild": "짠",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠궁",
+            "guild": "짠",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠한오빠",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠법사",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "아티산 05"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "짠썬이",
+            "guild": "짠",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "짠테크",
+            "guild": "짠",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    },
+    "테슬라": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "초코칩",
+          "guild": "테슬라",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 85,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "VHGJ",
+          "guild": "테슬라",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 84,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "초코칩",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "VHGJ",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "초코칩",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "VHGJ",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    },
+    "조용한가족": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아이고오",
+          "guild": "조용한가족",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 83,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "아이고오",
+            "guild": "조용한가족",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "아이고오",
+            "guild": "조용한가족",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    },
+    "봄날": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "도깨비",
+          "guild": "봄날",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "도깨비",
+            "guild": "봄날",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "도깨비",
+            "guild": "봄날",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    }
+  }
+}
