@@ -62,5 +62,13 @@
     "statsMembersFile": "stats_members_ranking_2026_02_27.json",
     "rows": 3829,
     "sheet": "통합정렬"
+  },
+  {
+    "label": "2026-04-091",
+    "file": "ranking_2026_04_091.json",
+    "statsFile": "stats_ranking_2026_04_091.json",
+    "statsMembersFile": "stats_members_ranking_2026_04_091.json",
+    "rows": 3679,
+    "sheet": "통합정렬"
   }
 ]
