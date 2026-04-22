@@ -1,0 +1,3575 @@
+{
+  "server": "론도 02",
+  "guilds": {
+    "ZED": {
+      "members": 46,
+      "byClass": {
+        "집행관": 15,
+        "주문각인사": 13,
+        "향사수": 9,
+        "야만투사": 4,
+        "태양감시자": 2,
+        "환영검사": 2,
+        "심연추방자": 1
+      },
+      "byGrade": {
+        "25": 8,
+        "24": 9,
+        "23": 8,
+        "22": 7,
+        "21": 8,
+        "20": 6
+      },
+      "membersList": [
+        {
+          "nickname": "제들레",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제히",
+          "guild": "ZED",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제히오른팔",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "멍이",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "야나두",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "어금니",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제가나",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "까또",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "미스터사탄",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "누렁니",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "박까스",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "스시",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제곰",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제리브",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제무",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제프",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "태양왕수바",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "GuGuGaGa",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "놀부",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제미니",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제전",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제황펭귄",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "지예은",
+          "guild": "ZED",
+          "class": "태양감시자",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제조",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "zzzzzzz",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 23,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "거악",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "겨울잠에서깬곰",
+          "guild": "ZED",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "집행관",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제잎",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제탐",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "태존",
+          "guild": "ZED",
+          "class": "야만투사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제쀼",
+          "guild": "ZED",
+          "class": "심연추방자",
+          "grade": 22,
+          "level": 83,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "다산",
+          "guild": "ZED",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "월레스",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "전쟁하니껴",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "리하이",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제나뇨",
+          "guild": "ZED",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제뱀",
+          "guild": "ZED",
+          "class": "야만투사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "프알못",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "오반아휘파람을불어라",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 84,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제휴",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "갈막",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "그로밋",
+          "guild": "ZED",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제크",
+          "guild": "ZED",
+          "class": "야만투사",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "오블라디오블라다",
+          "guild": "ZED",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "블라",
+          "guild": "ZED",
+          "class": "집행관",
+          "grade": 20,
+          "level": 82,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "제히",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "태존",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제뱀",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제크",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "제히오른팔",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "야나두",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제가나",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제곰",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "GuGuGaGa",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "놀부",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "월레스",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "갈막",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "그로밋",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "제들레",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "까또",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "누렁니",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "박까스",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "스시",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제리브",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제미니",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제황펭귄",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "거악",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제잎",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "리하이",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "오반아휘파람을불어라",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "오블라디오블라다",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "멍이",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "어금니",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "미스터사탄",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제무",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제프",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "태양왕수바",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제전",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제조",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "zzzzzzz",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 23,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "집행관",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제탐",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "전쟁하니껴",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "프알못",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제휴",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "블라",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "지예은",
+            "guild": "ZED",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "겨울잠에서깬곰",
+            "guild": "ZED",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "제쀼",
+            "guild": "ZED",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 83,
+            "server": "론도 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "다산",
+            "guild": "ZED",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제나뇨",
+            "guild": "ZED",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "제들레",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제히",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제히오른팔",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "멍이",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "야나두",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "어금니",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제가나",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "까또",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 02"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "미스터사탄",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "누렁니",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "박까스",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "스시",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제곰",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제리브",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제무",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제프",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "태양왕수바",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "GuGuGaGa",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "놀부",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제미니",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제전",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제황펭귄",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "지예은",
+            "guild": "ZED",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제조",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "zzzzzzz",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 23,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "거악",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "겨울잠에서깬곰",
+            "guild": "ZED",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "집행관",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제잎",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제탐",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "태존",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제쀼",
+            "guild": "ZED",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 83,
+            "server": "론도 02"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "다산",
+            "guild": "ZED",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "월레스",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "전쟁하니껴",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "리하이",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제나뇨",
+            "guild": "ZED",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제뱀",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "프알못",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "오반아휘파람을불어라",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "제휴",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "갈막",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "그로밋",
+            "guild": "ZED",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제크",
+            "guild": "ZED",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "오블라디오블라다",
+            "guild": "ZED",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "블라",
+            "guild": "ZED",
+            "class": "집행관",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "MAD": {
+      "members": 50,
+      "byClass": {
+        "주문각인사": 21,
+        "집행관": 12,
+        "향사수": 6,
+        "태양감시자": 5,
+        "심연추방자": 2,
+        "야만투사": 2,
+        "환영검사": 2
+      },
+      "byGrade": {
+        "25": 17,
+        "24": 20,
+        "23": 6,
+        "22": 5,
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "뉴사신",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 25,
+          "level": 92,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "유튜브동네형한구",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 92,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "멸망",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "몽크",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "별하",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "쏘자",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "원스타",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "전국도",
+          "guild": "MAD",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "제왕",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "파천왕",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "파키스탄재생빨대",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "판사",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "망치형",
+          "guild": "MAD",
+          "class": "심연추방자",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "진깨비",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "푸리",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "샤넬스트로우",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "재생",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "느룽지",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 91,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "뉴뱔",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "살귀",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "영쥬",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "골드버그",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "미친궁궁",
+          "guild": "MAD",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "수호입니다",
+          "guild": "MAD",
+          "class": "심연추방자",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "으쌰",
+          "guild": "MAD",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "조하린",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "가야",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "고양",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "뉴단골",
+          "guild": "MAD",
+          "class": "야만투사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "배진솔",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "사도바오섭징역이년",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "안가",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "왕펀치",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "커비이",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "히스",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "말랑입니다",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "박백정",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "히포",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 23,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "불주먹",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "안락한라부부",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "오지",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "찹살",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "리철진",
+          "guild": "MAD",
+          "class": "환영검사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "또도로",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 90,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "기장",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "타맘",
+          "guild": "MAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "댱근",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "빠꼬미",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "봉창",
+          "guild": "MAD",
+          "class": "향사수",
+          "grade": 21,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "유성",
+          "guild": "MAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "전국도",
+            "guild": "MAD",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "뉴단골",
+            "guild": "MAD",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "망치형",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "수호입니다",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "몽크",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "별하",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "느룽지",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "영쥬",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "으쌰",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "푸리",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "살귀",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "가야",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "사도바오섭징역이년",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "불주먹",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "봉창",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 88,
+            "server": "론도 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "유튜브동네형한구",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "쏘자",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "원스타",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "파키스탄재생빨대",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "샤넬스트로우",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "재생",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "뉴뱔",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "조하린",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "고양",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "안가",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "왕펀치",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "커비이",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "말랑입니다",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "박백정",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "오지",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "찹살",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "또도로",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "기장",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "댱근",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "빠꼬미",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "유성",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "뉴사신",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "멸망",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제왕",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "파천왕",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "판사",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "진깨비",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "골드버그",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "배진솔",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "히스",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "히포",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "안락한라부부",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "타맘",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "미친궁궁",
+            "guild": "MAD",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "리철진",
+            "guild": "MAD",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "뉴사신",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "유튜브동네형한구",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "멸망",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "몽크",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "별하",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "쏘자",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "원스타",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "전국도",
+            "guild": "MAD",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "제왕",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "파천왕",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "파키스탄재생빨대",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "판사",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "망치형",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "진깨비",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "푸리",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "샤넬스트로우",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "재생",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 02"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "느룽지",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 91,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "뉴뱔",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "살귀",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "영쥬",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "골드버그",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "미친궁궁",
+            "guild": "MAD",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "수호입니다",
+            "guild": "MAD",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "으쌰",
+            "guild": "MAD",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "조하린",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "가야",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "고양",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "뉴단골",
+            "guild": "MAD",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "배진솔",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "사도바오섭징역이년",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "안가",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "왕펀치",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "커비이",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "히스",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "말랑입니다",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "박백정",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "히포",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "불주먹",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "안락한라부부",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "오지",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "찹살",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "리철진",
+            "guild": "MAD",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "또도로",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 90,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "기장",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "타맘",
+            "guild": "MAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "댱근",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "빠꼬미",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "봉창",
+            "guild": "MAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 88,
+            "server": "론도 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "유성",
+            "guild": "MAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "SAD": {
+      "members": 27,
+      "byClass": {
+        "집행관": 11,
+        "주문각인사": 9,
+        "향사수": 6,
+        "야만투사": 1
+      },
+      "byGrade": {
+        "24": 3,
+        "23": 4,
+        "22": 11,
+        "21": 5,
+        "20": 4
+      },
+      "membersList": [
+        {
+          "nickname": "wwww",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "루팡",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "메딕",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "강백호",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "김부각",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "나쁜놈",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "커뷔",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "딱지",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 22,
+          "level": 88,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "동의",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "두부",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "지이나",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "진안",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "후추추",
+          "guild": "SAD",
+          "class": "야만투사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "귤진솔",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "도하빠",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "커삐",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "포도",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "피린",
+          "guild": "SAD",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "LoCo",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "몽우",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "왕또깨비",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "쁨이",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "흥부",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "커붸",
+          "guild": "SAD",
+          "class": "향사수",
+          "grade": 20,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "다앙근",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "한여름",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "빨리넣어드릴께요힐",
+          "guild": "SAD",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "메딕",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "김부각",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "커삐",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "포도",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "LoCo",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "흥부",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "다앙근",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "한여름",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "빨리넣어드릴께요힐",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "wwww",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "루팡",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "강백호",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "나쁜놈",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "동의",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "두부",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "지이나",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "진안",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "귤진솔",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "도하빠",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "피린",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "커뷔",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "딱지",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "몽우",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "왕또깨비",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "쁨이",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "커붸",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 20,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ],
+        "야만투사": [
+          {
+            "nickname": "후추추",
+            "guild": "SAD",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "wwww",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "루팡",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "메딕",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 02"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "강백호",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "김부각",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "나쁜놈",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "커뷔",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 02"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "딱지",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "동의",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "두부",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "지이나",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "진안",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "후추추",
+            "guild": "SAD",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "귤진솔",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "도하빠",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "커삐",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "포도",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "피린",
+            "guild": "SAD",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "LoCo",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "몽우",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "왕또깨비",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "쁨이",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "흥부",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "커붸",
+            "guild": "SAD",
+            "class": "향사수",
+            "grade": 20,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "다앙근",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "한여름",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "빨리넣어드릴께요힐",
+            "guild": "SAD",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "사탕": {
+      "members": 3,
+      "byClass": {
+        "주문각인사": 2,
+        "집행관": 1
+      },
+      "byGrade": {
+        "22": 1,
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "맛감자",
+          "guild": "사탕",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "뚭배긔",
+          "guild": "사탕",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "오월",
+          "guild": "사탕",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "맛감자",
+            "guild": "사탕",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "뚭배긔",
+            "guild": "사탕",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "오월",
+            "guild": "사탕",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "맛감자",
+            "guild": "사탕",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "뚭배긔",
+            "guild": "사탕",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "오월",
+            "guild": "사탕",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "사랑과영혼": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "오리발",
+          "guild": "사랑과영혼",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "오리발",
+            "guild": "사랑과영혼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "오리발",
+            "guild": "사랑과영혼",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "Gelli": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "토론토",
+          "guild": "Gelli",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "칭찬을",
+          "guild": "Gelli",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "토론토",
+            "guild": "Gelli",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "칭찬을",
+            "guild": "Gelli",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "토론토",
+            "guild": "Gelli",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "칭찬을",
+            "guild": "Gelli",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "한신포차": {
+      "members": 3,
+      "byClass": {
+        "집행관": 3
+      },
+      "byGrade": {
+        "21": 2,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "초월신화",
+          "guild": "한신포차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "절대자",
+          "guild": "한신포차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "초월자",
+          "guild": "한신포차",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "초월신화",
+            "guild": "한신포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "절대자",
+            "guild": "한신포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "초월자",
+            "guild": "한신포차",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "초월신화",
+            "guild": "한신포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "절대자",
+            "guild": "한신포차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "초월자",
+            "guild": "한신포차",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "미라클": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 2,
+        "야만투사": 1,
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 4
+      },
+      "membersList": [
+        {
+          "nickname": "마지막",
+          "guild": "미라클",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "츄릅",
+          "guild": "미라클",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "룡룡",
+          "guild": "미라클",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 82,
+          "server": "론도 02"
+        },
+        {
+          "nickname": "스타크래프트",
+          "guild": "미라클",
+          "class": "야만투사",
+          "grade": 20,
+          "level": 81,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "스타크래프트",
+            "guild": "미라클",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 81,
+            "server": "론도 02"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "츄릅",
+            "guild": "미라클",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "룡룡",
+            "guild": "미라클",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 02"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "마지막",
+            "guild": "미라클",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "마지막",
+            "guild": "미라클",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "츄릅",
+            "guild": "미라클",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "룡룡",
+            "guild": "미라클",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 02"
+          },
+          {
+            "nickname": "스타크래프트",
+            "guild": "미라클",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 81,
+            "server": "론도 02"
+          }
+        ]
+      }
+    },
+    "아이온": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "딸기폭격기",
+          "guild": "아이온",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 02"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "딸기폭격기",
+            "guild": "아이온",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "딸기폭격기",
+            "guild": "아이온",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 02"
+          }
+        ]
+      }
+    }
+  }
+}
