@@ -1,0 +1,282 @@
+{
+  "server": "아티산 05",
+  "guilds": {
+    "치지직": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "23": 1
+      },
+      "membersList": [
+        {
+          "nickname": "소멸",
+          "guild": "치지직",
+          "class": "환영검사",
+          "grade": 23,
+          "level": 88,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "소멸",
+            "guild": "치지직",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 88,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "소멸",
+            "guild": "치지직",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 88,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    },
+    "AA": {
+      "members": 4,
+      "byClass": {
+        "주문각인사": 2,
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 2,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "호표",
+          "guild": "AA",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "존잼",
+          "guild": "AA",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "봄봄",
+          "guild": "AA",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "켄파치",
+          "guild": "AA",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "호표",
+            "guild": "AA",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "켄파치",
+            "guild": "AA",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "존잼",
+            "guild": "AA",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "봄봄",
+            "guild": "AA",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "호표",
+            "guild": "AA",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "존잼",
+            "guild": "AA",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "봄봄",
+            "guild": "AA",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "켄파치",
+            "guild": "AA",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    },
+    "테슬라": {
+      "members": 2,
+      "byClass": {
+        "환영검사": 2
+      },
+      "byGrade": {
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "초코칩",
+          "guild": "테슬라",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 86,
+          "server": "아티산 05"
+        },
+        {
+          "nickname": "VHGJ",
+          "guild": "테슬라",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 84,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "초코칩",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "VHGJ",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "초코칩",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "아티산 05"
+          },
+          {
+            "nickname": "VHGJ",
+            "guild": "테슬라",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 84,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    },
+    "조용한가족": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "아이고오",
+          "guild": "조용한가족",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 83,
+          "server": "아티산 05"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "아이고오",
+            "guild": "조용한가족",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "아이고오",
+            "guild": "조용한가족",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "아티산 05"
+          }
+        ]
+      }
+    }
+  }
+}

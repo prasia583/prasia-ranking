@@ -1,0 +1,2553 @@
+{
+  "server": "론도 04",
+  "guilds": {
+    "심판": {
+      "members": 42,
+      "byClass": {
+        "주문각인사": 17,
+        "집행관": 9,
+        "야만투사": 7,
+        "향사수": 4,
+        "심연추방자": 3,
+        "태양감시자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "25": 14,
+        "24": 7,
+        "23": 9,
+        "22": 3,
+        "21": 8,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "Devil",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "관호사",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "구구가가",
+          "guild": "심판",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "번호",
+          "guild": "심판",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "선각자의광휘",
+          "guild": "심판",
+          "class": "심연추방자",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "악동이",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "엑스트라",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "조운",
+          "guild": "심판",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "주붕",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "퍼즐",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "퓨망",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "유치원일진",
+          "guild": "심판",
+          "class": "환영검사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "하냥",
+          "guild": "심판",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "막내",
+          "guild": "심판",
+          "class": "심연추방자",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "개돌",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "배추도사",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "번개형",
+          "guild": "심판",
+          "class": "야만투사",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "탱탱볼",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "철수",
+          "guild": "심판",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "크로미",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "고영희",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "도라에몽",
+          "guild": "심판",
+          "class": "야만투사",
+          "grade": 23,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "준기",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 23,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "하딘",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "고독한승부사장필우",
+          "guild": "심판",
+          "class": "야만투사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "둥둥이",
+          "guild": "심판",
+          "class": "야만투사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "바오바오",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "쇼퍼",
+          "guild": "심판",
+          "class": "심연추방자",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "이순신장군",
+          "guild": "심판",
+          "class": "향사수",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "구찮",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "심판자",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 22,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "보축줄까",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "세시",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "링쿠",
+          "guild": "심판",
+          "class": "향사수",
+          "grade": 21,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "모네",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "치료사",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "이전싫어",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "저지먼트",
+          "guild": "심판",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "파쓰",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "호루스",
+          "guild": "심판",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "회전",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "치킨텐더",
+          "guild": "심판",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "구구가가",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "조운",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "하냥",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "번개형",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "도라에몽",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "고독한승부사장필우",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "둥둥이",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "선각자의광휘",
+            "guild": "심판",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "막내",
+            "guild": "심판",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "쇼퍼",
+            "guild": "심판",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "번호",
+            "guild": "심판",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "유치원일진",
+            "guild": "심판",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "Devil",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "관호사",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "주붕",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "퓨망",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "개돌",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "배추도사",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "크로미",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "고영희",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "구찮",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "보축줄까",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "세시",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "모네",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "치료사",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "이전싫어",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "파쓰",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "회전",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "치킨텐더",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "악동이",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "엑스트라",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "퍼즐",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "탱탱볼",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "준기",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "하딘",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "바오바오",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "심판자",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "저지먼트",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "철수",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "이순신장군",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "링쿠",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "호루스",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "Devil",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "관호사",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "구구가가",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "번호",
+            "guild": "심판",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "선각자의광휘",
+            "guild": "심판",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "악동이",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "엑스트라",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "조운",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "주붕",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "퍼즐",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "퓨망",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "유치원일진",
+            "guild": "심판",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "하냥",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "막내",
+            "guild": "심판",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 04"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "개돌",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "배추도사",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "번개형",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "탱탱볼",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "철수",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "크로미",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "고영희",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "도라에몽",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "준기",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "하딘",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "고독한승부사장필우",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "둥둥이",
+            "guild": "심판",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "바오바오",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "쇼퍼",
+            "guild": "심판",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "이순신장군",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "구찮",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "심판자",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "보축줄까",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "세시",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "링쿠",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "모네",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "치료사",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "이전싫어",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "저지먼트",
+            "guild": "심판",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "파쓰",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "호루스",
+            "guild": "심판",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "회전",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "치킨텐더",
+            "guild": "심판",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "토끼단": {
+      "members": 40,
+      "byClass": {
+        "주문각인사": 12,
+        "집행관": 10,
+        "향사수": 8,
+        "야만투사": 5,
+        "태양감시자": 5
+      },
+      "byGrade": {
+        "25": 4,
+        "24": 10,
+        "23": 5,
+        "22": 6,
+        "21": 8,
+        "20": 7
+      },
+      "membersList": [
+        {
+          "nickname": "반토끼",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "토끼킹",
+          "guild": "토끼단",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "루비토끼",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "천둥의신토르끼",
+          "guild": "토끼단",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "토끼힐좀",
+          "guild": "토끼단",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "킁킁고은",
+          "guild": "토끼단",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "토갱이",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "백색토끼",
+          "guild": "토끼단",
+          "class": "야만투사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "저격토끼",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "토끼딘",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "포스토끼",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "동토끼",
+          "guild": "토끼단",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "은토끼",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "이초토끼",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "우기토끼",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "백묘탱이",
+          "guild": "토끼단",
+          "class": "태양감시자",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "금토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "으잌",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "칼날토끼",
+          "guild": "토끼단",
+          "class": "태양감시자",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "담비였던토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "라기",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "불곰토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "초코토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "헌신토끼",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "담배빵",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "까칠한냥이",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 88,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "별찌토끼",
+          "guild": "토끼단",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "개빈",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "바빵토끼",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "시나토끼",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "어그로끌고빠르게토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "아이언토끼",
+          "guild": "토끼단",
+          "class": "야만투사",
+          "grade": 21,
+          "level": 84,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "삼초토끼",
+          "guild": "토끼단",
+          "class": "야만투사",
+          "grade": 21,
+          "level": 83,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "라희파파",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "소주토끼",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "토끼잣",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "송화들고토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "쭉쭉토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "토끼선인",
+          "guild": "토끼단",
+          "class": "향사수",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "젠토끼",
+          "guild": "토끼단",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "토끼킹",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "천둥의신토르끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "백색토끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "아이언토끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "삼초토끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 83,
+            "server": "론도 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "반토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "루비토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토갱이",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토끼딘",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "포스토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "이초토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "우기토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "헌신토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "담배빵",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "별찌토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "토끼힐좀",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "킁킁고은",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "동토끼",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "백묘탱이",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "칼날토끼",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "저격토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "은토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "으잌",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "바빵토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "시나토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "소주토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토끼잣",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토끼선인",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "금토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "담비였던토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "라기",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "불곰토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "초코토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "까칠한냥이",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "개빈",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "어그로끌고빠르게토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "라희파파",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "송화들고토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "쭉쭉토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "젠토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "반토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토끼킹",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "루비토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "천둥의신토르끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 04"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "토끼힐좀",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "킁킁고은",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토갱이",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "백색토끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "저격토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토끼딘",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "포스토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "동토끼",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "은토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "이초토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "우기토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "백묘탱이",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "금토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "으잌",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "칼날토끼",
+            "guild": "토끼단",
+            "class": "태양감시자",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "담비였던토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "라기",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "불곰토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "초코토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "헌신토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "담배빵",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "까칠한냥이",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 88,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "별찌토끼",
+            "guild": "토끼단",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "개빈",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "바빵토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "시나토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "어그로끌고빠르게토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "아이언토끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "삼초토끼",
+            "guild": "토끼단",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 83,
+            "server": "론도 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "라희파파",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "소주토끼",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토끼잣",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "송화들고토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "쭉쭉토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "토끼선인",
+            "guild": "토끼단",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "젠토끼",
+            "guild": "토끼단",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "백곰": {
+      "members": 2,
+      "byClass": {
+        "심연추방자": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "23": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "북극곰",
+          "guild": "백곰",
+          "class": "향사수",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "트라이",
+          "guild": "백곰",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "북극곰",
+            "guild": "백곰",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "트라이",
+            "guild": "백곰",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "북극곰",
+            "guild": "백곰",
+            "class": "향사수",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "트라이",
+            "guild": "백곰",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "신화": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "23": 1
+      },
+      "membersList": [
+        {
+          "nickname": "프전",
+          "guild": "신화",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "프전",
+            "guild": "신화",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "프전",
+            "guild": "신화",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "뱀파이어": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "22": 1
+      },
+      "membersList": [
+        {
+          "nickname": "원피스",
+          "guild": "뱀파이어",
+          "class": "집행관",
+          "grade": 22,
+          "level": 88,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "원피스",
+            "guild": "뱀파이어",
+            "class": "집행관",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "원피스",
+            "guild": "뱀파이어",
+            "class": "집행관",
+            "grade": 22,
+            "level": 88,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "까마귀": {
+      "members": 5,
+      "byClass": {
+        "집행관": 2,
+        "심연추방자": 1,
+        "주문각인사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "21": 1,
+        "20": 4
+      },
+      "membersList": [
+        {
+          "nickname": "파스텔",
+          "guild": "까마귀",
+          "class": "향사수",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "꽃담",
+          "guild": "까마귀",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "랭가",
+          "guild": "까마귀",
+          "class": "심연추방자",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "하늘별",
+          "guild": "까마귀",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        },
+        {
+          "nickname": "절망",
+          "guild": "까마귀",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "파스텔",
+            "guild": "까마귀",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "랭가",
+            "guild": "까마귀",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "꽃담",
+            "guild": "까마귀",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "하늘별",
+            "guild": "까마귀",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "절망",
+            "guild": "까마귀",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "파스텔",
+            "guild": "까마귀",
+            "class": "향사수",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 04"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "꽃담",
+            "guild": "까마귀",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "랭가",
+            "guild": "까마귀",
+            "class": "심연추방자",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "하늘별",
+            "guild": "까마귀",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          },
+          {
+            "nickname": "절망",
+            "guild": "까마귀",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "잡동사니": {
+      "members": 1,
+      "byClass": {
+        "야만투사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쌀먹배럭",
+          "guild": "잡동사니",
+          "class": "야만투사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "쌀먹배럭",
+            "guild": "잡동사니",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "쌀먹배럭",
+            "guild": "잡동사니",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "I솔플I": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "솔랑",
+          "guild": "I솔플I",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 82,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "솔랑",
+            "guild": "I솔플I",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "솔랑",
+            "guild": "I솔플I",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "와퍼천사": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "에헴",
+          "guild": "와퍼천사",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "에헴",
+            "guild": "와퍼천사",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "에헴",
+            "guild": "와퍼천사",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 04"
+          }
+        ]
+      }
+    },
+    "무소속": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "미치광",
+          "guild": "무소속",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 04"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "미치광",
+            "guild": "무소속",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "미치광",
+            "guild": "무소속",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 04"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "server": "라인소프 01",
+  "guilds": {
+    "천사": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "25": 1
+      },
+      "membersList": [
+        {
+          "nickname": "뉨쥠놔뢍좡놘",
+          "guild": "천사",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "라인소프 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "뉨쥠놔뢍좡놘",
+            "guild": "천사",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "라인소프 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "뉨쥠놔뢍좡놘",
+            "guild": "천사",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "라인소프 01"
+          }
+        ]
+      }
+    },
+    "차량을": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "Orange",
+          "guild": "차량을",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "라인소프 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "Orange",
+            "guild": "차량을",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "라인소프 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "Orange",
+            "guild": "차량을",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "라인소프 01"
+          }
+        ]
+      }
+    },
+    "구리자": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "자질",
+          "guild": "구리자",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "라인소프 01"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "자질",
+            "guild": "구리자",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "라인소프 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "자질",
+            "guild": "구리자",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "라인소프 01"
+          }
+        ]
+      }
+    },
+    "개마무사": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "어쩔",
+          "guild": "개마무사",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "라인소프 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "어쩔",
+            "guild": "개마무사",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "라인소프 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "어쩔",
+            "guild": "개마무사",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "라인소프 01"
+          }
+        ]
+      }
+    },
+    "모래폭풍단": {
+      "members": 1,
+      "byClass": {
+        "야만투사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "회색늑대",
+          "guild": "모래폭풍단",
+          "class": "야만투사",
+          "grade": 20,
+          "level": 83,
+          "server": "라인소프 01"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "회색늑대",
+            "guild": "모래폭풍단",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 83,
+            "server": "라인소프 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "회색늑대",
+            "guild": "모래폭풍단",
+            "class": "야만투사",
+            "grade": 20,
+            "level": 83,
+            "server": "라인소프 01"
+          }
+        ]
+      }
+    },
+    "토깽이": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쇼츠",
+          "guild": "토깽이",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "라인소프 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "쇼츠",
+            "guild": "토깽이",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "라인소프 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "쇼츠",
+            "guild": "토깽이",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "라인소프 01"
+          }
+        ]
+      }
+    },
+    "길마태감": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "니몽",
+          "guild": "길마태감",
+          "class": "집행관",
+          "grade": 20,
+          "level": 84,
+          "server": "라인소프 01"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "니몽",
+            "guild": "길마태감",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "라인소프 01"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "니몽",
+            "guild": "길마태감",
+            "class": "집행관",
+            "grade": 20,
+            "level": 84,
+            "server": "라인소프 01"
+          }
+        ]
+      }
+    }
+  }
+}

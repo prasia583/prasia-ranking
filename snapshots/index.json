@@ -1,5 +1,13 @@
 [
   {
+    "label": "2026-05-03",
+    "file": "ranking_2026_05_03.json",
+    "statsFile": "stats_ranking_2026_05_03.json",
+    "statsMembersFile": "stats_members_ranking_2026_05_03.json",
+    "rows": 3637,
+    "sheet": "통합정렬"
+  },
+  {
     "label": "2026-04-22",
     "file": "ranking_2026_04_22.json",
     "statsFile": "stats_ranking_2026_04_22.json",
