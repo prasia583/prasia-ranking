@@ -1,0 +1,4744 @@
+{
+  "server": "론도 03",
+  "guilds": {
+    "건강보험": {
+      "members": 41,
+      "byClass": {
+        "주문각인사": 17,
+        "환영검사": 7,
+        "집행관": 6,
+        "향사수": 6,
+        "야만투사": 3,
+        "태양감시자": 2
+      },
+      "byGrade": {
+        "25": 21,
+        "24": 11,
+        "23": 2,
+        "22": 5,
+        "21": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "축복온달",
+          "guild": "건강보험",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 92,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "로더",
+          "guild": "건강보험",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "물안개",
+          "guild": "건강보험",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "보험왕나나",
+          "guild": "건강보험",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "썬홀릭",
+          "guild": "건강보험",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복로로",
+          "guild": "건강보험",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복마루",
+          "guild": "건강보험",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복밥도둑",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복티르",
+          "guild": "건강보험",
+          "class": "환영검사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "김삐뚤",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "깡순",
+          "guild": "건강보험",
+          "class": "환영검사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "메소",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "무제",
+          "guild": "건강보험",
+          "class": "환영검사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "미스터",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "발렌타인",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "밤양갱",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "빙결",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "석화",
+          "guild": "건강보험",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복희동",
+          "guild": "건강보험",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "포수",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "힐러나나",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "별캐짱",
+          "guild": "건강보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "곰순이",
+          "guild": "건강보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "글게요",
+          "guild": "건강보험",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "생강",
+          "guild": "건강보험",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "쌩얼",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복다다",
+          "guild": "건강보험",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복매화",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "타치",
+          "guild": "건강보험",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복산들",
+          "guild": "건강보험",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복서기",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "우르곽이",
+          "guild": "건강보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "아버",
+          "guild": "건강보험",
+          "class": "환영검사",
+          "grade": 23,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "구이",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "산산보험",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "축복산군",
+          "guild": "건강보험",
+          "class": "집행관",
+          "grade": 22,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "쑥쑥",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "상천",
+          "guild": "건강보험",
+          "class": "향사수",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "온마님",
+          "guild": "건강보험",
+          "class": "환영검사",
+          "grade": 22,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "알파남",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "빠름",
+          "guild": "건강보험",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "축복온달",
+            "guild": "건강보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "로더",
+            "guild": "건강보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "보험왕나나",
+            "guild": "건강보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "축복로로",
+            "guild": "건강보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복마루",
+            "guild": "건강보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "축복티르",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "깡순",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "무제",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "생강",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "타치",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "아버",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "온마님",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "석화",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복희동",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "글게요",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복다다",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복산들",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "상천",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "축복밥도둑",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "김삐뚤",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "메소",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "미스터",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "발렌타인",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "밤양갱",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "빙결",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "포수",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "힐러나나",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "쌩얼",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복매화",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복서기",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "구이",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "산산보험",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "쑥쑥",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "알파남",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "빠름",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "물안개",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "썬홀릭",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "별캐짱",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "곰순이",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "우르곽이",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복산군",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "축복온달",
+            "guild": "건강보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "로더",
+            "guild": "건강보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "물안개",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "보험왕나나",
+            "guild": "건강보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "썬홀릭",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복로로",
+            "guild": "건강보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복마루",
+            "guild": "건강보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복밥도둑",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복티르",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "김삐뚤",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "깡순",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "메소",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "무제",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "미스터",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "발렌타인",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "밤양갱",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "빙결",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "석화",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복희동",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "포수",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "힐러나나",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "별캐짱",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "곰순이",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "글게요",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "생강",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "쌩얼",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복다다",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복매화",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "타치",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복산들",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복서기",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "우르곽이",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "아버",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "구이",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "산산보험",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "축복산군",
+            "guild": "건강보험",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "쑥쑥",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "상천",
+            "guild": "건강보험",
+            "class": "향사수",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "온마님",
+            "guild": "건강보험",
+            "class": "환영검사",
+            "grade": 22,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "알파남",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "빠름",
+            "guild": "건강보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "국민연금": {
+      "members": 44,
+      "byClass": {
+        "주문각인사": 18,
+        "집행관": 10,
+        "향사수": 7,
+        "태양감시자": 4,
+        "야만투사": 3,
+        "환영검사": 2
+      },
+      "byGrade": {
+        "25": 20,
+        "24": 11,
+        "23": 4,
+        "22": 5,
+        "21": 4
+      },
+      "membersList": [
+        {
+          "nickname": "강곰돌이",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 92,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강남베인",
+          "guild": "국민연금",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 92,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강꿀꿀",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강마이",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강민",
+          "guild": "국민연금",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강삐뚜리",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강속구",
+          "guild": "국민연금",
+          "class": "향사수",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강심장",
+          "guild": "국민연금",
+          "class": "환영검사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강이전이",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강커리",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강테릭",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강호동",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강루루",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강말자",
+          "guild": "국민연금",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강우가",
+          "guild": "국민연금",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강철중",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강타카",
+          "guild": "국민연금",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강리엘",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강카이",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강풍",
+          "guild": "국민연금",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강개똘",
+          "guild": "국민연금",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강귀뚫어라",
+          "guild": "국민연금",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강깔삼",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강나비",
+          "guild": "국민연금",
+          "class": "향사수",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강분홍",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강유신",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강대충힐뚤기",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강맛피아",
+          "guild": "국민연금",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강서노",
+          "guild": "국민연금",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "유튜브강모찌",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강칠복",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강타짜",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 23,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강행인",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강패개미",
+          "guild": "국민연금",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강땡초",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강꽁",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강심기돌검뽑",
+          "guild": "국민연금",
+          "class": "태양감시자",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강약사",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강철의오징어",
+          "guild": "국민연금",
+          "class": "야만투사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강슬신",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강펀치",
+          "guild": "국민연금",
+          "class": "향사수",
+          "grade": 21,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강낭콩",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강짝",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강하비",
+          "guild": "국민연금",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "강남베인",
+            "guild": "국민연금",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강풍",
+            "guild": "국민연금",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강철의오징어",
+            "guild": "국민연금",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "강민",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강우가",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강귀뚫어라",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강심기돌검뽑",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "강심장",
+            "guild": "국민연금",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강개똘",
+            "guild": "국민연금",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "강속구",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강말자",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강타카",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강나비",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강맛피아",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강서노",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강펀치",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 21,
+            "level": 88,
+            "server": "론도 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "강곰돌이",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강꿀꿀",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강삐뚜리",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강이전이",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강루루",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강카이",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강분홍",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강대충힐뚤기",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "유튜브강모찌",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강칠복",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강행인",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강땡초",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강꽁",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강약사",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강슬신",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강낭콩",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강짝",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강하비",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "강마이",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강커리",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강테릭",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강호동",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강철중",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강리엘",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강깔삼",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강유신",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강타짜",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 23,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강패개미",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "강곰돌이",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강남베인",
+            "guild": "국민연금",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강꿀꿀",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강마이",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강민",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강삐뚜리",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강속구",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강심장",
+            "guild": "국민연금",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강이전이",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강커리",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강테릭",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강호동",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강루루",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강말자",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강우가",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강철중",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강타카",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강리엘",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강카이",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강풍",
+            "guild": "국민연금",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "강개똘",
+            "guild": "국민연금",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강귀뚫어라",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강깔삼",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강나비",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강분홍",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강유신",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강대충힐뚤기",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강맛피아",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강서노",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "유튜브강모찌",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강칠복",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "강타짜",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 23,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강행인",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강패개미",
+            "guild": "국민연금",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강땡초",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "강꽁",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강심기돌검뽑",
+            "guild": "국민연금",
+            "class": "태양감시자",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강약사",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강철의오징어",
+            "guild": "국민연금",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강슬신",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "강펀치",
+            "guild": "국민연금",
+            "class": "향사수",
+            "grade": 21,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강낭콩",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강짝",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강하비",
+            "guild": "국민연금",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "고용보험": {
+      "members": 40,
+      "byClass": {
+        "주문각인사": 16,
+        "집행관": 6,
+        "환영검사": 5,
+        "야만투사": 4,
+        "향사수": 4,
+        "태양감시자": 3,
+        "심연추방자": 2
+      },
+      "byGrade": {
+        "25": 8,
+        "24": 10,
+        "23": 4,
+        "22": 7,
+        "21": 7,
+        "20": 4
+      },
+      "membersList": [
+        {
+          "nickname": "강루다",
+          "guild": "고용보험",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 92,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강윅",
+          "guild": "고용보험",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 92,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강너굴",
+          "guild": "고용보험",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강독기",
+          "guild": "고용보험",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강똘끼",
+          "guild": "고용보험",
+          "class": "향사수",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강북일식",
+          "guild": "고용보험",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강사또",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강춘삼",
+          "guild": "고용보험",
+          "class": "환영검사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강력",
+          "guild": "고용보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강덜덜",
+          "guild": "고용보험",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강별심보험왕",
+          "guild": "고용보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강뻔짜",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강제주",
+          "guild": "고용보험",
+          "class": "환영검사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강핑팽퐁",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강백구",
+          "guild": "고용보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강말숙",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강쥐포",
+          "guild": "고용보험",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강토깽",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강누룽",
+          "guild": "고용보험",
+          "class": "심연추방자",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강다온",
+          "guild": "고용보험",
+          "class": "집행관",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강오라",
+          "guild": "고용보험",
+          "class": "향사수",
+          "grade": 23,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강아재",
+          "guild": "고용보험",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강북멋쟁이",
+          "guild": "고용보험",
+          "class": "야만투사",
+          "grade": 22,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강림이",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강연우",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강패티모",
+          "guild": "고용보험",
+          "class": "심연추방자",
+          "grade": 22,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강러셀",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강츄핑",
+          "guild": "고용보험",
+          "class": "야만투사",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강하핑",
+          "guild": "고용보험",
+          "class": "향사수",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강깨소금",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강냉이요정",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강빛구름",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강윤몽",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강타니",
+          "guild": "고용보험",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강북린도마고",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 84,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강쵸파",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 84,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강나미",
+          "guild": "고용보험",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강고도전",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강캔디",
+          "guild": "고용보험",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "강하",
+          "guild": "고용보험",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "강루다",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강북일식",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강북멋쟁이",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강츄핑",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "강윅",
+            "guild": "고용보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강너굴",
+            "guild": "고용보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강쥐포",
+            "guild": "고용보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "강춘삼",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강덜덜",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강제주",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강나미",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강하",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "강똘끼",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강오라",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강하핑",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강타니",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "강사또",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강뻔짜",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강핑팽퐁",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강말숙",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강토깽",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강림이",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강연우",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강러셀",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강깨소금",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강냉이요정",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강빛구름",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강윤몽",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강북린도마고",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강쵸파",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강고도전",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강캔디",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "강독기",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강력",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강별심보험왕",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강백구",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강다온",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강아재",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "강누룽",
+            "guild": "고용보험",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강패티모",
+            "guild": "고용보험",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "강루다",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강윅",
+            "guild": "고용보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 92,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강너굴",
+            "guild": "고용보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강독기",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강똘끼",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강북일식",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강사또",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강춘삼",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "강력",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강덜덜",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강별심보험왕",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강뻔짜",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강제주",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강핑팽퐁",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강백구",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강말숙",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강쥐포",
+            "guild": "고용보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강토깽",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "강누룽",
+            "guild": "고용보험",
+            "class": "심연추방자",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강다온",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강오라",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 23,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강아재",
+            "guild": "고용보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "강북멋쟁이",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강림이",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강연우",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강패티모",
+            "guild": "고용보험",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강러셀",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강츄핑",
+            "guild": "고용보험",
+            "class": "야만투사",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강하핑",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "강깨소금",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강냉이요정",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강빛구름",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강윤몽",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강타니",
+            "guild": "고용보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강북린도마고",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강쵸파",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "강나미",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강고도전",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강캔디",
+            "guild": "고용보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "강하",
+            "guild": "고용보험",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "산재보험": {
+      "members": 43,
+      "byClass": {
+        "주문각인사": 12,
+        "집행관": 9,
+        "태양감시자": 7,
+        "향사수": 7,
+        "심연추방자": 6,
+        "야만투사": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "25": 8,
+        "24": 16,
+        "23": 9,
+        "22": 2,
+        "21": 4,
+        "20": 4
+      },
+      "membersList": [
+        {
+          "nickname": "마적",
+          "guild": "산재보험",
+          "class": "태양감시자",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "벨릭",
+          "guild": "산재보험",
+          "class": "심연추방자",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "새총",
+          "guild": "산재보험",
+          "class": "환영검사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "설윤",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "우달려",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "우홍차",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "교탁이",
+          "guild": "산재보험",
+          "class": "야만투사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "참교육",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 25,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "발코",
+          "guild": "산재보험",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 90,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "센스",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "수박",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "야르",
+          "guild": "산재보험",
+          "class": "심연추방자",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "투루",
+          "guild": "산재보험",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "김재경",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "누누야",
+          "guild": "산재보험",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "성진",
+          "guild": "산재보험",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "정시아",
+          "guild": "산재보험",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "죠리퐁",
+          "guild": "산재보험",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "추적",
+          "guild": "산재보험",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "크랙",
+          "guild": "산재보험",
+          "class": "심연추방자",
+          "grade": 24,
+          "level": 88,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "레드야",
+          "guild": "산재보험",
+          "class": "심연추방자",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "므이",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "이드하",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "체다",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 24,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "꼬꼬마",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "빡꾸",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "시팡",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "마적이",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "아안",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "아이디",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "아치",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "얼음별",
+          "guild": "산재보험",
+          "class": "향사수",
+          "grade": 23,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "조아조아",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "살로메",
+          "guild": "산재보험",
+          "class": "심연추방자",
+          "grade": 22,
+          "level": 86,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "우회전",
+          "guild": "산재보험",
+          "class": "심연추방자",
+          "grade": 22,
+          "level": 84,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "예술",
+          "guild": "산재보험",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "으아앙",
+          "guild": "산재보험",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "파랭이",
+          "guild": "산재보험",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "핸들",
+          "guild": "산재보험",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "HR",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "망토",
+          "guild": "산재보험",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "스윙",
+          "guild": "산재보험",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 82,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "유자차",
+          "guild": "산재보험",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 81,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "교탁이",
+            "guild": "산재보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ],
+        "심연추방자": [
+          {
+            "nickname": "벨릭",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "야르",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "크랙",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "레드야",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "살로메",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "우회전",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "마적",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "발코",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "투루",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "누누야",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "성진",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "정시아",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "스윙",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "새총",
+            "guild": "산재보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "우홍차",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "참교육",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "김재경",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "므이",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "이드하",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "꼬꼬마",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "시팡",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "마적이",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "아안",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "조아조아",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "HR",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "유자차",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 81,
+            "server": "론도 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "설윤",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "우달려",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "센스",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "수박",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "체다",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "빡꾸",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "아이디",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "아치",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "망토",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "죠리퐁",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "추적",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "얼음별",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "예술",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "으아앙",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "파랭이",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "핸들",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "마적",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "벨릭",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "새총",
+            "guild": "산재보험",
+            "class": "환영검사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "설윤",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "우달려",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "우홍차",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "교탁이",
+            "guild": "산재보험",
+            "class": "야만투사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "참교육",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 25,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "발코",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "센스",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "수박",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "야르",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "투루",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "김재경",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "누누야",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "성진",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "정시아",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "죠리퐁",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "추적",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "크랙",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 88,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "레드야",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "므이",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "이드하",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "체다",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "꼬꼬마",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "빡꾸",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "시팡",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "마적이",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "아안",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "아이디",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "아치",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "얼음별",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 23,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "조아조아",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "살로메",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 86,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "우회전",
+            "guild": "산재보험",
+            "class": "심연추방자",
+            "grade": 22,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "예술",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "으아앙",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "파랭이",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "핸들",
+            "guild": "산재보험",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "HR",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "망토",
+            "guild": "산재보험",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "스윙",
+            "guild": "산재보험",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 82,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "유자차",
+            "guild": "산재보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 81,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "실업급여": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "23": 1
+      },
+      "membersList": [
+        {
+          "nickname": "우흥차",
+          "guild": "실업급여",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "우흥차",
+            "guild": "실업급여",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "우흥차",
+            "guild": "실업급여",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "쉬어가": {
+      "members": 3,
+      "byClass": {
+        "집행관": 3
+      },
+      "byGrade": {
+        "22": 1,
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "카크",
+          "guild": "쉬어가",
+          "class": "집행관",
+          "grade": 22,
+          "level": 89,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "신베베",
+          "guild": "쉬어가",
+          "class": "집행관",
+          "grade": 20,
+          "level": 87,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "론카르",
+          "guild": "쉬어가",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "카크",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "신베베",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "론카르",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "22": [
+          {
+            "nickname": "카크",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 22,
+            "level": 89,
+            "server": "론도 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "신베베",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 87,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "론카르",
+            "guild": "쉬어가",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "나혼자레벨업": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "앵두조아",
+          "guild": "나혼자레벨업",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "앵두조아",
+            "guild": "나혼자레벨업",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "앵두조아",
+            "guild": "나혼자레벨업",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "해결사": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "철벽",
+          "guild": "해결사",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "철벽",
+            "guild": "해결사",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "철벽",
+            "guild": "해결사",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "참외서리범": {
+      "members": 1,
+      "byClass": {
+        "환영검사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "수박서리범",
+          "guild": "참외서리범",
+          "class": "환영검사",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "수박서리범",
+            "guild": "참외서리범",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "수박서리범",
+            "guild": "참외서리범",
+            "class": "환영검사",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "중립": {
+      "members": 2,
+      "byClass": {
+        "주문각인사": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "20": 2
+      },
+      "membersList": [
+        {
+          "nickname": "리라로",
+          "guild": "중립",
+          "class": "향사수",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 03"
+        },
+        {
+          "nickname": "약속이란",
+          "guild": "중립",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "리라로",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "약속이란",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "리라로",
+            "guild": "중립",
+            "class": "향사수",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          },
+          {
+            "nickname": "약속이란",
+            "guild": "중립",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "장기요양보험": {
+      "members": 1,
+      "byClass": {
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "센터",
+          "guild": "장기요양보험",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 84,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "센터",
+            "guild": "장기요양보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "센터",
+            "guild": "장기요양보험",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 84,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "양봉장": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "프응",
+          "guild": "양봉장",
+          "class": "집행관",
+          "grade": 20,
+          "level": 86,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "프응",
+            "guild": "양봉장",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "프응",
+            "guild": "양봉장",
+            "class": "집행관",
+            "grade": 20,
+            "level": 86,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "건드라라": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "스배라마",
+          "guild": "건드라라",
+          "class": "집행관",
+          "grade": 20,
+          "level": 85,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "스배라마",
+            "guild": "건드라라",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "스배라마",
+            "guild": "건드라라",
+            "class": "집행관",
+            "grade": 20,
+            "level": 85,
+            "server": "론도 03"
+          }
+        ]
+      }
+    },
+    "불꽃": {
+      "members": 1,
+      "byClass": {
+        "집행관": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "윤아",
+          "guild": "불꽃",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "론도 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "윤아",
+            "guild": "불꽃",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "윤아",
+            "guild": "불꽃",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "론도 03"
+          }
+        ]
+      }
+    }
+  }
+}

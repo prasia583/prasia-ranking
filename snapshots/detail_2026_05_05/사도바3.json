@@ -1,0 +1,1142 @@
+{
+  "server": "사도바 03",
+  "guilds": {
+    "포장마차": {
+      "members": 24,
+      "byClass": {
+        "집행관": 9,
+        "주문각인사": 7,
+        "야만투사": 3,
+        "향사수": 3,
+        "태양감시자": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "25": 2,
+        "24": 6,
+        "23": 3,
+        "22": 2,
+        "21": 8,
+        "20": 3
+      },
+      "membersList": [
+        {
+          "nickname": "대상포진",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "제라스",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 25,
+          "level": 91,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "잠깐실례할게용",
+          "guild": "포장마차",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 90,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "전방십미터접근금지",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "천공",
+          "guild": "포장마차",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "할부로힐준다",
+          "guild": "포장마차",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 89,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "아씨",
+          "guild": "포장마차",
+          "class": "향사수",
+          "grade": 24,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "피노",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 24,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "사또",
+          "guild": "포장마차",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 89,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "득춘이",
+          "guild": "포장마차",
+          "class": "야만투사",
+          "grade": 23,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "즐겜",
+          "guild": "포장마차",
+          "class": "환영검사",
+          "grade": 23,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "셀린느가는모모",
+          "guild": "포장마차",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "치킨족발떡볶이",
+          "guild": "포장마차",
+          "class": "주문각인사",
+          "grade": 22,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "산낙지",
+          "guild": "포장마차",
+          "class": "야만투사",
+          "grade": 21,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "연탄구이",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "온정",
+          "guild": "포장마차",
+          "class": "주문각인사",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "째끼랍",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "현수하고싶은거다해",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "반지",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 21,
+          "level": 85,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "별풍선",
+          "guild": "포장마차",
+          "class": "향사수",
+          "grade": 21,
+          "level": 85,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "샤갈",
+          "guild": "포장마차",
+          "class": "야만투사",
+          "grade": 21,
+          "level": 85,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "아사",
+          "guild": "포장마차",
+          "class": "향사수",
+          "grade": 20,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "함께하는즐거움",
+          "guild": "포장마차",
+          "class": "주문각인사",
+          "grade": 20,
+          "level": 85,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "월드콘",
+          "guild": "포장마차",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "집행관": [
+          {
+            "nickname": "대상포진",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "제라스",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "전방십미터접근금지",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "피노",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "연탄구이",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "째끼랍",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "현수하고싶은거다해",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "반지",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "월드콘",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "잠깐실례할게용",
+            "guild": "포장마차",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "사도바 03"
+          }
+        ],
+        "향사수": [
+          {
+            "nickname": "아씨",
+            "guild": "포장마차",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "별풍선",
+            "guild": "포장마차",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "아사",
+            "guild": "포장마차",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "천공",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "할부로힐준다",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "사또",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "셀린느가는모모",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "치킨족발떡볶이",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "온정",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "함께하는즐거움",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "사도바 03"
+          }
+        ],
+        "야만투사": [
+          {
+            "nickname": "득춘이",
+            "guild": "포장마차",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "산낙지",
+            "guild": "포장마차",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "샤갈",
+            "guild": "포장마차",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          }
+        ],
+        "환영검사": [
+          {
+            "nickname": "즐겜",
+            "guild": "포장마차",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "25": [
+          {
+            "nickname": "대상포진",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "제라스",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 25,
+            "level": 91,
+            "server": "사도바 03"
+          }
+        ],
+        "24": [
+          {
+            "nickname": "잠깐실례할게용",
+            "guild": "포장마차",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 90,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "전방십미터접근금지",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "천공",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "할부로힐준다",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "아씨",
+            "guild": "포장마차",
+            "class": "향사수",
+            "grade": 24,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "피노",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 24,
+            "level": 88,
+            "server": "사도바 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "사또",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "득춘이",
+            "guild": "포장마차",
+            "class": "야만투사",
+            "grade": 23,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "즐겜",
+            "guild": "포장마차",
+            "class": "환영검사",
+            "grade": 23,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "셀린느가는모모",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "치킨족발떡볶이",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 22,
+            "level": 88,
+            "server": "사도바 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "산낙지",
+            "guild": "포장마차",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "연탄구이",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "온정",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "째끼랍",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "현수하고싶은거다해",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "반지",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "별풍선",
+            "guild": "포장마차",
+            "class": "향사수",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "샤갈",
+            "guild": "포장마차",
+            "class": "야만투사",
+            "grade": 21,
+            "level": 85,
+            "server": "사도바 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "아사",
+            "guild": "포장마차",
+            "class": "향사수",
+            "grade": 20,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "함께하는즐거움",
+            "guild": "포장마차",
+            "class": "주문각인사",
+            "grade": 20,
+            "level": 85,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "월드콘",
+            "guild": "포장마차",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "동물원": {
+      "members": 8,
+      "byClass": {
+        "집행관": 5,
+        "야만투사": 1,
+        "주문각인사": 1,
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "24": 6,
+        "23": 1,
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "무서운도마뱀",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 24,
+          "level": 89,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운레서판다",
+          "guild": "동물원",
+          "class": "태양감시자",
+          "grade": 24,
+          "level": 89,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운알파카",
+          "guild": "동물원",
+          "class": "야만투사",
+          "grade": 24,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운로로맘",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 24,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운잠자리",
+          "guild": "동물원",
+          "class": "주문각인사",
+          "grade": 24,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운지렁이",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 24,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운까마귀",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 23,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "무서운너구리",
+          "guild": "동물원",
+          "class": "집행관",
+          "grade": 20,
+          "level": 83,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "야만투사": [
+          {
+            "nickname": "무서운알파카",
+            "guild": "동물원",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 88,
+            "server": "사도바 03"
+          }
+        ],
+        "태양감시자": [
+          {
+            "nickname": "무서운레서판다",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          }
+        ],
+        "주문각인사": [
+          {
+            "nickname": "무서운잠자리",
+            "guild": "동물원",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "무서운도마뱀",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운로로맘",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운지렁이",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 24,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운까마귀",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운너구리",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "24": [
+          {
+            "nickname": "무서운도마뱀",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운레서판다",
+            "guild": "동물원",
+            "class": "태양감시자",
+            "grade": 24,
+            "level": 89,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운알파카",
+            "guild": "동물원",
+            "class": "야만투사",
+            "grade": 24,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운로로맘",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 24,
+            "level": 87,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운잠자리",
+            "guild": "동물원",
+            "class": "주문각인사",
+            "grade": 24,
+            "level": 87,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "무서운지렁이",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 24,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ],
+        "23": [
+          {
+            "nickname": "무서운까마귀",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 23,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ],
+        "20": [
+          {
+            "nickname": "무서운너구리",
+            "guild": "동물원",
+            "class": "집행관",
+            "grade": 20,
+            "level": 83,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "메타버스": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "향사수": 1
+      },
+      "byGrade": {
+        "23": 1,
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "쿠야",
+          "guild": "메타버스",
+          "class": "향사수",
+          "grade": 23,
+          "level": 89,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "씨스타",
+          "guild": "메타버스",
+          "class": "집행관",
+          "grade": 21,
+          "level": 87,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "향사수": [
+          {
+            "nickname": "쿠야",
+            "guild": "메타버스",
+            "class": "향사수",
+            "grade": 23,
+            "level": 89,
+            "server": "사도바 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "씨스타",
+            "guild": "메타버스",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "쿠야",
+            "guild": "메타버스",
+            "class": "향사수",
+            "grade": 23,
+            "level": 89,
+            "server": "사도바 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "씨스타",
+            "guild": "메타버스",
+            "class": "집행관",
+            "grade": 21,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "어시스터": {
+      "members": 3,
+      "byClass": {
+        "집행관": 2,
+        "주문각인사": 1
+      },
+      "byGrade": {
+        "23": 1,
+        "22": 1,
+        "21": 1
+      },
+      "membersList": [
+        {
+          "nickname": "구름",
+          "guild": "어시스터",
+          "class": "주문각인사",
+          "grade": 23,
+          "level": 87,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "송현아",
+          "guild": "어시스터",
+          "class": "집행관",
+          "grade": 22,
+          "level": 86,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "아니키",
+          "guild": "어시스터",
+          "class": "집행관",
+          "grade": 21,
+          "level": 86,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "주문각인사": [
+          {
+            "nickname": "구름",
+            "guild": "어시스터",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "송현아",
+            "guild": "어시스터",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "아니키",
+            "guild": "어시스터",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "23": [
+          {
+            "nickname": "구름",
+            "guild": "어시스터",
+            "class": "주문각인사",
+            "grade": 23,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ],
+        "22": [
+          {
+            "nickname": "송현아",
+            "guild": "어시스터",
+            "class": "집행관",
+            "grade": 22,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ],
+        "21": [
+          {
+            "nickname": "아니키",
+            "guild": "어시스터",
+            "class": "집행관",
+            "grade": 21,
+            "level": 86,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "에덴": {
+      "members": 2,
+      "byClass": {
+        "집행관": 1,
+        "환영검사": 1
+      },
+      "byGrade": {
+        "21": 2
+      },
+      "membersList": [
+        {
+          "nickname": "베카",
+          "guild": "에덴",
+          "class": "환영검사",
+          "grade": 21,
+          "level": 88,
+          "server": "사도바 03"
+        },
+        {
+          "nickname": "한남자",
+          "guild": "에덴",
+          "class": "집행관",
+          "grade": 21,
+          "level": 88,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "환영검사": [
+          {
+            "nickname": "베카",
+            "guild": "에덴",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 88,
+            "server": "사도바 03"
+          }
+        ],
+        "집행관": [
+          {
+            "nickname": "한남자",
+            "guild": "에덴",
+            "class": "집행관",
+            "grade": 21,
+            "level": 88,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "21": [
+          {
+            "nickname": "베카",
+            "guild": "에덴",
+            "class": "환영검사",
+            "grade": 21,
+            "level": 88,
+            "server": "사도바 03"
+          },
+          {
+            "nickname": "한남자",
+            "guild": "에덴",
+            "class": "집행관",
+            "grade": 21,
+            "level": 88,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    },
+    "패": {
+      "members": 1,
+      "byClass": {
+        "태양감시자": 1
+      },
+      "byGrade": {
+        "20": 1
+      },
+      "membersList": [
+        {
+          "nickname": "뱀파이어",
+          "guild": "패",
+          "class": "태양감시자",
+          "grade": 20,
+          "level": 87,
+          "server": "사도바 03"
+        }
+      ],
+      "byClassMembers": {
+        "태양감시자": [
+          {
+            "nickname": "뱀파이어",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ]
+      },
+      "byGradeMembers": {
+        "20": [
+          {
+            "nickname": "뱀파이어",
+            "guild": "패",
+            "class": "태양감시자",
+            "grade": 20,
+            "level": 87,
+            "server": "사도바 03"
+          }
+        ]
+      }
+    }
+  }
+}

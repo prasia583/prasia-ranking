@@ -1,0 +1,575 @@
+{
+  "label": "2026-05-05",
+  "file": "ranking_2026_05_05.json",
+  "levelSheet": "레벨별통계",
+  "huntSheet": "토벌등급별통계",
+  "levelStats": [
+    {
+      "level": "93",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "92",
+      "count": 66,
+      "ratio": 0.002
+    },
+    {
+      "level": "91",
+      "count": 239,
+      "ratio": 0.0071
+    },
+    {
+      "level": "90",
+      "count": 357,
+      "ratio": 0.0107
+    },
+    {
+      "level": "89",
+      "count": 385,
+      "ratio": 0.0115
+    },
+    {
+      "level": "88",
+      "count": 451,
+      "ratio": 0.0135
+    },
+    {
+      "level": "87",
+      "count": 476,
+      "ratio": 0.0142
+    },
+    {
+      "level": "86",
+      "count": 544,
+      "ratio": 0.0162
+    },
+    {
+      "level": "85",
+      "count": 570,
+      "ratio": 0.017
+    },
+    {
+      "level": "84",
+      "count": 586,
+      "ratio": 0.0175
+    },
+    {
+      "level": "83",
+      "count": 655,
+      "ratio": 0.0195
+    },
+    {
+      "level": "82",
+      "count": 713,
+      "ratio": 0.0213
+    },
+    {
+      "level": "81",
+      "count": 784,
+      "ratio": 0.0234
+    },
+    {
+      "level": "80",
+      "count": 844,
+      "ratio": 0.0252
+    },
+    {
+      "level": "79",
+      "count": 865,
+      "ratio": 0.0258
+    },
+    {
+      "level": "78",
+      "count": 974,
+      "ratio": 0.0291
+    },
+    {
+      "level": "77",
+      "count": 1007,
+      "ratio": 0.0301
+    },
+    {
+      "level": "76",
+      "count": 851,
+      "ratio": 0.0254
+    },
+    {
+      "level": "75",
+      "count": 888,
+      "ratio": 0.0265
+    },
+    {
+      "level": "74",
+      "count": 719,
+      "ratio": 0.0215
+    },
+    {
+      "level": "73",
+      "count": 986,
+      "ratio": 0.0294
+    },
+    {
+      "level": "72",
+      "count": 1470,
+      "ratio": 0.0439
+    },
+    {
+      "level": "71",
+      "count": 1464,
+      "ratio": 0.0437
+    },
+    {
+      "level": "70",
+      "count": 1384,
+      "ratio": 0.0413
+    },
+    {
+      "level": "69",
+      "count": 1276,
+      "ratio": 0.0381
+    },
+    {
+      "level": "68",
+      "count": 1297,
+      "ratio": 0.0387
+    },
+    {
+      "level": "67",
+      "count": 1275,
+      "ratio": 0.0381
+    },
+    {
+      "level": "66",
+      "count": 1186,
+      "ratio": 0.0354
+    },
+    {
+      "level": "65",
+      "count": 5323,
+      "ratio": 0.1589
+    },
+    {
+      "level": "64",
+      "count": 720,
+      "ratio": 0.0215
+    },
+    {
+      "level": "63",
+      "count": 557,
+      "ratio": 0.0166
+    },
+    {
+      "level": "62",
+      "count": 416,
+      "ratio": 0.0124
+    },
+    {
+      "level": "61",
+      "count": 439,
+      "ratio": 0.0131
+    },
+    {
+      "level": "60",
+      "count": 561,
+      "ratio": 0.0167
+    },
+    {
+      "level": "59",
+      "count": 215,
+      "ratio": 0.0064
+    },
+    {
+      "level": "58",
+      "count": 207,
+      "ratio": 0.0062
+    },
+    {
+      "level": "57",
+      "count": 165,
+      "ratio": 0.0049
+    },
+    {
+      "level": "56",
+      "count": 86,
+      "ratio": 0.0026
+    },
+    {
+      "level": "55",
+      "count": 128,
+      "ratio": 0.0038
+    },
+    {
+      "level": "54",
+      "count": 99,
+      "ratio": 0.003
+    },
+    {
+      "level": "53",
+      "count": 100,
+      "ratio": 0.003
+    },
+    {
+      "level": "52",
+      "count": 84,
+      "ratio": 0.0025
+    },
+    {
+      "level": "51",
+      "count": 80,
+      "ratio": 0.0024
+    },
+    {
+      "level": "50",
+      "count": 79,
+      "ratio": 0.0024
+    },
+    {
+      "level": "49",
+      "count": 155,
+      "ratio": 0.0046
+    },
+    {
+      "level": "48",
+      "count": 109,
+      "ratio": 0.0033
+    },
+    {
+      "level": "47",
+      "count": 82,
+      "ratio": 0.0024
+    },
+    {
+      "level": "46",
+      "count": 77,
+      "ratio": 0.0023
+    },
+    {
+      "level": "45",
+      "count": 76,
+      "ratio": 0.0023
+    },
+    {
+      "level": "44",
+      "count": 25,
+      "ratio": 0.0007
+    },
+    {
+      "level": "43",
+      "count": 20,
+      "ratio": 0.0006
+    },
+    {
+      "level": "42",
+      "count": 29,
+      "ratio": 0.0009
+    },
+    {
+      "level": "41",
+      "count": 24,
+      "ratio": 0.0007
+    },
+    {
+      "level": "40",
+      "count": 25,
+      "ratio": 0.0007
+    },
+    {
+      "level": "39",
+      "count": 42,
+      "ratio": 0.0013
+    },
+    {
+      "level": "38",
+      "count": 15,
+      "ratio": 0.0004
+    },
+    {
+      "level": "37",
+      "count": 19,
+      "ratio": 0.0006
+    },
+    {
+      "level": "36",
+      "count": 28,
+      "ratio": 0.0008
+    },
+    {
+      "level": "35",
+      "count": 31,
+      "ratio": 0.0009
+    },
+    {
+      "level": "34",
+      "count": 25,
+      "ratio": 0.0007
+    },
+    {
+      "level": "33",
+      "count": 18,
+      "ratio": 0.0005
+    },
+    {
+      "level": "32",
+      "count": 31,
+      "ratio": 0.0009
+    },
+    {
+      "level": "31",
+      "count": 599,
+      "ratio": 0.0179
+    },
+    {
+      "level": "30",
+      "count": 313,
+      "ratio": 0.0093
+    },
+    {
+      "level": "27",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "25",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "24",
+      "count": 3,
+      "ratio": 0.0001
+    },
+    {
+      "level": "21",
+      "count": 1,
+      "ratio": 0
+    },
+    {
+      "level": "20",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "19",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "18",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "16",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "15",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "14",
+      "count": 1,
+      "ratio": 0
+    },
+    {
+      "level": "13",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "12",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "11",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "10",
+      "count": 3,
+      "ratio": 0.0001
+    },
+    {
+      "level": "9",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "8",
+      "count": 5,
+      "ratio": 0.0001
+    },
+    {
+      "level": "7",
+      "count": 2,
+      "ratio": 0.0001
+    },
+    {
+      "level": "6",
+      "count": 6,
+      "ratio": 0.0002
+    },
+    {
+      "level": "4",
+      "count": 19,
+      "ratio": 0.0006
+    },
+    {
+      "level": "3",
+      "count": 7,
+      "ratio": 0.0002
+    },
+    {
+      "level": "2",
+      "count": 40,
+      "ratio": 0.0012
+    },
+    {
+      "level": "1",
+      "count": 49,
+      "ratio": 0.0015
+    },
+    {
+      "level": "0",
+      "count": 33,
+      "ratio": 0.001
+    }
+  ],
+  "huntGradeStats": [
+    {
+      "grade": "25",
+      "count": 587,
+      "ratio": 0.0175
+    },
+    {
+      "grade": "24",
+      "count": 590,
+      "ratio": 0.0176
+    },
+    {
+      "grade": "23",
+      "count": 470,
+      "ratio": 0.014
+    },
+    {
+      "grade": "22",
+      "count": 465,
+      "ratio": 0.0139
+    },
+    {
+      "grade": "21",
+      "count": 770,
+      "ratio": 0.023
+    },
+    {
+      "grade": "20",
+      "count": 778,
+      "ratio": 0.0232
+    },
+    {
+      "grade": "19",
+      "count": 887,
+      "ratio": 0.0265
+    },
+    {
+      "grade": "18",
+      "count": 789,
+      "ratio": 0.0235
+    },
+    {
+      "grade": "17",
+      "count": 1422,
+      "ratio": 0.0424
+    },
+    {
+      "grade": "16",
+      "count": 1119,
+      "ratio": 0.0334
+    },
+    {
+      "grade": "15",
+      "count": 2758,
+      "ratio": 0.0823
+    },
+    {
+      "grade": "14",
+      "count": 1223,
+      "ratio": 0.0365
+    },
+    {
+      "grade": "13",
+      "count": 1438,
+      "ratio": 0.0429
+    },
+    {
+      "grade": "12",
+      "count": 1387,
+      "ratio": 0.0414
+    },
+    {
+      "grade": "11",
+      "count": 1597,
+      "ratio": 0.0477
+    },
+    {
+      "grade": "10",
+      "count": 2544,
+      "ratio": 0.0759
+    },
+    {
+      "grade": "9",
+      "count": 1076,
+      "ratio": 0.0321
+    },
+    {
+      "grade": "8",
+      "count": 827,
+      "ratio": 0.0247
+    },
+    {
+      "grade": "7",
+      "count": 891,
+      "ratio": 0.0266
+    },
+    {
+      "grade": "6",
+      "count": 586,
+      "ratio": 0.0175
+    },
+    {
+      "grade": "5",
+      "count": 465,
+      "ratio": 0.0139
+    },
+    {
+      "grade": "4",
+      "count": 600,
+      "ratio": 0.0179
+    },
+    {
+      "grade": "3",
+      "count": 380,
+      "ratio": 0.0113
+    },
+    {
+      "grade": "2",
+      "count": 545,
+      "ratio": 0.0163
+    },
+    {
+      "grade": "1",
+      "count": 9280,
+      "ratio": 0.277
+    },
+    {
+      "grade": "0",
+      "count": 33,
+      "ratio": 0.001
+    }
+  ]
+}
