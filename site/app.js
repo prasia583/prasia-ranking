@@ -970,6 +970,76 @@ function hideMemberListModal(){
   const modal = document.getElementById("memberListModal");
   if (modal) modal.style.display = "none";
 }
+function buildClassRatioHtml(rows){
+  const list = Array.isArray(rows) ? rows : [];
+  const total = list.length;
+
+  if (!total) return "";
+
+  const map = {};
+
+  for (const row of list) {
+    const cls = normalizeText(row?.class || "기타");
+    map[cls] = (map[cls] || 0) + 1;
+  }
+
+  const entries = Object.entries(map).sort((a, b) => b[1] - a[1]);
+
+  let html = `
+    <div style="
+      margin: 14px 0 16px;
+      padding: 14px;
+      border: 1px solid #23324a;
+      border-radius: 12px;
+      background: rgba(15, 23, 38, .75);
+    ">
+      <div style="font-weight:900; font-size:17px; margin-bottom:10px;">
+        직업 분포
+      </div>
+
+      <div style="display:flex; flex-wrap:wrap; gap:8px;">
+  `;
+
+  for (const [cls, count] of entries) {
+    const ratio = total
+      ? ((count / total) * 100).toFixed(1)
+      : "0.0";
+
+    html += `
+      <span style="
+        display:inline-flex;
+        align-items:center;
+        gap:6px;
+        padding:8px 10px;
+        border:1px solid #2b3c5c;
+        border-radius:999px;
+        background:#111a2a;
+        color:#fff;
+        font-weight:800;
+        font-size:14px;
+      ">
+        <span style="color:#7fb0ff;">
+          ${escapeHtml(cls)}
+        </span>
+
+        <span>
+          ${count.toLocaleString("ko-KR")}명
+        </span>
+
+        <span style="opacity:.8;">
+          ${ratio}%
+        </span>
+      </span>
+    `;
+  }
+
+  html += `
+      </div>
+    </div>
+  `;
+
+  return html;
+}
 function sortMemberRows(rows, sortType = "grade"){
   const list = Array.isArray(rows) ? [...rows] : [];
 
@@ -1100,7 +1170,14 @@ function renderMemberListModal(){
   }
 
   if (wrapEl) {
-    let html = `
+    const classRatioHtml =
+  type === "grade" || type === "guild-grade"
+    ? buildClassRatioHtml(sortedRows)
+    : "";
+
+let html = `
+      ${classRatioHtml}
+
       <div style="display:flex; justify-content:flex-end; margin-bottom:12px;">
         <select id="mlSort" style="padding:8px 10px; background:#0f1726; color:#fff; border:1px solid #23324a; border-radius:8px;">
           <option value="grade" ${sort === "grade" ? "selected" : ""}>기본정렬(등급/레벨)</option>
